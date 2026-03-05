@@ -1,7 +1,4 @@
-/**
- * 课程目录列表
- */
-export const lessons:Record<string,any>[] = [
+[
   {
     "id": 1,
     "number": "1",

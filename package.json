@@ -4,10 +4,6 @@
   "description": "静态资源工程",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc && cp -r src/* dist/ && find dist -name '*.ts' -delete && find dist -name '*.js' -exec terser {} -o {} --compress --mangle \\;"
-  },
-  "devDependencies": {
-    "terser": "^5.46.0",
-    "typescript": "^4.9.0"
+    "build": "mkdir -p dist && cp -r src/* dist/ && find dist -name '*.json' -exec python3 -c 'import json; d=json.load(open(\"{}\")); json.dump(d, open(\"{}\", \"w\"), separators=(\",\", \":\"), ensure_ascii=False)' \\;"
   }
 }
