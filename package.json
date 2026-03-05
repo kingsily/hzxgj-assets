@@ -4,6 +4,6 @@
   "description": "静态资源工程",
   "main": "dist/index.js",
   "scripts": {
-    "build": "mkdir -p dist && cp -r src/* dist/ && find dist -name '*.json' -exec python3 -c 'import json; d=json.load(open(\"{}\")); json.dump(d, open(\"{}\", \"w\"), separators=(\",\", \":\"), ensure_ascii=False)' \\;"
+    "build": "rm -rf dist && mkdir -p dist && cp -r src/* dist/ && find dist -name '*.json' -exec python3 -c 'import json; d=json.load(open(\"{}\")); json.dump(d, open(\"{}\", \"w\"), separators=(\",\", \":\"), ensure_ascii=False)' \\;"
   }
 }
