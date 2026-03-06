@@ -1,0 +1,4222 @@
+{
+  "1": {
+    "title": "古诗三首",
+    "words": [
+      {
+        "char": "鸳",
+        "pinyin": "yuān",
+        "compounds": [
+          "鸳鸯"
+        ]
+      },
+      {
+        "char": "鸯",
+        "pinyin": "yāng",
+        "compounds": [
+          "鸳鸯"
+        ]
+      },
+      {
+        "char": "惠",
+        "pinyin": "huì",
+        "compounds": [
+          "恩惠",
+          "实惠",
+          "优惠"
+        ]
+      },
+      {
+        "char": "崇",
+        "pinyin": "chóng",
+        "compounds": [
+          "崇高",
+          "崇拜",
+          "崇敬"
+        ]
+      },
+      {
+        "char": "豚",
+        "pinyin": "tún",
+        "compounds": [
+          "河豚",
+          "海豚"
+        ]
+      },
+      {
+        "char": "曾",
+        "pinyin": "céng",
+        "compounds": [
+          "曾经",
+          "未曾"
+        ]
+      },
+      {
+        "char": "梅",
+        "pinyin": "méi",
+        "compounds": [
+          "梅花",
+          "腊梅",
+          "梅子"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "融",
+        "pinyin": "róng",
+        "compounds": [
+          "融化",
+          "融合",
+          "融洽"
+        ]
+      },
+      {
+        "char": "燕",
+        "pinyin": "yàn",
+        "compounds": [
+          "燕子",
+          "海燕",
+          "燕窝"
+        ]
+      },
+      {
+        "char": "鸳",
+        "pinyin": "yuān",
+        "compounds": [
+          "鸳鸯"
+        ]
+      },
+      {
+        "char": "鸯",
+        "pinyin": "yāng",
+        "compounds": [
+          "鸳鸯"
+        ]
+      },
+      {
+        "char": "惠",
+        "pinyin": "huì",
+        "compounds": [
+          "恩惠",
+          "实惠",
+          "优惠"
+        ]
+      },
+      {
+        "char": "崇",
+        "pinyin": "chóng",
+        "compounds": [
+          "崇高",
+          "崇拜",
+          "崇敬"
+        ]
+      },
+      {
+        "char": "芽",
+        "pinyin": "yá",
+        "compounds": [
+          "发芽",
+          "嫩芽",
+          "豆芽"
+        ]
+      },
+      {
+        "char": "梅",
+        "pinyin": "méi",
+        "compounds": [
+          "梅花",
+          "腊梅",
+          "梅子"
+        ]
+      },
+      {
+        "char": "泛",
+        "pinyin": "fàn",
+        "compounds": [
+          "泛舟",
+          "广泛",
+          "泛滥"
+        ]
+      },
+      {
+        "char": "减",
+        "pinyin": "jiǎn",
+        "compounds": [
+          "减少",
+          "减法",
+          "减轻"
+        ]
+      }
+    ]
+  },
+  "2": {
+    "title": "燕子",
+    "words": [
+      {
+        "char": "凑",
+        "pinyin": "còu",
+        "compounds": [
+          "凑巧",
+          "凑合"
+        ]
+      },
+      {
+        "char": "伶",
+        "pinyin": "líng",
+        "compounds": [
+          "伶俐",
+          "伶仃"
+        ]
+      },
+      {
+        "char": "俐",
+        "pinyin": "lì",
+        "compounds": [
+          "伶俐",
+          "俐落"
+        ]
+      },
+      {
+        "char": "旷",
+        "pinyin": "kuàng",
+        "compounds": [
+          "空旷",
+          "旷野"
+        ]
+      },
+      {
+        "char": "横",
+        "pinyin": "héng",
+        "compounds": [
+          "横向",
+          "横跨"
+        ]
+      },
+      {
+        "char": "翼",
+        "pinyin": "yì",
+        "compounds": [
+          "羽翼",
+          "机翼"
+        ]
+      },
+      {
+        "char": "漾",
+        "pinyin": "yàng",
+        "compounds": [
+          "荡漾",
+          "漾开"
+        ]
+      },
+      {
+        "char": "倦",
+        "pinyin": "juàn",
+        "compounds": [
+          "疲倦",
+          "厌倦"
+        ]
+      },
+      {
+        "char": "散",
+        "pinyin": "sàn",
+        "compounds": [
+          "散步",
+          "分散"
+        ]
+      },
+      {
+        "char": "纤",
+        "pinyin": "xiān",
+        "compounds": [
+          "纤细",
+          "纤维"
+        ]
+      },
+      {
+        "char": "杆",
+        "pinyin": "gān",
+        "compounds": [
+          "旗杆",
+          "标杆"
+        ]
+      },
+      {
+        "char": "痕",
+        "pinyin": "hén",
+        "compounds": [
+          "痕迹",
+          "伤痕"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "凑",
+        "pinyin": "còu",
+        "compounds": [
+          "凑成",
+          "凑合",
+          "凑齐"
+        ]
+      },
+      {
+        "char": "泼",
+        "pinyin": "pō",
+        "compounds": [
+          "活泼",
+          "泼水"
+        ]
+      },
+      {
+        "char": "集",
+        "pinyin": "jí",
+        "compounds": [
+          "集合",
+          "集中",
+          "赶集"
+        ]
+      },
+      {
+        "char": "偶",
+        "pinyin": "ǒu",
+        "compounds": [
+          "偶尔",
+          "偶然"
+        ]
+      },
+      {
+        "char": "尔",
+        "pinyin": "ěr",
+        "compounds": [
+          "偶尔",
+          "尔后"
+        ]
+      },
+      {
+        "char": "沾",
+        "pinyin": "zhān",
+        "compounds": [
+          "沾水",
+          "沾边"
+        ]
+      },
+      {
+        "char": "闲",
+        "pinyin": "xián",
+        "compounds": [
+          "空闲",
+          "悠闲"
+        ]
+      },
+      {
+        "char": "纤",
+        "pinyin": "xiān",
+        "compounds": [
+          "纤细",
+          "纤维"
+        ]
+      },
+      {
+        "char": "杆",
+        "pinyin": "gān",
+        "compounds": [
+          "旗杆",
+          "标杆"
+        ]
+      }
+    ]
+  },
+  "3": {
+    "title": "荷花",
+    "words": [
+      {
+        "char": "挨",
+        "pinyin": "āi",
+        "compounds": [
+          "挨近",
+          "挨边"
+        ]
+      },
+      {
+        "char": "蓬",
+        "pinyin": "péng",
+        "compounds": [
+          "莲蓬",
+          "蓬松"
+        ]
+      },
+      {
+        "char": "胀",
+        "pinyin": "zhàng",
+        "compounds": [
+          "饱胀",
+          "膨胀"
+        ]
+      },
+      {
+        "char": "裳",
+        "pinyin": "shang",
+        "compounds": [
+          "衣裳",
+          "罗裳"
+        ]
+      },
+      {
+        "char": "翩",
+        "pinyin": "piān",
+        "compounds": [
+          "翩翩起舞",
+          "翩然"
+        ]
+      },
+      {
+        "char": "蜻",
+        "pinyin": "qīng",
+        "compounds": [
+          "蜻蜓"
+        ]
+      },
+      {
+        "char": "蜓",
+        "pinyin": "tíng",
+        "compounds": [
+          "蜻蜓"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "荷",
+        "pinyin": "hé",
+        "compounds": [
+          "荷花",
+          "荷叶"
+        ]
+      },
+      {
+        "char": "紧",
+        "pinyin": "jǐn",
+        "compounds": [
+          "紧急",
+          "抓紧"
+        ]
+      },
+      {
+        "char": "挨",
+        "pinyin": "āi",
+        "compounds": [
+          "挨挨挤挤",
+          "挨家挨户"
+        ]
+      },
+      {
+        "char": "蓬",
+        "pinyin": "péng",
+        "compounds": [
+          "莲蓬",
+          "蓬乱"
+        ]
+      },
+      {
+        "char": "胀",
+        "pinyin": "zhàng",
+        "compounds": [
+          "肿胀",
+          "饱胀"
+        ]
+      },
+      {
+        "char": "裂",
+        "pinyin": "liè",
+        "compounds": [
+          "裂开",
+          "破裂"
+        ]
+      },
+      {
+        "char": "姿",
+        "pinyin": "zī",
+        "compounds": [
+          "姿势",
+          "姿态"
+        ]
+      },
+      {
+        "char": "势",
+        "pinyin": "shì",
+        "compounds": [
+          "势力",
+          "姿势"
+        ]
+      },
+      {
+        "char": "微",
+        "pinyin": "wēi",
+        "compounds": [
+          "微小",
+          "轻微"
+        ]
+      },
+      {
+        "char": "记",
+        "pinyin": "jì",
+        "compounds": [
+          "记住",
+          "忘记"
+        ]
+      }
+    ]
+  },
+  "4": {
+    "title": "昆虫备忘录",
+    "words": [
+      {
+        "char": "录",
+        "pinyin": "lù",
+        "compounds": [
+          "录像",
+          "记录"
+        ]
+      },
+      {
+        "char": "琢",
+        "pinyin": "zhuó",
+        "compounds": [
+          "琢磨",
+          "雕琢"
+        ]
+      },
+      {
+        "char": "敏",
+        "pinyin": "mǐn",
+        "compounds": [
+          "敏捷",
+          "敏锐"
+        ]
+      },
+      {
+        "char": "款",
+        "pinyin": "kuǎn",
+        "compounds": [
+          "款式",
+          "款待"
+        ]
+      },
+      {
+        "char": "膜",
+        "pinyin": "mó",
+        "compounds": [
+          "面膜",
+          "薄膜"
+        ]
+      },
+      {
+        "char": "瞎",
+        "pinyin": "xiā",
+        "compounds": [
+          "瞎说",
+          "瞎眼"
+        ]
+      },
+      {
+        "char": "益",
+        "pinyin": "yì",
+        "compounds": [
+          "益虫",
+          "利益"
+        ]
+      },
+      {
+        "char": "辆",
+        "pinyin": "liàng",
+        "compounds": [
+          "车辆",
+          "一辆"
+        ]
+      },
+      {
+        "char": "蚂",
+        "pinyin": "mà",
+        "compounds": [
+          "蚂蚱"
+        ]
+      },
+      {
+        "char": "斑",
+        "pinyin": "bān",
+        "compounds": [
+          "斑点",
+          "斑马"
+        ]
+      },
+      {
+        "char": "褐",
+        "pinyin": "hè",
+        "compounds": [
+          "褐色",
+          "短褐"
+        ]
+      }
+    ],
+    "mainWords": []
+  },
+  "unit1": {
+    "title": "语文园地一",
+    "words": [],
+    "mainWords": [
+      {
+        "char": "匕",
+        "pinyin": "bǐ",
+        "compounds": [
+          "匕首"
+        ]
+      },
+      {
+        "char": "忆",
+        "pinyin": "yì",
+        "compounds": [
+          "回忆",
+          "记忆"
+        ]
+      },
+      {
+        "char": "艺",
+        "pinyin": "yì",
+        "compounds": [
+          "艺术",
+          "才艺"
+        ]
+      },
+      {
+        "char": "乙",
+        "pinyin": "yǐ",
+        "compounds": [
+          "乙方"
+        ]
+      },
+      {
+        "char": "冗",
+        "pinyin": "rǒng",
+        "compounds": [
+          "冗长",
+          "冗杂"
+        ]
+      },
+      {
+        "char": "犬",
+        "pinyin": "quǎn",
+        "compounds": [
+          "军犬",
+          "犬吠"
+        ]
+      },
+      {
+        "char": "税",
+        "pinyin": "shuì",
+        "compounds": [
+          "税收",
+          "税务"
+        ]
+      },
+      {
+        "char": "兑",
+        "pinyin": "duì",
+        "compounds": [
+          "兑换",
+          "兑现"
+        ]
+      },
+      {
+        "char": "执",
+        "pinyin": "zhí",
+        "compounds": [
+          "执行",
+          "执着"
+        ]
+      }
+    ]
+  },
+  "5": {
+    "title": "守株待兔",
+    "words": [
+      {
+        "char": "耕",
+        "pinyin": "gēng",
+        "compounds": [
+          "耕地",
+          "耕牛"
+        ]
+      },
+      {
+        "char": "释",
+        "pinyin": "shì",
+        "compounds": [
+          "释放",
+          "解释"
+        ]
+      },
+      {
+        "char": "冀",
+        "pinyin": "jì",
+        "compounds": [
+          "冀求",
+          "冀望"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "守",
+        "pinyin": "shǒu",
+        "compounds": [
+          "守护",
+          "防守"
+        ]
+      },
+      {
+        "char": "株",
+        "pinyin": "zhū",
+        "compounds": [
+          "植株",
+          "株连"
+        ]
+      },
+      {
+        "char": "待",
+        "pinyin": "dài",
+        "compounds": [
+          "等待",
+          "对待"
+        ]
+      },
+      {
+        "char": "宋",
+        "pinyin": "sòng",
+        "compounds": [
+          "宋国",
+          "宋朝"
+        ]
+      },
+      {
+        "char": "耕",
+        "pinyin": "gēng",
+        "compounds": [
+          "耕地",
+          "耕种"
+        ]
+      },
+      {
+        "char": "折",
+        "pinyin": "zhé",
+        "compounds": [
+          "打折",
+          "折断"
+        ]
+      },
+      {
+        "char": "颈",
+        "pinyin": "jǐng",
+        "compounds": [
+          "颈部",
+          "瓶颈"
+        ]
+      },
+      {
+        "char": "释",
+        "pinyin": "shì",
+        "compounds": [
+          "解释",
+          "释放"
+        ]
+      },
+      {
+        "char": "其",
+        "pinyin": "qí",
+        "compounds": [
+          "其次",
+          "其实"
+        ]
+      },
+      {
+        "char": "复",
+        "pinyin": "fù",
+        "compounds": [
+          "复习",
+          "反复"
+        ]
+      }
+    ]
+  },
+  "6": {
+    "title": "会摇尾巴的狼",
+    "words": [
+      {
+        "char": "模",
+        "pinyin": "mó",
+        "compounds": [
+          "模样",
+          "模型"
+        ]
+      },
+      {
+        "char": "驯",
+        "pinyin": "xùn",
+        "compounds": [
+          "驯化",
+          "驯服"
+        ]
+      },
+      {
+        "char": "良",
+        "pinyin": "liáng",
+        "compounds": [
+          "优良",
+          "良好"
+        ]
+      },
+      {
+        "char": "毫",
+        "pinyin": "háo",
+        "compounds": [
+          "毫米",
+          "丝毫"
+        ]
+      },
+      {
+        "char": "犹",
+        "pinyin": "yóu",
+        "compounds": [
+          "犹如",
+          "犹豫"
+        ]
+      },
+      {
+        "char": "豫",
+        "pinyin": "yù",
+        "compounds": [
+          "犹豫"
+        ]
+      },
+      {
+        "char": "狡",
+        "pinyin": "jiǎo",
+        "compounds": [
+          "狡猾",
+          "狡诈"
+        ]
+      },
+      {
+        "char": "猾",
+        "pinyin": "huá",
+        "compounds": [
+          "狡猾"
+        ]
+      },
+      {
+        "char": "凶",
+        "pinyin": "xiōng",
+        "compounds": [
+          "凶狠",
+          "凶恶"
+        ]
+      },
+      {
+        "char": "恶",
+        "pinyin": "è",
+        "compounds": [
+          "恶毒",
+          "恶劣"
+        ]
+      },
+      {
+        "char": "相",
+        "pinyin": "xiāng",
+        "compounds": [
+          "相片",
+          "相信"
+        ]
+      },
+      {
+        "char": "狠",
+        "pinyin": "hěn",
+        "compounds": [
+          "狠毒",
+          "狠辣"
+        ]
+      },
+      {
+        "char": "猎",
+        "pinyin": "liè",
+        "compounds": [
+          "猎人",
+          "猎取"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "装",
+        "pinyin": "zhuāng",
+        "compounds": [
+          "装修",
+          "服装"
+        ]
+      },
+      {
+        "char": "驯",
+        "pinyin": "xùn",
+        "compounds": [
+          "驯养",
+          "驯良"
+        ]
+      },
+      {
+        "char": "良",
+        "pinyin": "liáng",
+        "compounds": [
+          "善良",
+          "优良"
+        ]
+      },
+      {
+        "char": "善",
+        "pinyin": "shàn",
+        "compounds": [
+          "友善",
+          "善良"
+        ]
+      },
+      {
+        "char": "伸",
+        "pinyin": "shēn",
+        "compounds": [
+          "伸手",
+          "伸展"
+        ]
+      },
+      {
+        "char": "谢",
+        "pinyin": "xiè",
+        "compounds": [
+          "谢谢",
+          "感谢"
+        ]
+      },
+      {
+        "char": "尘",
+        "pinyin": "chén",
+        "compounds": [
+          "尘土",
+          "灰尘"
+        ]
+      },
+      {
+        "char": "凶",
+        "pinyin": "xiōng",
+        "compounds": [
+          "凶手",
+          "凶恶"
+        ]
+      },
+      {
+        "char": "恶",
+        "pinyin": "è",
+        "compounds": [
+          "恶霸",
+          "恶劣"
+        ]
+      },
+      {
+        "char": "狠",
+        "pinyin": "hěn",
+        "compounds": [
+          "狠心",
+          "凶狠"
+        ]
+      },
+      {
+        "char": "猎",
+        "pinyin": "liè",
+        "compounds": [
+          "猎物",
+          "猎人"
+        ]
+      },
+      {
+        "char": "拾",
+        "pinyin": "shí",
+        "compounds": [
+          "拾起",
+          "拾取"
+        ]
+      }
+    ]
+  },
+  "7": {
+    "title": "鹿角和鹿腿",
+    "words": [
+      {
+        "char": "匀",
+        "pinyin": "yún",
+        "compounds": [
+          "匀称",
+          "匀称"
+        ]
+      },
+      {
+        "char": "称",
+        "pinyin": "chèn",
+        "compounds": [
+          "匀称",
+          "对称"
+        ]
+      },
+      {
+        "char": "皱",
+        "pinyin": "zhòu",
+        "compounds": [
+          "皱纹",
+          "褶皱"
+        ]
+      },
+      {
+        "char": "配",
+        "pinyin": "pèi",
+        "compounds": [
+          "配合",
+          "分配"
+        ]
+      },
+      {
+        "char": "撒",
+        "pinyin": "sā",
+        "compounds": [
+          "撒手",
+          "扯开"
+        ]
+      },
+      {
+        "char": "扯",
+        "pinyin": "chě",
+        "compounds": [
+          "拉扯",
+          "扯开"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "渴",
+        "pinyin": "kě",
+        "compounds": [
+          "口渴",
+          "渴望"
+        ]
+      },
+      {
+        "char": "喝",
+        "pinyin": "hē",
+        "compounds": [
+          "喝水",
+          "喝茶"
+        ]
+      },
+      {
+        "char": "匀",
+        "pinyin": "yún",
+        "compounds": [
+          "匀称",
+          "均匀"
+        ]
+      },
+      {
+        "char": "称",
+        "pinyin": "chèn",
+        "compounds": [
+          "匀称",
+          "对称"
+        ]
+      },
+      {
+        "char": "致",
+        "pinyin": "zhì",
+        "compounds": [
+          "精致",
+          "别致"
+        ]
+      },
+      {
+        "char": "束",
+        "pinyin": "shù",
+        "compounds": [
+          "约束",
+          "束缚"
+        ]
+      },
+      {
+        "char": "配",
+        "pinyin": "pèi",
+        "compounds": [
+          "配合",
+          "分配"
+        ]
+      },
+      {
+        "char": "甩",
+        "pinyin": "shuǎi",
+        "compounds": [
+          "甩开",
+          "甩动"
+        ]
+      },
+      {
+        "char": "丧",
+        "pinyin": "sàng",
+        "compounds": [
+          "丧失",
+          "丧气"
+        ]
+      },
+      {
+        "char": "追",
+        "pinyin": "zhuī",
+        "compounds": [
+          "追赶",
+          "追逐"
+        ]
+      },
+      {
+        "char": "扯",
+        "pinyin": "chě",
+        "compounds": [
+          "拉扯",
+          "扯开"
+        ]
+      },
+      {
+        "char": "哎",
+        "pinyin": "āi",
+        "compounds": [
+          "哎呀"
+        ]
+      },
+      {
+        "char": "叹",
+        "pinyin": "tàn",
+        "compounds": [
+          "叹气",
+          "感叹"
+        ]
+      },
+      {
+        "char": "逃",
+        "pinyin": "táo",
+        "compounds": [
+          "逃跑",
+          "逃脱"
+        ]
+      }
+    ]
+  },
+  "8": {
+    "title": "池子与河流",
+    "words": [
+      {
+        "char": "滔",
+        "pinyin": "tāo",
+        "compounds": [
+          "滔天",
+          "滔滔"
+        ]
+      },
+      {
+        "char": "贯",
+        "pinyin": "guàn",
+        "compounds": [
+          "贯彻",
+          "一贯"
+        ]
+      },
+      {
+        "char": "妇",
+        "pinyin": "fù",
+        "compounds": [
+          "妇人",
+          "妇女"
+        ]
+      },
+      {
+        "char": "垫",
+        "pinyin": "diàn",
+        "compounds": [
+          "垫子",
+          "垫付"
+        ]
+      },
+      {
+        "char": "忱",
+        "pinyin": "chén",
+        "compounds": [
+          "担忧",
+          "热忱"
+        ]
+      },
+      {
+        "char": "虑",
+        "pinyin": "lǜ",
+        "compounds": [
+          "忧虑",
+          "考虑"
+        ]
+      },
+      {
+        "char": "凭",
+        "pinyin": "píng",
+        "compounds": [
+          "凭借",
+          "凭证"
+        ]
+      },
+      {
+        "char": "哲",
+        "pinyin": "zhé",
+        "compounds": [
+          "哲理",
+          "哲学"
+        ]
+      },
+      {
+        "char": "遵",
+        "pinyin": "zūn",
+        "compounds": [
+          "遵守",
+          "遵循"
+        ]
+      },
+      {
+        "char": "循",
+        "pinyin": "xún",
+        "compounds": [
+          "循环",
+          "循序渐进"
+        ]
+      },
+      {
+        "char": "逸",
+        "pinyin": "yì",
+        "compounds": [
+          "安逸",
+          "逃逸"
+        ]
+      },
+      {
+        "char": "尊",
+        "pinyin": "zūn",
+        "compounds": [
+          "尊敬",
+          "尊重"
+        ]
+      },
+      {
+        "char": "衰",
+        "pinyin": "shuāi",
+        "compounds": [
+          "衰减",
+          "衰老"
+        ]
+      }
+    ],
+    "mainWords": []
+  },
+  "unit2": {
+    "title": "语文园地二",
+    "words": [],
+    "mainWords": []
+  },
+  "9": {
+    "title": "海底世界",
+    "words": [
+      {
+        "char": "否",
+        "pinyin": "fǒu",
+        "compounds": [
+          "否定",
+          "窃窃私语"
+        ]
+      },
+      {
+        "char": "窃",
+        "pinyin": "qiè",
+        "compounds": [
+          "偷窃",
+          "窃窃私语"
+        ]
+      },
+      {
+        "char": "私",
+        "pinyin": "sī",
+        "compounds": [
+          "自私",
+          "私自"
+        ]
+      },
+      {
+        "char": "肌",
+        "pinyin": "jī",
+        "compounds": [
+          "肌肉",
+          "肌肤"
+        ]
+      },
+      {
+        "char": "缩",
+        "pinyin": "suō",
+        "compounds": [
+          "缩小",
+          "避免"
+        ]
+      },
+      {
+        "char": "免",
+        "pinyin": "miǎn",
+        "compounds": [
+          "避免",
+          "免费"
+        ]
+      },
+      {
+        "char": "差",
+        "pinyin": "chà",
+        "compounds": [
+          "差别",
+          "相差"
+        ]
+      },
+      {
+        "char": "藻",
+        "pinyin": "zǎo",
+        "compounds": [
+          "海藻",
+          "藻类"
+        ]
+      },
+      {
+        "char": "达",
+        "pinyin": "dá",
+        "compounds": [
+          "达到",
+          "抵达"
+        ]
+      },
+      {
+        "char": "胞",
+        "pinyin": "bāo",
+        "compounds": [
+          "细胞",
+          "胞弟"
+        ]
+      },
+      {
+        "char": "煤",
+        "pinyin": "méi",
+        "compounds": [
+          "煤气",
+          "煤炭"
+        ]
+      },
+      {
+        "char": "储",
+        "pinyin": "chǔ",
+        "compounds": [
+          "储存",
+          "储备"
+        ]
+      },
+      {
+        "char": "属",
+        "pinyin": "shǔ",
+        "compounds": [
+          "属于",
+          "金属"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "官",
+        "pinyin": "guān",
+        "compounds": [
+          "器官",
+          "官员"
+        ]
+      },
+      {
+        "char": "否",
+        "pinyin": "fǒu",
+        "compounds": [
+          "否定",
+          "是否"
+        ]
+      },
+      {
+        "char": "窃",
+        "pinyin": "qiè",
+        "compounds": [
+          "偷窃",
+          "窃听"
+        ]
+      },
+      {
+        "char": "私",
+        "pinyin": "sī",
+        "compounds": [
+          "自私",
+          "私自"
+        ]
+      },
+      {
+        "char": "汪",
+        "pinyin": "wāng",
+        "compounds": [
+          "汪汪",
+          "汪洋"
+        ]
+      },
+      {
+        "char": "危",
+        "pinyin": "wēi",
+        "compounds": [
+          "危险",
+          "危机"
+        ]
+      },
+      {
+        "char": "险",
+        "pinyin": "xiǎn",
+        "compounds": [
+          "危险",
+          "风险"
+        ]
+      },
+      {
+        "char": "肌",
+        "pinyin": "jī",
+        "compounds": [
+          "肌肉",
+          "肌肤"
+        ]
+      },
+      {
+        "char": "攻",
+        "pinyin": "gōng",
+        "compounds": [
+          "攻击",
+          "攻打"
+        ]
+      },
+      {
+        "char": "免",
+        "pinyin": "miǎn",
+        "compounds": [
+          "免费",
+          "避免"
+        ]
+      },
+      {
+        "char": "费",
+        "pinyin": "fèi",
+        "compounds": [
+          "费用",
+          "免费"
+        ]
+      },
+      {
+        "char": "异",
+        "pinyin": "yì",
+        "compounds": [
+          "异常",
+          "奇异"
+        ]
+      },
+      {
+        "char": "达",
+        "pinyin": "dá",
+        "compounds": [
+          "达到",
+          "抵达"
+        ]
+      }
+    ]
+  },
+  "10": {
+    "title": "石蜂",
+    "words": [
+      {
+        "char": "证",
+        "pinyin": "zhèng",
+        "compounds": [
+          "证明",
+          "证实"
+        ]
+      },
+      {
+        "char": "概",
+        "pinyin": "gài",
+        "compounds": [
+          "大概",
+          "概括"
+        ]
+      },
+      {
+        "char": "阻",
+        "pinyin": "zǔ",
+        "compounds": [
+          "阻力",
+          "阻止"
+        ]
+      },
+      {
+        "char": "误",
+        "pinyin": "wù",
+        "compounds": [
+          "错误",
+          "误会"
+        ]
+      },
+      {
+        "char": "逆",
+        "pinyin": "nì",
+        "compounds": [
+          "逆风",
+          "逆行"
+        ]
+      },
+      {
+        "char": "殊",
+        "pinyin": "shū",
+        "compounds": [
+          "特殊",
+          "殊荣"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "验",
+        "pinyin": "yàn",
+        "compounds": [
+          "验证",
+          "考验"
+        ]
+      },
+      {
+        "char": "证",
+        "pinyin": "zhèng",
+        "compounds": [
+          "证明",
+          "证实"
+        ]
+      },
+      {
+        "char": "阻",
+        "pinyin": "zǔ",
+        "compounds": [
+          "阻力",
+          "阻止"
+        ]
+      },
+      {
+        "char": "约",
+        "pinyin": "yuē",
+        "compounds": [
+          "约定",
+          "大约"
+        ]
+      },
+      {
+        "char": "括",
+        "pinyin": "kuò",
+        "compounds": [
+          "包括",
+          "括号"
+        ]
+      },
+      {
+        "char": "检",
+        "pinyin": "jiǎn",
+        "compounds": [
+          "检查",
+          "检验"
+        ]
+      },
+      {
+        "char": "查",
+        "pinyin": "chá",
+        "compounds": [
+          "考查",
+          "检查"
+        ]
+      },
+      {
+        "char": "迷",
+        "pinyin": "mí",
+        "compounds": [
+          "迷失",
+          "迷路"
+        ]
+      },
+      {
+        "char": "误",
+        "pinyin": "wù",
+        "compounds": [
+          "失误",
+          "错误"
+        ]
+      },
+      {
+        "char": "逆",
+        "pinyin": "nì",
+        "compounds": [
+          "逆反",
+          "逆风"
+        ]
+      },
+      {
+        "char": "陌",
+        "pinyin": "mò",
+        "compounds": [
+          "陌生",
+          "阡陌"
+        ]
+      }
+    ]
+  },
+  "11": {
+    "title": "小虾",
+    "mainWords": [],
+    "words": [
+      {
+        "char": "隙",
+        "pinyin": "xì",
+        "compounds": [
+          "空隙",
+          "间隙"
+        ]
+      },
+      {
+        "char": "稍",
+        "pinyin": "shāo",
+        "compounds": [
+          "稍微",
+          "稍等"
+        ]
+      },
+      {
+        "char": "逐",
+        "pinyin": "zhú",
+        "compounds": [
+          "逐渐",
+          "追逐"
+        ]
+      },
+      {
+        "char": "副",
+        "pinyin": "fù",
+        "compounds": [
+          "副手",
+          "副业"
+        ]
+      },
+      {
+        "char": "钳",
+        "pinyin": "qián",
+        "compounds": [
+          "钳子",
+          "钳制"
+        ]
+      },
+      {
+        "char": "翘",
+        "pinyin": "qiào",
+        "compounds": [
+          "翘尾巴",
+          "翘首"
+        ]
+      },
+      {
+        "char": "搏",
+        "pinyin": "bó",
+        "compounds": [
+          "搏斗",
+          "拼搏"
+        ]
+      },
+      {
+        "char": "捡",
+        "pinyin": "jiǎn",
+        "compounds": [
+          "捡拾",
+          "捡漏"
+        ]
+      },
+      {
+        "char": "较",
+        "pinyin": "jiào",
+        "compounds": [
+          "比较",
+          "较量"
+        ]
+      },
+      {
+        "char": "腹",
+        "pinyin": "fù",
+        "compounds": [
+          "腹部",
+          "腹背"
+        ]
+      },
+      {
+        "char": "卵",
+        "pinyin": "luǎn",
+        "compounds": [
+          "卵生",
+          "鱼卵"
+        ]
+      }
+    ]
+  },
+  "12": {
+    "title": "古诗三首",
+    "words": [
+      {
+        "char": "牧",
+        "pinyin": "mù",
+        "compounds": [
+          "牧民",
+          "魂魄"
+        ]
+      },
+      {
+        "char": "魂",
+        "pinyin": "hún",
+        "compounds": [
+          "魂魄",
+          "鬼魂"
+        ]
+      },
+      {
+        "char": "酒",
+        "pinyin": "jiǔ",
+        "compounds": [
+          "酒家",
+          "兄弟"
+        ]
+      },
+      {
+        "char": "兄",
+        "pinyin": "xiōng",
+        "compounds": [
+          "兄弟",
+          "佳节"
+        ]
+      },
+      {
+        "char": "佳",
+        "pinyin": "jiā",
+        "compounds": [
+          "佳节",
+          "加倍"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "旧",
+        "pinyin": "jiù",
+        "compounds": [
+          "新旧",
+          "符号"
+        ]
+      },
+      {
+        "char": "符",
+        "pinyin": "fú",
+        "compounds": [
+          "符号",
+          "符合"
+        ]
+      },
+      {
+        "char": "牧",
+        "pinyin": "mù",
+        "compounds": [
+          "牧民",
+          "放牧"
+        ]
+      },
+      {
+        "char": "纷",
+        "pinyin": "fēn",
+        "compounds": [
+          "纷纷",
+          "纷飞"
+        ]
+      },
+      {
+        "char": "魂",
+        "pinyin": "hún",
+        "compounds": [
+          "魂魄",
+          "鬼魂"
+        ]
+      },
+      {
+        "char": "借",
+        "pinyin": "jiè",
+        "compounds": [
+          "借用",
+          "借书"
+        ]
+      },
+      {
+        "char": "酒",
+        "pinyin": "jiǔ",
+        "compounds": [
+          "酒水",
+          "红酒"
+        ]
+      },
+      {
+        "char": "遥",
+        "pinyin": "yáo",
+        "compounds": [
+          "遥远",
+          "遥望"
+        ]
+      },
+      {
+        "char": "兄",
+        "pinyin": "xiōng",
+        "compounds": [
+          "兄弟",
+          "兄长"
+        ]
+      },
+      {
+        "char": "逢",
+        "pinyin": "féng",
+        "compounds": [
+          "相逢",
+          "每逢"
+        ]
+      },
+      {
+        "char": "佳",
+        "pinyin": "jiā",
+        "compounds": [
+          "佳节",
+          "佳人"
+        ]
+      },
+      {
+        "char": "倍",
+        "pinyin": "bèi",
+        "compounds": [
+          "加倍",
+          "倍数"
+        ]
+      }
+    ]
+  },
+  "unit3": {
+    "title": "语文园地三",
+    "words": [],
+    "mainWords": []
+  },
+  "13": {
+    "title": "纸的发明",
+    "words": [
+      {
+        "char": "贡",
+        "pinyin": "gòng",
+        "compounds": [
+          "贡献",
+          "贡品"
+        ]
+      },
+      {
+        "char": "尤",
+        "pinyin": "yóu",
+        "compounds": [
+          "尤其",
+          "尤其"
+        ]
+      },
+      {
+        "char": "笨",
+        "pinyin": "bèn",
+        "compounds": [
+          "笨重",
+          "笨拙"
+        ]
+      },
+      {
+        "char": "阅",
+        "pinyin": "yuè",
+        "compounds": [
+          "阅读",
+          "阅览"
+        ]
+      },
+      {
+        "char": "存",
+        "pinyin": "cún",
+        "compounds": [
+          "保存",
+          "存在"
+        ]
+      },
+      {
+        "char": "蔡",
+        "pinyin": "cài",
+        "compounds": [
+          "蔡伦",
+          "蔡氏"
+        ]
+      },
+      {
+        "char": "伦",
+        "pinyin": "lún",
+        "compounds": [
+          "蔡伦",
+          "伦理"
+        ]
+      },
+      {
+        "char": "累",
+        "pinyin": "lěi",
+        "compounds": [
+          "积累",
+          "累计"
+        ]
+      },
+      {
+        "char": "切",
+        "pinyin": "qiē",
+        "compounds": [
+          "切除",
+          "切菜"
+        ]
+      },
+      {
+        "char": "价",
+        "pinyin": "jià",
+        "compounds": [
+          "价值",
+          "价格"
+        ]
+      },
+      {
+        "char": "便",
+        "pinyin": "biàn",
+        "compounds": [
+          "便宜",
+          "方便"
+        ]
+      },
+      {
+        "char": "鲜",
+        "pinyin": "xiān",
+        "compounds": [
+          "朝鲜",
+          "新鲜"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "伟",
+        "pinyin": "wěi",
+        "compounds": [
+          "伟大",
+          "雄伟"
+        ]
+      },
+      {
+        "char": "贡",
+        "pinyin": "gòng",
+        "compounds": [
+          "贡献",
+          "贡品"
+        ]
+      },
+      {
+        "char": "献",
+        "pinyin": "xiàn",
+        "compounds": [
+          "贡献",
+          "奉献"
+        ]
+      },
+      {
+        "char": "创",
+        "pinyin": "chuàng",
+        "compounds": [
+          "创造",
+          "创新"
+        ]
+      },
+      {
+        "char": "尤",
+        "pinyin": "yóu",
+        "compounds": [
+          "尤其",
+          "尤其"
+        ]
+      },
+      {
+        "char": "存",
+        "pinyin": "cún",
+        "compounds": [
+          "保存",
+          "存在"
+        ]
+      },
+      {
+        "char": "累",
+        "pinyin": "lěi",
+        "compounds": [
+          "积累",
+          "累计"
+        ]
+      },
+      {
+        "char": "改",
+        "pinyin": "gǎi",
+        "compounds": [
+          "改正",
+          "修改"
+        ]
+      },
+      {
+        "char": "价",
+        "pinyin": "jià",
+        "compounds": [
+          "价值",
+          "价格"
+        ]
+      },
+      {
+        "char": "促",
+        "pinyin": "cù",
+        "compounds": [
+          "促进",
+          "促使"
+        ]
+      },
+      {
+        "char": "社",
+        "pinyin": "shè",
+        "compounds": [
+          "社会",
+          "社区"
+        ]
+      }
+    ]
+  },
+  "14": {
+    "title": "赵州桥",
+    "words": [
+      {
+        "char": "县",
+        "pinyin": "xiàn",
+        "compounds": [
+          "县城",
+          "区县"
+        ]
+      },
+      {
+        "char": "拱",
+        "pinyin": "gǒng",
+        "compounds": [
+          "拱形",
+          "拱桥"
+        ]
+      },
+      {
+        "char": "济",
+        "pinyin": "jì",
+        "compounds": [
+          "救济",
+          "接济"
+        ]
+      },
+      {
+        "char": "匠",
+        "pinyin": "jiàng",
+        "compounds": [
+          "工匠",
+          "木匠"
+        ]
+      },
+      {
+        "char": "砌",
+        "pinyin": "qì",
+        "compounds": [
+          "堆砌",
+          "砌墙"
+        ]
+      },
+      {
+        "char": "栏",
+        "pinyin": "lán",
+        "compounds": [
+          "栏杆",
+          "栏目"
+        ]
+      },
+      {
+        "char": "爪",
+        "pinyin": "zhǎo",
+        "compounds": [
+          "爪牙",
+          "前爪"
+        ]
+      },
+      {
+        "char": "抵",
+        "pinyin": "dǐ",
+        "compounds": [
+          "抵挡",
+          "抵达"
+        ]
+      },
+      {
+        "char": "智",
+        "pinyin": "zhì",
+        "compounds": [
+          "智力",
+          "智慧"
+        ]
+      },
+      {
+        "char": "慧",
+        "pinyin": "huì",
+        "compounds": [
+          "聪慧",
+          "慧心"
+        ]
+      },
+      {
+        "char": "历",
+        "pinyin": "lì",
+        "compounds": [
+          "经历",
+          "历史"
+        ]
+      },
+      {
+        "char": "遗",
+        "pinyin": "yí",
+        "compounds": [
+          "遗忘",
+          "遗失"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "赵",
+        "pinyin": "zhào",
+        "compounds": [
+          "赵州桥",
+          "赵国"
+        ]
+      },
+      {
+        "char": "桥",
+        "pinyin": "qiáo",
+        "compounds": [
+          "石桥",
+          "桥梁"
+        ]
+      },
+      {
+        "char": "拱",
+        "pinyin": "gǒng",
+        "compounds": [
+          "拱形",
+          "拱桥"
+        ]
+      },
+      {
+        "char": "济",
+        "pinyin": "jì",
+        "compounds": [
+          "救济",
+          "接济"
+        ]
+      },
+      {
+        "char": "设",
+        "pinyin": "shè",
+        "compounds": [
+          "设计",
+          "建设"
+        ]
+      },
+      {
+        "char": "计",
+        "pinyin": "jì",
+        "compounds": [
+          "计划",
+          "计算"
+        ]
+      },
+      {
+        "char": "史",
+        "pinyin": "shǐ",
+        "compounds": [
+          "历史",
+          "史书"
+        ]
+      },
+      {
+        "char": "坚",
+        "pinyin": "jiān",
+        "compounds": [
+          "坚硬",
+          "坚固"
+        ]
+      },
+      {
+        "char": "固",
+        "pinyin": "gù",
+        "compounds": [
+          "牢固",
+          "固定"
+        ]
+      },
+      {
+        "char": "且",
+        "pinyin": "qiě",
+        "compounds": [
+          "而且",
+          "况且"
+        ]
+      },
+      {
+        "char": "栏",
+        "pinyin": "lán",
+        "compounds": [
+          "栏杆",
+          "栏目"
+        ]
+      },
+      {
+        "char": "贵",
+        "pinyin": "guì",
+        "compounds": [
+          "贵重",
+          "宝贵"
+        ]
+      },
+      {
+        "char": "历",
+        "pinyin": "lì",
+        "compounds": [
+          "经历",
+          "历史"
+        ]
+      }
+    ]
+  },
+  "15": {
+    "title": "一幅名扬中外的画",
+    "words": [
+      {
+        "char": "择",
+        "pinyin": "zé",
+        "compounds": [
+          "选择",
+          "择取"
+        ]
+      },
+      {
+        "char": "摊",
+        "pinyin": "tān",
+        "compounds": [
+          "小摊",
+          "摊位"
+        ]
+      },
+      {
+        "char": "贩",
+        "pinyin": "fàn",
+        "compounds": [
+          "小贩",
+          "贩卖"
+        ]
+      },
+      {
+        "char": "吏",
+        "pinyin": "lì",
+        "compounds": [
+          "官吏",
+          "吏治"
+        ]
+      },
+      {
+        "char": "驴",
+        "pinyin": "lǘ",
+        "compounds": [
+          "毛驴",
+          "驴子"
+        ]
+      },
+      {
+        "char": "乘",
+        "pinyin": "chéng",
+        "compounds": [
+          "乘坐",
+          "乘车"
+        ]
+      },
+      {
+        "char": "笼",
+        "pinyin": "lǒng",
+        "compounds": [
+          "笼屉",
+          "牢笼"
+        ]
+      },
+      {
+        "char": "拽",
+        "pinyin": "zhuài",
+        "compounds": [
+          "拽住",
+          "拖拽"
+        ]
+      },
+      {
+        "char": "扰",
+        "pinyin": "rǎo",
+        "compounds": [
+          "打扰",
+          "扰乱"
+        ]
+      },
+      {
+        "char": "貌",
+        "pinyin": "mào",
+        "compounds": [
+          "外貌",
+          "礼貌"
+        ]
+      }
+    ],
+    "mainWords": []
+  },
+  "unit4": {
+    "title": "语文园地四",
+    "words": [],
+    "mainWords": [
+      {
+        "char": "援",
+        "pinyin": "yuán",
+        "compounds": [
+          "援助",
+          "救援"
+        ]
+      },
+      {
+        "char": "掷",
+        "pinyin": "zhì",
+        "compounds": [
+          "投掷",
+          "掷出"
+        ]
+      },
+      {
+        "char": "投",
+        "pinyin": "tóu",
+        "compounds": [
+          "投掷",
+          "投入"
+        ]
+      },
+      {
+        "char": "捞",
+        "pinyin": "lāo",
+        "compounds": [
+          "打捞",
+          "捞起"
+        ]
+      },
+      {
+        "char": "折",
+        "pinyin": "zhé",
+        "compounds": [
+          "拆分",
+          "拆除"
+        ]
+      },
+      {
+        "char": "搅",
+        "pinyin": "jiǎo",
+        "compounds": [
+          "搅动",
+          "打搅"
+        ]
+      },
+      {
+        "char": "拓",
+        "pinyin": "tuò",
+        "compounds": [
+          "开拓",
+          "拓展"
+        ]
+      }
+    ]
+  },
+  "16": {
+    "title": "胡萝卜先生的长胡子",
+    "words": [
+      {
+        "char": "萝",
+        "pinyin": "luó",
+        "compounds": [
+          "萝卜",
+          "菠萝"
+        ]
+      },
+      {
+        "char": "卜",
+        "pinyin": "bo",
+        "compounds": [
+          "萝卜",
+          "占卜"
+        ]
+      },
+      {
+        "char": "愁",
+        "pinyin": "chóu",
+        "compounds": [
+          "发愁",
+          "忧愁"
+        ]
+      },
+      {
+        "char": "晾",
+        "pinyin": "liàng",
+        "compounds": [
+          "晾晒",
+          "晾干"
+        ]
+      },
+      {
+        "char": "尿",
+        "pinyin": "niào",
+        "compounds": [
+          "尿布",
+          "撒尿"
+        ]
+      },
+      {
+        "char": "肩",
+        "pinyin": "jiān",
+        "compounds": [
+          "肩膀",
+          "肩负"
+        ]
+      },
+      {
+        "char": "掏",
+        "pinyin": "tāo",
+        "compounds": [
+          "掏出",
+          "掏钱"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "萝",
+        "pinyin": "luó",
+        "compounds": [
+          "萝卜",
+          "菠萝"
+        ]
+      },
+      {
+        "char": "卜",
+        "pinyin": "bo",
+        "compounds": [
+          "萝卜",
+          "占卜"
+        ]
+      },
+      {
+        "char": "愁",
+        "pinyin": "chóu",
+        "compounds": [
+          "发愁",
+          "忧愁"
+        ]
+      },
+      {
+        "char": "浓",
+        "pinyin": "nóng",
+        "compounds": [
+          "浓密",
+          "浓厚"
+        ]
+      },
+      {
+        "char": "够",
+        "pinyin": "gòu",
+        "compounds": [
+          "足够",
+          "能够"
+        ]
+      },
+      {
+        "char": "确",
+        "pinyin": "què",
+        "compounds": [
+          "确实",
+          "确定"
+        ]
+      },
+      {
+        "char": "段",
+        "pinyin": "duàn",
+        "compounds": [
+          "片段",
+          "段落"
+        ]
+      },
+      {
+        "char": "系",
+        "pinyin": "jì",
+        "compounds": [
+          "系住",
+          "系鞋带"
+        ]
+      },
+      {
+        "char": "姐",
+        "pinyin": "jiě",
+        "compounds": [
+          "姐妹",
+          "姐姐"
+        ]
+      }
+    ]
+  },
+  "17": {
+    "title": "我变成了一棵树",
+    "words": [
+      {
+        "char": "嗓",
+        "pinyin": "sǎng",
+        "compounds": [
+          "嗓子",
+          "嗓音"
+        ]
+      },
+      {
+        "char": "痒",
+        "pinyin": "yǎng",
+        "compounds": [
+          "挠痒",
+          "瘙痒"
+        ]
+      },
+      {
+        "char": "椭",
+        "pinyin": "tuǒ",
+        "compounds": [
+          "椭圆",
+          "椭球"
+        ]
+      },
+      {
+        "char": "菱",
+        "pinyin": "líng",
+        "compounds": [
+          "菱形",
+          "菱角"
+        ]
+      },
+      {
+        "char": "鳄",
+        "pinyin": "è",
+        "compounds": [
+          "鳄鱼",
+          "扬子鳄"
+        ]
+      },
+      {
+        "char": "震",
+        "pinyin": "zhèn",
+        "compounds": [
+          "震动",
+          "地震"
+        ]
+      },
+      {
+        "char": "零",
+        "pinyin": "líng",
+        "compounds": [
+          "零食",
+          "零乱"
+        ]
+      },
+      {
+        "char": "肠",
+        "pinyin": "cháng",
+        "compounds": [
+          "香肠",
+          "肠胃"
+        ]
+      },
+      {
+        "char": "啃",
+        "pinyin": "kěn",
+        "compounds": [
+          "啃食",
+          "啃咬"
+        ]
+      },
+      {
+        "char": "醋",
+        "pinyin": "cù",
+        "compounds": [
+          "陈醋",
+          "糖醋"
+        ]
+      },
+      {
+        "char": "馋",
+        "pinyin": "chán",
+        "compounds": [
+          "嘴馋",
+          "馋嘴"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "希",
+        "pinyin": "xī",
+        "compounds": [
+          "希望",
+          "希冀"
+        ]
+      },
+      {
+        "char": "担",
+        "pinyin": "dān",
+        "compounds": [
+          "担心",
+          "承担"
+        ]
+      },
+      {
+        "char": "容",
+        "pinyin": "róng",
+        "compounds": [
+          "容易",
+          "包容"
+        ]
+      },
+      {
+        "char": "易",
+        "pinyin": "yì",
+        "compounds": [
+          "容易",
+          "轻易"
+        ]
+      },
+      {
+        "char": "震",
+        "pinyin": "zhèn",
+        "compounds": [
+          "震动",
+          "地震"
+        ]
+      },
+      {
+        "char": "零",
+        "pinyin": "líng",
+        "compounds": [
+          "零食",
+          "零乱"
+        ]
+      },
+      {
+        "char": "肠",
+        "pinyin": "cháng",
+        "compounds": [
+          "香肠",
+          "肠胃"
+        ]
+      },
+      {
+        "char": "麻",
+        "pinyin": "má",
+        "compounds": [
+          "麻烦",
+          "麻木"
+        ]
+      },
+      {
+        "char": "烦",
+        "pinyin": "fán",
+        "compounds": [
+          "麻烦",
+          "烦恼"
+        ]
+      }
+    ]
+  },
+  "unit5": {
+    "title": "语文园地五",
+    "words": [],
+    "mainWords": []
+  },
+  "18": {
+    "title": "童年的水墨画",
+    "words": [
+      {
+        "char": "墨",
+        "pinyin": "mò",
+        "compounds": [
+          "墨水",
+          "墨汁"
+        ]
+      },
+      {
+        "char": "染",
+        "pinyin": "rǎn",
+        "compounds": [
+          "染色",
+          "染布"
+        ]
+      },
+      {
+        "char": "碎",
+        "pinyin": "suì",
+        "compounds": [
+          "碎片",
+          "破碎"
+        ]
+      },
+      {
+        "char": "溅",
+        "pinyin": "jiàn",
+        "compounds": [
+          "溅起",
+          "溅落"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "垂",
+        "pinyin": "chuí",
+        "compounds": [
+          "垂柳",
+          "垂直"
+        ]
+      },
+      {
+        "char": "染",
+        "pinyin": "rǎn",
+        "compounds": [
+          "染色",
+          "染布"
+        ]
+      },
+      {
+        "char": "碎",
+        "pinyin": "suì",
+        "compounds": [
+          "碎片",
+          "破碎"
+        ]
+      },
+      {
+        "char": "翅",
+        "pinyin": "chì",
+        "compounds": [
+          "翅膀",
+          "翅尖"
+        ]
+      },
+      {
+        "char": "膀",
+        "pinyin": "bǎng",
+        "compounds": [
+          "翅膀",
+          "肩膀"
+        ]
+      },
+      {
+        "char": "拨",
+        "pinyin": "bō",
+        "compounds": [
+          "拨动",
+          "拨开"
+        ]
+      },
+      {
+        "char": "浪",
+        "pinyin": "làng",
+        "compounds": [
+          "浪花",
+          "波浪"
+        ]
+      },
+      {
+        "char": "抖",
+        "pinyin": "dǒu",
+        "compounds": [
+          "抖动",
+          "发抖"
+        ]
+      }
+    ]
+  },
+  "19": {
+    "title": "肥皂泡",
+    "words": [
+      {
+        "char": "剩",
+        "pinyin": "shèng",
+        "compounds": [
+          "剩余",
+          "剩下"
+        ]
+      },
+      {
+        "char": "和",
+        "pinyin": "hé",
+        "compounds": [
+          "和气",
+          "和平"
+        ]
+      },
+      {
+        "char": "溶",
+        "pinyin": "róng",
+        "compounds": [
+          "溶解",
+          "溶化"
+        ]
+      },
+      {
+        "char": "套",
+        "pinyin": "tào",
+        "compounds": [
+          "手套",
+          "外套"
+        ]
+      },
+      {
+        "char": "若",
+        "pinyin": "ruò",
+        "compounds": [
+          "倘若",
+          "若是"
+        ]
+      },
+      {
+        "char": "悬",
+        "pinyin": "xuán",
+        "compounds": [
+          "悬挂",
+          "悬空"
+        ]
+      },
+      {
+        "char": "屏",
+        "pinyin": "píng",
+        "compounds": [
+          "屏障",
+          "屏风"
+        ]
+      },
+      {
+        "char": "巅",
+        "pinyin": "diān",
+        "compounds": [
+          "山巅",
+          "巅峰"
+        ]
+      },
+      {
+        "char": "婴",
+        "pinyin": "yīng",
+        "compounds": [
+          "婴儿",
+          "婴孩"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "皂",
+        "pinyin": "zào",
+        "compounds": [
+          "肥皂",
+          "皂角"
+        ]
+      },
+      {
+        "char": "泡",
+        "pinyin": "pào",
+        "compounds": [
+          "泡沫",
+          "水泡"
+        ]
+      },
+      {
+        "char": "类",
+        "pinyin": "lèi",
+        "compounds": [
+          "类别",
+          "分类"
+        ]
+      },
+      {
+        "char": "弄",
+        "pinyin": "nòng",
+        "compounds": [
+          "摆弄",
+          "捉弄"
+        ]
+      },
+      {
+        "char": "溶",
+        "pinyin": "róng",
+        "compounds": [
+          "溶解",
+          "溶化"
+        ]
+      },
+      {
+        "char": "套",
+        "pinyin": "tào",
+        "compounds": [
+          "手套",
+          "外套"
+        ]
+      },
+      {
+        "char": "悠",
+        "pinyin": "yōu",
+        "compounds": [
+          "悠闲",
+          "悠扬"
+        ]
+      },
+      {
+        "char": "若",
+        "pinyin": "ruò",
+        "compounds": [
+          "倘若",
+          "若是"
+        ]
+      },
+      {
+        "char": "骄",
+        "pinyin": "jiāo",
+        "compounds": [
+          "骄傲",
+          "骄纵"
+        ]
+      },
+      {
+        "char": "傲",
+        "pinyin": "ào",
+        "compounds": [
+          "骄傲",
+          "高傲"
+        ]
+      }
+    ]
+  },
+  "20": {
+    "title": "灰雀",
+    "words": [
+      {
+        "char": "胸",
+        "pinyin": "xiōng",
+        "compounds": [
+          "胸脯",
+          "心胸"
+        ]
+      },
+      {
+        "char": "脯",
+        "pinyin": "pú",
+        "compounds": [
+          "胸脯",
+          "脯子"
+        ]
+      },
+      {
+        "char": "婉",
+        "pinyin": "wǎn",
+        "compounds": [
+          "婉转",
+          "婉约"
+        ]
+      },
+      {
+        "char": "惹",
+        "pinyin": "rě",
+        "compounds": [
+          "招惹",
+          "惹事"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "雀",
+        "pinyin": "què",
+        "compounds": [
+          "灰雀",
+          "麻雀"
+        ]
+      },
+      {
+        "char": "养",
+        "pinyin": "yǎng",
+        "compounds": [
+          "养育",
+          "培养"
+        ]
+      },
+      {
+        "char": "粉",
+        "pinyin": "fěn",
+        "compounds": [
+          "粉色",
+          "面粉"
+        ]
+      },
+      {
+        "char": "惹",
+        "pinyin": "rě",
+        "compounds": [
+          "招惹",
+          "惹事"
+        ]
+      },
+      {
+        "char": "仰",
+        "pinyin": "yǎng",
+        "compounds": [
+          "仰望",
+          "仰头"
+        ]
+      },
+      {
+        "char": "粒",
+        "pinyin": "lì",
+        "compounds": [
+          "颗粒",
+          "米粒"
+        ]
+      },
+      {
+        "char": "遍",
+        "pinyin": "biàn",
+        "compounds": [
+          "遍地",
+          "一遍"
+        ]
+      },
+      {
+        "char": "者",
+        "pinyin": "zhě",
+        "compounds": [
+          "作者",
+          "读者"
+        ]
+      },
+      {
+        "char": "惜",
+        "pinyin": "xī",
+        "compounds": [
+          "可惜",
+          "珍惜"
+        ]
+      }
+    ]
+  },
+  "21": {
+    "title": "我不能失信",
+    "words": [
+      {
+        "char": "耀",
+        "pinyin": "yào",
+        "compounds": [
+          "耀眼",
+          "闪耀"
+        ]
+      },
+      {
+        "char": "示",
+        "pinyin": "shì",
+        "compounds": [
+          "表示",
+          "展示"
+        ]
+      },
+      {
+        "char": "歉",
+        "pinyin": "qiàn",
+        "compounds": [
+          "道歉",
+          "歉意"
+        ]
+      },
+      {
+        "char": "诺",
+        "pinyin": "nuò",
+        "compounds": [
+          "诺言",
+          "许诺"
+        ]
+      }
+    ],
+    "mainWords": []
+  },
+  "unit6": {
+    "title": "语文园地六",
+    "words": [],
+    "mainWords": [
+      {
+        "char": "旭",
+        "pinyin": "xù",
+        "compounds": [
+          "旭日",
+          "旭月"
+        ]
+      },
+      {
+        "char": "屿",
+        "pinyin": "yǔ",
+        "compounds": [
+          "岛屿",
+          "山屿"
+        ]
+      },
+      {
+        "char": "舰",
+        "pinyin": "jiàn",
+        "compounds": [
+          "军舰",
+          "舰队"
+        ]
+      },
+      {
+        "char": "锚",
+        "pinyin": "máo",
+        "compounds": [
+          "船锚",
+          "抛锚"
+        ]
+      },
+      {
+        "char": "瞭",
+        "pinyin": "liào",
+        "compounds": [
+          "瞭望",
+          "瞭哨"
+        ]
+      },
+      {
+        "char": "巡",
+        "pinyin": "xún",
+        "compounds": [
+          "巡逻",
+          "巡视"
+        ]
+      }
+    ]
+  },
+  "22": {
+    "title": "火烧云",
+    "words": [
+      {
+        "char": "檀",
+        "pinyin": "tán",
+        "compounds": [
+          "檀木",
+          "檀香"
+        ]
+      },
+      {
+        "char": "猪",
+        "pinyin": "zhū",
+        "compounds": [
+          "猪肉",
+          "小猪"
+        ]
+      },
+      {
+        "char": "盈",
+        "pinyin": "yíng",
+        "compounds": [
+          "笑盈盈",
+          "充盈"
+        ]
+      },
+      {
+        "char": "彤",
+        "pinyin": "tóng",
+        "compounds": [
+          "红彤彤",
+          "红彤彤"
+        ]
+      },
+      {
+        "char": "跪",
+        "pinyin": "guì",
+        "compounds": [
+          "跪下",
+          "跪拜"
+        ]
+      },
+      {
+        "char": "庙",
+        "pinyin": "miào",
+        "compounds": [
+          "庙宇",
+          "庙会"
+        ]
+      },
+      {
+        "char": "镇",
+        "pinyin": "zhèn",
+        "compounds": [
+          "镇静",
+          "乡镇"
+        ]
+      },
+      {
+        "char": "揉",
+        "pinyin": "róu",
+        "compounds": [
+          "揉搓",
+          "揉面"
+        ]
+      },
+      {
+        "char": "偏",
+        "pinyin": "piān",
+        "compounds": [
+          "偏向",
+          "偏偏"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "烧",
+        "pinyin": "shāo",
+        "compounds": [
+          "火烧云",
+          "燃烧"
+        ]
+      },
+      {
+        "char": "盈",
+        "pinyin": "yíng",
+        "compounds": [
+          "笑盈盈",
+          "充盈"
+        ]
+      },
+      {
+        "char": "乘",
+        "pinyin": "chéng",
+        "compounds": [
+          "乘坐",
+          "乘法"
+        ]
+      },
+      {
+        "char": "寿",
+        "pinyin": "shòu",
+        "compounds": [
+          "长寿",
+          "寿星"
+        ]
+      },
+      {
+        "char": "彤",
+        "pinyin": "tóng",
+        "compounds": [
+          "红彤彤",
+          "红彤彤"
+        ]
+      },
+      {
+        "char": "颜",
+        "pinyin": "yán",
+        "compounds": [
+          "颜色",
+          "颜料"
+        ]
+      },
+      {
+        "char": "钟",
+        "pinyin": "zhōng",
+        "compounds": [
+          "钟表",
+          "时钟"
+        ]
+      },
+      {
+        "char": "武",
+        "pinyin": "wǔ",
+        "compounds": [
+          "武术",
+          "武器"
+        ]
+      },
+      {
+        "char": "镇",
+        "pinyin": "zhèn",
+        "compounds": [
+          "镇静",
+          "乡镇"
+        ]
+      },
+      {
+        "char": "偏",
+        "pinyin": "piān",
+        "compounds": [
+          "偏爱",
+          "偏向"
+        ]
+      }
+    ]
+  },
+  "23": {
+    "title": "暴风雨来临之前",
+    "words": [
+      {
+        "char": "闷",
+        "pinyin": "mèn",
+        "compounds": [
+          "烦闷",
+          "闷热"
+        ]
+      },
+      {
+        "char": "曼",
+        "pinyin": "màn",
+        "compounds": [
+          "曼延",
+          "曼妙"
+        ]
+      },
+      {
+        "char": "延",
+        "pinyin": "yán",
+        "compounds": [
+          "延长",
+          "延迟"
+        ]
+      },
+      {
+        "char": "昏",
+        "pinyin": "hūn",
+        "compounds": [
+          "黄昏",
+          "昏暗"
+        ]
+      },
+      {
+        "char": "汹",
+        "pinyin": "xiōng",
+        "compounds": [
+          "汹涌",
+          "汹汹"
+        ]
+      },
+      {
+        "char": "况",
+        "pinyin": "kuàng",
+        "compounds": [
+          "情况",
+          "状况"
+        ]
+      },
+      {
+        "char": "振",
+        "pinyin": "zhèn",
+        "compounds": [
+          "振动",
+          "振奋"
+        ]
+      },
+      {
+        "char": "报",
+        "pinyin": "bào",
+        "compounds": [
+          "报告",
+          "报纸"
+        ]
+      },
+      {
+        "char": "隆",
+        "pinyin": "lóng",
+        "compounds": [
+          "轰隆隆",
+          "隆重"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "临",
+        "pinyin": "lín",
+        "compounds": [
+          "临时",
+          "临近"
+        ]
+      },
+      {
+        "char": "越",
+        "pinyin": "yuè",
+        "compounds": [
+          "越过",
+          "超越"
+        ]
+      },
+      {
+        "char": "闷",
+        "pinyin": "mèn",
+        "compounds": [
+          "烦闷",
+          "闷热"
+        ]
+      },
+      {
+        "char": "昏",
+        "pinyin": "hūn",
+        "compounds": [
+          "黄昏",
+          "昏暗"
+        ]
+      },
+      {
+        "char": "暗",
+        "pinyin": "àn",
+        "compounds": [
+          "黑暗",
+          "暗处"
+        ]
+      },
+      {
+        "char": "况",
+        "pinyin": "kuàng",
+        "compounds": [
+          "情况",
+          "状况"
+        ]
+      },
+      {
+        "char": "振",
+        "pinyin": "zhèn",
+        "compounds": [
+          "振动",
+          "振奋"
+        ]
+      },
+      {
+        "char": "报",
+        "pinyin": "bào",
+        "compounds": [
+          "报告",
+          "报纸"
+        ]
+      },
+      {
+        "char": "梢",
+        "pinyin": "shāo",
+        "compounds": [
+          "树梢",
+          "梢头"
+        ]
+      },
+      {
+        "char": "隆",
+        "pinyin": "lóng",
+        "compounds": [
+          "隆重",
+          "轰隆隆"
+        ]
+      }
+    ]
+  },
+  "24": {
+    "title": "我们奇妙的世界",
+    "words": [
+      {
+        "char": "呈",
+        "pinyin": "chéng",
+        "compounds": [
+          "呈现",
+          "呈文"
+        ]
+      },
+      {
+        "char": "蔚",
+        "pinyin": "wèi",
+        "compounds": [
+          "蔚蓝",
+          "蔚然成风"
+        ]
+      },
+      {
+        "char": "雕",
+        "pinyin": "diāo",
+        "compounds": [
+          "雕刻",
+          "冰雕"
+        ]
+      },
+      {
+        "char": "洼",
+        "pinyin": "wā",
+        "compounds": [
+          "水洼",
+          "低洼"
+        ]
+      },
+      {
+        "char": "烁",
+        "pinyin": "shuò",
+        "compounds": [
+          "闪烁",
+          "烁亮"
+        ]
+      },
+      {
+        "char": "蜡",
+        "pinyin": "là",
+        "compounds": [
+          "蜡烛",
+          "石蜡"
+        ]
+      },
+      {
+        "char": "烛",
+        "pinyin": "zhú",
+        "compounds": [
+          "烛火",
+          "烛光"
+        ]
+      },
+      {
+        "char": "芒",
+        "pinyin": "máng",
+        "compounds": [
+          "光芒",
+          "芒果"
+        ]
+      },
+      {
+        "char": "略",
+        "pinyin": "lüè",
+        "compounds": [
+          "省略",
+          "略过"
+        ]
+      },
+      {
+        "char": "劲",
+        "pinyin": "jìng",
+        "compounds": [
+          "强劲",
+          "刚劲"
+        ]
+      },
+      {
+        "char": "柱",
+        "pinyin": "zhù",
+        "compounds": [
+          "柱子",
+          "水柱"
+        ]
+      },
+      {
+        "char": "剑",
+        "pinyin": "jiàn",
+        "compounds": [
+          "宝剑",
+          "刀剑"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "呈",
+        "pinyin": "chéng",
+        "compounds": [
+          "呈现",
+          "呈文"
+        ]
+      },
+      {
+        "char": "幻",
+        "pinyin": "huàn",
+        "compounds": [
+          "幻想",
+          "幻境"
+        ]
+      },
+      {
+        "char": "李",
+        "pinyin": "lǐ",
+        "compounds": [
+          "李子",
+          "桃李"
+        ]
+      },
+      {
+        "char": "夏",
+        "pinyin": "xià",
+        "compounds": [
+          "夏天",
+          "夏季"
+        ]
+      },
+      {
+        "char": "辉",
+        "pinyin": "huī",
+        "compounds": [
+          "光辉",
+          "辉煌"
+        ]
+      },
+      {
+        "char": "芒",
+        "pinyin": "máng",
+        "compounds": [
+          "光芒",
+          "麦芒"
+        ]
+      },
+      {
+        "char": "建",
+        "pinyin": "jiàn",
+        "compounds": [
+          "建设",
+          "建造"
+        ]
+      },
+      {
+        "char": "柱",
+        "pinyin": "zhù",
+        "compounds": [
+          "柱子",
+          "水柱"
+        ]
+      },
+      {
+        "char": "剑",
+        "pinyin": "jiàn",
+        "compounds": [
+          "长剑",
+          "宝剑"
+        ]
+      }
+    ]
+  },
+  "unit7": {
+    "title": "语文园地七",
+    "words": [],
+    "mainWords": []
+  },
+  "25": {
+    "title": "慢性子裁缝和急性子顾客",
+    "words": [
+      {
+        "char": "缝",
+        "pinyin": "féng",
+        "compounds": [
+          "缝纫",
+          "裁缝"
+        ]
+      },
+      {
+        "char": "箱",
+        "pinyin": "xiāng",
+        "compounds": [
+          "箱子",
+          "信箱"
+        ]
+      },
+      {
+        "char": "夸",
+        "pinyin": "kuā",
+        "compounds": [
+          "夸奖",
+          "夸张"
+        ]
+      },
+      {
+        "char": "奖",
+        "pinyin": "jiǎng",
+        "compounds": [
+          "夸奖",
+          "奖状"
+        ]
+      },
+      {
+        "char": "承",
+        "pinyin": "chéng",
+        "compounds": [
+          "承受",
+          "承接"
+        ]
+      },
+      {
+        "char": "夹",
+        "pinyin": "jiā",
+        "compounds": [
+          "夹板",
+          "夹被"
+        ]
+      },
+      {
+        "char": "袖",
+        "pinyin": "xiù",
+        "compounds": [
+          "袖子",
+          "领袖"
+        ]
+      },
+      {
+        "char": "衬",
+        "pinyin": "chèn",
+        "compounds": [
+          "衬托",
+          "衬衫"
+        ]
+      },
+      {
+        "char": "衫",
+        "pinyin": "shān",
+        "compounds": [
+          "衬衫",
+          "汗衫"
+        ]
+      },
+      {
+        "char": "负",
+        "pinyin": "fù",
+        "compounds": [
+          "负责",
+          "负数"
+        ]
+      },
+      {
+        "char": "责",
+        "pinyin": "zé",
+        "compounds": [
+          "责备",
+          "责任"
+        ]
+      },
+      {
+        "char": "讶",
+        "pinyin": "yà",
+        "compounds": [
+          "惊讶",
+          "讶异"
+        ]
+      },
+      {
+        "char": "恼",
+        "pinyin": "nǎo",
+        "compounds": [
+          "气恼",
+          "恼怒"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "性",
+        "pinyin": "xìng",
+        "compounds": [
+          "性格",
+          "性子"
+        ]
+      },
+      {
+        "char": "顾",
+        "pinyin": "gù",
+        "compounds": [
+          "回顾",
+          "照顾"
+        ]
+      },
+      {
+        "char": "夸",
+        "pinyin": "kuā",
+        "compounds": [
+          "夸奖",
+          "夸耀"
+        ]
+      },
+      {
+        "char": "奖",
+        "pinyin": "jiǎng",
+        "compounds": [
+          "夸奖",
+          "奖状"
+        ]
+      },
+      {
+        "char": "承",
+        "pinyin": "chéng",
+        "compounds": [
+          "承认",
+          "承接"
+        ]
+      },
+      {
+        "char": "袖",
+        "pinyin": "xiù",
+        "compounds": [
+          "袖子",
+          "短袖"
+        ]
+      },
+      {
+        "char": "衬",
+        "pinyin": "chèn",
+        "compounds": [
+          "内衬",
+          "衬衫"
+        ]
+      },
+      {
+        "char": "衫",
+        "pinyin": "shān",
+        "compounds": [
+          "衣衫",
+          "衬衫"
+        ]
+      },
+      {
+        "char": "负",
+        "pinyin": "fù",
+        "compounds": [
+          "负责",
+          "负数"
+        ]
+      },
+      {
+        "char": "责",
+        "pinyin": "zé",
+        "compounds": [
+          "负责",
+          "责骂"
+        ]
+      },
+      {
+        "char": "泄",
+        "pinyin": "xiè",
+        "compounds": [
+          "泄气",
+          "泄密"
+        ]
+      },
+      {
+        "char": "恼",
+        "pinyin": "nǎo",
+        "compounds": [
+          "恼火",
+          "烦恼"
+        ]
+      }
+    ]
+  },
+  "26": {
+    "title": "漏",
+    "words": [
+      {
+        "char": "脊",
+        "pinyin": "jǐ",
+        "compounds": [
+          "脊背",
+          "脊梁"
+        ]
+      },
+      {
+        "char": "贼",
+        "pinyin": "zéi",
+        "compounds": [
+          "盗贼",
+          "窃贼"
+        ]
+      },
+      {
+        "char": "莫",
+        "pinyin": "mò",
+        "compounds": [
+          "莫非",
+          "莫如"
+        ]
+      },
+      {
+        "char": "晕",
+        "pinyin": "yūn",
+        "compounds": [
+          "头晕",
+          "晕倒"
+        ]
+      },
+      {
+        "char": "颠",
+        "pinyin": "diān",
+        "compounds": [
+          "颠倒",
+          "颠簸"
+        ]
+      },
+      {
+        "char": "歪",
+        "pinyin": "wāi",
+        "compounds": [
+          "歪理",
+          "歪斜"
+        ]
+      },
+      {
+        "char": "胶",
+        "pinyin": "jiāo",
+        "compounds": [
+          "胶水",
+          "胶鞋"
+        ]
+      },
+      {
+        "char": "旋",
+        "pinyin": "xuán",
+        "compounds": [
+          "旋风",
+          "旋转"
+        ]
+      },
+      {
+        "char": "纵",
+        "pinyin": "zòng",
+        "compounds": [
+          "纵深",
+          "纵队"
+        ]
+      },
+      {
+        "char": "嫌",
+        "pinyin": "xián",
+        "compounds": [
+          "嫌疑",
+          "嫌弃"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "漏",
+        "pinyin": "lòu",
+        "compounds": [
+          "漏雨",
+          "漏水"
+        ]
+      },
+      {
+        "char": "胖",
+        "pinyin": "pàng",
+        "compounds": [
+          "肥胖",
+          "胖子"
+        ]
+      },
+      {
+        "char": "驴",
+        "pinyin": "lǘ",
+        "compounds": [
+          "驴子",
+          "毛驴"
+        ]
+      },
+      {
+        "char": "爪",
+        "pinyin": "zhuǎ",
+        "compounds": [
+          "爪子",
+          "爪牙"
+        ]
+      },
+      {
+        "char": "莫",
+        "pinyin": "mò",
+        "compounds": [
+          "莫非",
+          "莫如"
+        ]
+      },
+      {
+        "char": "厉",
+        "pinyin": "lì",
+        "compounds": [
+          "严厉",
+          "厉害"
+        ]
+      },
+      {
+        "char": "害",
+        "pinyin": "hài",
+        "compounds": [
+          "害虫",
+          "有害"
+        ]
+      },
+      {
+        "char": "闯",
+        "pinyin": "chuǎng",
+        "compounds": [
+          "闯入",
+          "闯关"
+        ]
+      },
+      {
+        "char": "摸",
+        "pinyin": "mō",
+        "compounds": [
+          "抚摸",
+          "触摸"
+        ]
+      },
+      {
+        "char": "歪",
+        "pinyin": "wāi",
+        "compounds": [
+          "歪斜",
+          "歪理"
+        ]
+      },
+      {
+        "char": "胶",
+        "pinyin": "jiāo",
+        "compounds": [
+          "胶带",
+          "胶水"
+        ]
+      },
+      {
+        "char": "纵",
+        "pinyin": "zòng",
+        "compounds": [
+          "纵队",
+          "纵容"
+        ]
+      }
+    ]
+  },
+  "27": {
+    "title": "枣核",
+    "words": [
+      {
+        "char": "核",
+        "pinyin": "hé",
+        "compounds": [
+          "枣核",
+          "核桃"
+        ]
+      },
+      {
+        "char": "妻",
+        "pinyin": "qī",
+        "compounds": [
+          "妻子",
+          "夫妻"
+        ]
+      },
+      {
+        "char": "爹",
+        "pinyin": "diē",
+        "compounds": [
+          "爹娘",
+          "爹爹"
+        ]
+      },
+      {
+        "char": "犁",
+        "pinyin": "lí",
+        "compounds": [
+          "犁地",
+          "犁耙"
+        ]
+      },
+      {
+        "char": "聪",
+        "pinyin": "cōng",
+        "compounds": [
+          "聪明",
+          "聪颖"
+        ]
+      },
+      {
+        "char": "旱",
+        "pinyin": "hàn",
+        "compounds": [
+          "干旱",
+          "旱地"
+        ]
+      },
+      {
+        "char": "纳",
+        "pinyin": "nà",
+        "compounds": [
+          "容纳",
+          "采纳"
+        ]
+      },
+      {
+        "char": "搜",
+        "pinyin": "sōu",
+        "compounds": [
+          "搜集",
+          "搜查"
+        ]
+      },
+      {
+        "char": "折",
+        "pinyin": "zhé",
+        "compounds": [
+          "折腾",
+          "折断"
+        ]
+      },
+      {
+        "char": "困",
+        "pinyin": "kùn",
+        "compounds": [
+          "困难",
+          "困倦"
+        ]
+      },
+      {
+        "char": "岂",
+        "pinyin": "qǐ",
+        "compounds": [
+          "岂止",
+          "岂能"
+        ]
+      },
+      {
+        "char": "涨",
+        "pinyin": "zhǎng",
+        "compounds": [
+          "涨红",
+          "涨潮"
+        ]
+      }
+    ],
+    "mainWords": []
+  },
+  "unit8": {
+    "title": "语文园地八",
+    "words": [],
+    "mainWords": [
+      {
+        "char": "咳",
+        "pinyin": "ké",
+        "compounds": [
+          "咳嗽",
+          "干咳"
+        ]
+      },
+      {
+        "char": "嗽",
+        "pinyin": "sòu",
+        "compounds": [
+          "咳嗽",
+          "嗽声"
+        ]
+      },
+      {
+        "char": "唠",
+        "pinyin": "láo",
+        "compounds": [
+          "唠叨",
+          "唠嗑"
+        ]
+      },
+      {
+        "char": "叨",
+        "pinyin": "dāo",
+        "compounds": [
+          "唠叨",
+          "叨念"
+        ]
+      },
+      {
+        "char": "吆",
+        "pinyin": "yāo",
+        "compounds": [
+          "吆喝",
+          "吆五喝六"
+        ]
+      },
+      {
+        "char": "喝",
+        "pinyin": "hè",
+        "compounds": [
+          "吆喝",
+          "喝令"
+        ]
+      },
+      {
+        "char": "讽",
+        "pinyin": "fěng",
+        "compounds": [
+          "讽刺",
+          "嘲讽"
+        ]
+      },
+      {
+        "char": "诫",
+        "pinyin": "jiè",
+        "compounds": [
+          "告诫",
+          "劝诫"
+        ]
+      },
+      {
+        "char": "辩",
+        "pinyin": "biàn",
+        "compounds": [
+          "辩论",
+          "辩解"
+        ]
+      }
+    ]
+  }
+}
