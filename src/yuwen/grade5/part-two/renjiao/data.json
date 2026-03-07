@@ -1,0 +1,594 @@
+[
+  {
+    "id": "1",
+    "title": "古诗三首",
+    "author": "范成大、杨万里、雷震",
+    "words": [
+      {"char":"昼","pinyin":"zhòu","compounds":["白昼","昼夜"]},
+      {"char":"耘","pinyin":"yún","compounds":["耕耘","耘田"]},
+      {"char":"供","pinyin":"gòng","compounds":["供给","供耕织"]},
+      {"char":"稚","pinyin":"zhì","compounds":["幼稚","稚子"]},
+      {"char":"漪","pinyin":"yī","compounds":["涟漪","寒漪"]}
+    ],
+    "mainWords": [
+      {"char":"昼","pinyin":"zhòu","compounds":["白昼","昼夜"]},
+      {"char":"耘","pinyin":"yún","compounds":["耕耘","耘田"]},
+      {"char":"桑","pinyin":"sāng","compounds":["桑树","桑阴"]},
+      {"char":"晓","pinyin":"xiǎo","compounds":["拂晓","知晓"]}
+    ]
+  },
+  {
+    "id": "2",
+    "title": "祖父的园子",
+    "author": "萧红",
+    "words": [
+      {"char":"蚱","pinyin":"zhà","compounds":["蚂蚱","蚱蜢"]},
+      {"char":"啃","pinyin":"kěn","compounds":["啃食","啃咬"]},
+      {"char":"樱","pinyin":"yīng","compounds":["樱桃","樱花"]},
+      {"char":"蚌","pinyin":"bàng","compounds":["蚌壳","河蚌"]},
+      {"char":"割","pinyin":"gē","compounds":["收割","割草"]},
+      {"char":"嘟","pinyin":"dū","compounds":["嘟囔","嘟嘴"]},
+      {"char":"倭","pinyin":"wō","compounds":["倭瓜","倭寇"]},
+      {"char":"拴","pinyin":"shuān","compounds":["拴住","拴马"]},
+      {"char":"啰","pinyin":"luo","compounds":["啰唆","下雨啰"]},
+      {"char":"逛","pinyin":"guàng","compounds":["闲逛","逛街"]}
+    ],
+    "mainWords": [
+      {"char":"蝴","pinyin":"hú","compounds":["蝴蝶","蝴蜨"]},
+      {"char":"蚂","pinyin":"mǎ","compounds":["蚂蚱","蚂蚁"]},
+      {"char":"蚱","pinyin":"zhà","compounds":["蚂蚱","蚱蜢"]},
+      {"char":"嗡","pinyin":"wēng","compounds":["嗡嗡","嗡鸣"]},
+      {"char":"樱","pinyin":"yīng","compounds":["樱桃","樱花"]},
+      {"char":"拔","pinyin":"bá","compounds":["拔草","拔河"]},
+      {"char":"瞎","pinyin":"xiā","compounds":["瞎闹","瞎说"]},
+      {"char":"铲","pinyin":"chǎn","compounds":["铲地","铲子"]},
+      {"char":"锄","pinyin":"chú","compounds":["锄头","锄草"]},
+      {"char":"割","pinyin":"gē","compounds":["收割","割草"]},
+      {"char":"尾","pinyin":"wěi","compounds":["尾巴","结尾"]},
+      {"char":"承","pinyin":"chéng","compounds":["承认","承担"]},
+      {"char":"拴","pinyin":"shuān","compounds":["拴住","拴马"]},
+      {"char":"瓢","pinyin":"piáo","compounds":["水瓢","瓢虫"]},
+      {"char":"逛","pinyin":"guàng","compounds":["闲逛","逛街"]}
+    ]
+  },
+  {
+    "id": "3",
+    "title": "月是故乡明",
+    "author": "季羡林",
+    "words": [
+      {"char":"徘","pinyin":"pái","compounds":["徘徊","徘回"]},
+      {"char":"徊","pinyin":"huái","compounds":["徘徊","低徊"]},
+      {"char":"渺","pinyin":"miǎo","compounds":["渺小","烟波浩渺"]},
+      {"char":"篝","pinyin":"gōu","compounds":["篝火","篝灯"]},
+      {"char":"萌","pinyin":"méng","compounds":["萌动","萌发"]},
+      {"char":"澄","pinyin":"chéng","compounds":["澄澈","澄清"]},
+      {"char":"澈","pinyin":"chè","compounds":["澄澈","清澈"]},
+      {"char":"旖","pinyin":"yǐ","compounds":["旖旎","旖柅"]},
+      {"char":"旎","pinyin":"nǐ","compounds":["旖旎","旎旎"]},
+      {"char":"瑞","pinyin":"ruì","compounds":["瑞雪","瑞士"]},
+      {"char":"莱","pinyin":"lái","compounds":["莱芒湖","蓬莱"]},
+      {"char":"垠","pinyin":"yín","compounds":["无垠","一望无垠"]},
+      {"char":"顷","pinyin":"qǐng","compounds":["万顷","顷刻"]},
+      {"char":"峨","pinyin":"é","compounds":["巍峨","峨眉"]},
+      {"char":"燕","pinyin":"yān","compounds":["燕山","燕园"]},
+      {"char":"缀","pinyin":"zhuì","compounds":["点缀","连缀"]}
+    ],
+    "mainWords": []
+  },
+  {
+    "id": "4",
+    "title": "梅花魂",
+    "author": "陈慧瑛",
+    "words": [
+      {"char":"葬","pinyin":"zàng","compounds":["葬身","埋葬"]},
+      {"char":"腮","pinyin":"sāi","compounds":["腮边","腮帮"]},
+      {"char":"虬","pinyin":"qiú","compounds":["虬枝","虬龙"]},
+      {"char":"玷","pinyin":"diàn","compounds":["玷污","玷辱"]},
+      {"char":"郑","pinyin":"zhèng","compounds":["郑重","郑重其事"]},
+      {"char":"秉","pinyin":"bǐng","compounds":["秉性","秉持"]},
+      {"char":"飕","pinyin":"sōu","compounds":["凉飕飕","飕飗"]},
+      {"char":"码","pinyin":"mǎ","compounds":["码头","号码"]},
+      {"char":"撩","pinyin":"liáo","compounds":["撩乱","撩动"]},
+      {"char":"绢","pinyin":"juàn","compounds":["手绢","绢花"]},
+      {"char":"侨","pinyin":"qiáo","compounds":["华侨","侨胞"]},
+      {"char":"眷","pinyin":"juàn","compounds":["眷恋","家眷"]}
+    ],
+    "mainWords": []
+  },
+  {
+    "id": "5",
+    "title": "草船借箭",
+    "author": "罗贯中",
+    "words": [
+      {"char":"瑜","pinyin":"yú","compounds":["周瑜","瑕不掩瑜"]},
+      {"char":"忌","pinyin":"jì","compounds":["妒忌","忌讳"]},
+      {"char":"督","pinyin":"dū","compounds":["都督","监督"]},
+      {"char":"幔","pinyin":"màn","compounds":["幔子","布幔"]},
+      {"char":"寨","pinyin":"zhài","compounds":["水寨","山寨"]},
+      {"char":"擂","pinyin":"léi","compounds":["擂鼓","打擂"]},
+      {"char":"呐","pinyin":"nà","compounds":["呐喊","唢呐"]},
+      {"char":"弩","pinyin":"nǔ","compounds":["弓弩手","弩箭"]},
+      {"char":"丞","pinyin":"chéng","compounds":["丞相","县丞"]}
+    ],
+    "mainWords": [
+      {"char":"妒","pinyin":"dù","compounds":["妒忌","嫉妒"]},
+      {"char":"忌","pinyin":"jì","compounds":["妒忌","忌讳"]},
+      {"char":"曹","pinyin":"cáo","compounds":["曹操","姓曹"]},
+      {"char":"督","pinyin":"dū","compounds":["都督","监督"]},
+      {"char":"委","pinyin":"wěi","compounds":["委托","委员"]},
+      {"char":"鲁","pinyin":"lǔ","compounds":["鲁国","鲁莽"]},
+      {"char":"遮","pinyin":"zhē","compounds":["遮挡","遮盖"]},
+      {"char":"寨","pinyin":"zhài","compounds":["山寨","水寨"]},
+      {"char":"擂","pinyin":"léi","compounds":["擂鼓","打擂"]},
+      {"char":"呐","pinyin":"nà","compounds":["呐喊","唢呐"]},
+      {"char":"插","pinyin":"chā","compounds":["插花","插入"]}
+    ]
+  },
+  {
+    "id": "6",
+    "title": "景阳冈",
+    "author": "施耐庵",
+    "words": [
+      {"char":"倚","pinyin":"yǐ","compounds":["倚靠","倚仗"]},
+      {"char":"箸","pinyin":"zhù","compounds":["杯箸","筷子"]},
+      {"char":"碟","pinyin":"dié","compounds":["碗碟","碟子"]},
+      {"char":"斤","pinyin":"jīn","compounds":["斤两","公斤"]},
+      {"char":"俺","pinyin":"ǎn","compounds":["俺们","俺家"]},
+      {"char":"绰","pinyin":"chāo","compounds":["绰起","绰刀"]},
+      {"char":"擒","pinyin":"qín","compounds":["擒拿","擒获"]},
+      {"char":"勿","pinyin":"wù","compounds":["请勿","切勿"]},
+      {"char":"肋","pinyin":"lèi","compounds":["肋骨","两肋"]},
+      {"char":"踉","pinyin":"liàng","compounds":["踉跄","踉踉跄跄"]},
+      {"char":"跄","pinyin":"qiàng","compounds":["踉跄","跄踉"]},
+      {"char":"呵","pinyin":"ā","compounds":["呵呀","呵斥"]},
+      {"char":"胯","pinyin":"kuà","compounds":["腰胯","胯下"]},
+      {"char":"霹","pinyin":"pī","compounds":["霹雳","霹雷"]},
+      {"char":"雳","pinyin":"lì","compounds":["霹雳","焦雳"]},
+      {"char":"咆","pinyin":"páo","compounds":["咆哮","咆号"]},
+      {"char":"哮","pinyin":"xiào","compounds":["咆哮","哮喘"]},
+      {"char":"锤","pinyin":"chuí","compounds":["铁锤","锤子"]},
+      {"char":"泊","pinyin":"pō","compounds":["血泊","湖泊"]}
+    ],
+    "mainWords": [
+      {"char":"冈","pinyin":"gāng","compounds":["山冈","景阳冈"]},
+      {"char":"饥","pinyin":"jī","compounds":["饥饿","饥渴"]},
+      {"char":"碟","pinyin":"dié","compounds":["碟子","碗碟"]},
+      {"char":"斤","pinyin":"jīn","compounds":["公斤","斤两"]},
+      {"char":"俺","pinyin":"ǎn","compounds":["俺们","俺家"]},
+      {"char":"榜","pinyin":"bǎng","compounds":["榜文","榜样"]},
+      {"char":"杖","pinyin":"zhàng","compounds":["拐杖","梢棒"]},
+      {"char":"申","pinyin":"shēn","compounds":["申请","申时"]},
+      {"char":"兼","pinyin":"jiān","compounds":["兼并","兼顾"]},
+      {"char":"勿","pinyin":"wù","compounds":["请勿","切勿"]},
+      {"char":"拖","pinyin":"tuō","compounds":["拖拉","拖走"]},
+      {"char":"悉","pinyin":"xī","compounds":["知悉","熟悉"]},
+      {"char":"坠","pinyin":"zhuì","compounds":["坠落","下坠"]},
+      {"char":"膛","pinyin":"táng","compounds":["胸膛","枪膛"]},
+      {"char":"截","pinyin":"jié","compounds":["截断","截止"]}
+    ]
+  },
+  {
+    "id": "7",
+    "title": "猴王出世",
+    "author": "吴承恩",
+    "words": [
+      {"char":"芝","pinyin":"zhī","compounds":["灵芝","芝兰"]},
+      {"char":"遂","pinyin":"suì","compounds":["遂有","顺遂"]},
+      {"char":"迸","pinyin":"bèng","compounds":["迸裂","迸发"]},
+      {"char":"涧","pinyin":"jiàn","compounds":["山涧","溪涧"]},
+      {"char":"獐","pinyin":"zhāng","compounds":["獐鹿","獐子"]},
+      {"char":"猕","pinyin":"mí","compounds":["猕猴","猕猿"]},
+      {"char":"猿","pinyin":"yuán","compounds":["猿猴","猕猿"]},
+      {"char":"耶","pinyin":"yé","compounds":["耍子去耶","是耶非耶"]},
+      {"char":"挈","pinyin":"qiè","compounds":["拖男挈女","提挈"]},
+      {"char":"瞑","pinyin":"míng","compounds":["瞑目","瞑想"]},
+      {"char":"窍","pinyin":"qiào","compounds":["石窍","窍门"]},
+      {"char":"楷","pinyin":"kǎi","compounds":["楷书","楷体"]},
+      {"char":"镌","pinyin":"juān","compounds":["镌刻","镌印"]},
+      {"char":"挠","pinyin":"náo","compounds":["抓耳挠腮","阻挠"]},
+      {"char":"劣","pinyin":"liè","compounds":["顽劣","恶劣"]},
+      {"char":"呵","pinyin":"hē","compounds":["呵呵","呵斥"]}
+    ],
+    "mainWords": []
+  },
+  {
+    "id": "8",
+    "title": "红楼春趣",
+    "author": "曹雪芹",
+    "words": [
+      {"char":"屉","pinyin":"tì","compounds":["窗屉子","抽屉"]},
+      {"char":"嫣","pinyin":"yān","compounds":["嫣红","姹紫嫣红"]},
+      {"char":"讳","pinyin":"huì","compounds":["忌讳","避讳"]},
+      {"char":"晦","pinyin":"huì","compounds":["晦气","晦暗"]},
+      {"char":"墩","pinyin":"dūn","compounds":["高墩","土墩"]},
+      {"char":"钗","pinyin":"chāi","compounds":["金钗","钗子"]},
+      {"char":"雯","pinyin":"wén","compounds":["晴雯","雯华"]},
+      {"char":"袭","pinyin":"xí","compounds":["袭人","袭击"]},
+      {"char":"垫","pinyin":"diàn","compounds":["垫子","铺垫"]},
+      {"char":"豁","pinyin":"huō","compounds":["豁喇喇","豁口"]},
+      {"char":"喇","pinyin":"lā","compounds":["豁喇喇","喇叭"]}
+    ],
+    "mainWords": []
+  },
+  {
+    "id": "9",
+    "title": "古诗三首",
+    "author": "王昌龄、陆游、杜甫",
+    "words": [
+      {"char":"仞","pinyin":"rèn","compounds":["千仞","万仞"]},
+      {"char":"岳","pinyin":"yuè","compounds":["五岳","山岳"]},
+      {"char":"蓟","pinyin":"jì","compounds":["蓟北","蓟州"]},
+      {"char":"涕","pinyin":"tì","compounds":["涕泪","鼻涕"]},
+      {"char":"裳","pinyin":"cháng","compounds":["衣裳","罗裳"]},
+      {"char":"襄","pinyin":"xiāng","compounds":["襄阳","襄水"]}
+    ],
+    "mainWords": [
+      {"char":"仞","pinyin":"rèn","compounds":["千仞","万仞"]},
+      {"char":"岳","pinyin":"yuè","compounds":["五岳","山岳"]},
+      {"char":"摩","pinyin":"mó","compounds":["摩天","摩擦"]},
+      {"char":"遗","pinyin":"yí","compounds":["遗民","遗忘"]},
+      {"char":"涕","pinyin":"tì","compounds":["涕泪","鼻涕"]},
+      {"char":"巫","pinyin":"wū","compounds":["巫峡","巫山"]}
+    ]
+  },
+  {
+    "id": "10",
+    "title": "青山处处埋忠骨",
+    "author": "晓年",
+    "words": [
+      {"char":"彭","pinyin":"péng","compounds":["彭德怀","姓彭"]},
+      {"char":"拟","pinyin":"nǐ","compounds":["拟定","模拟"]},
+      {"char":"谋","pinyin":"móu","compounds":["参谋","计谋"]},
+      {"char":"赴","pinyin":"fù","compounds":["奔赴","赴约"]},
+      {"char":"殊","pinyin":"shū","compounds":["特殊","殊荣"]},
+      {"char":"踌","pinyin":"chóu","compounds":["踌躇","踌蹰"]},
+      {"char":"躇","pinyin":"chú","compounds":["踌躇","躇步"]},
+      {"char":"黯","pinyin":"àn","compounds":["黯然","黯淡"]},
+      {"char":"革","pinyin":"gé","compounds":["马革裹尸","改革"]}
+    ],
+    "mainWords": [
+      {"char":"彭","pinyin":"péng","compounds":["彭德怀","姓彭"]},
+      {"char":"拟","pinyin":"nǐ","compounds":["拟定","模拟"]},
+      {"char":"谋","pinyin":"móu","compounds":["参谋","计谋"]},
+      {"char":"瑞","pinyin":"ruì","compounds":["瑞雪","祥瑞"]},
+      {"char":"损","pinyin":"sǔn","compounds":["损失","损坏"]},
+      {"char":"锻","pinyin":"duàn","compounds":["锻炼","锻造"]},
+      {"char":"炼","pinyin":"liàn","compounds":["锻炼","磨炼"]},
+      {"char":"眷","pinyin":"juàn","compounds":["眷恋","家眷"]},
+      {"char":"赴","pinyin":"fù","compounds":["奔赴","赴约"]},
+      {"char":"搞","pinyin":"gǎo","compounds":["搞定","搞特殊"]},
+      {"char":"殊","pinyin":"shū","compounds":["特殊","殊荣"]},
+      {"char":"尊","pinyin":"zūn","compounds":["尊重","尊敬"]},
+      {"char":"签","pinyin":"qiān","compounds":["签字","签名"]},
+      {"char":"革","pinyin":"gé","compounds":["改革","皮革"]}
+    ]
+  },
+  {
+    "id": "11",
+    "title": "军神",
+    "author": "毕必成",
+    "words": [
+      {"char":"沃","pinyin":"wò","compounds":["沃克","肥沃"]},
+      {"char":"匪","pinyin":"fěi","compounds":["土匪","匪徒"]},
+      {"char":"绷","pinyin":"bēng","compounds":["绷带","绷紧"]},
+      {"char":"衷","pinyin":"zhōng","compounds":["由衷","衷心"]},
+      {"char":"堪","pinyin":"kān","compounds":["堪称","难堪"]}
+    ],
+    "mainWords": [
+      {"char":"庆","pinyin":"qìng","compounds":["重庆","庆祝"]},
+      {"char":"诊","pinyin":"zhěn","compounds":["诊所","诊断"]},
+      {"char":"沃","pinyin":"wò","compounds":["肥沃","沃克"]},
+      {"char":"龄","pinyin":"líng","compounds":["年龄","高龄"]},
+      {"char":"匪","pinyin":"fěi","compounds":["土匪","匪徒"]},
+      {"char":"绷","pinyin":"bēng","compounds":["绷带","绷紧"]},
+      {"char":"审","pinyin":"shěn","compounds":["审视","审问"]},
+      {"char":"剂","pinyin":"jì","compounds":["药剂","针剂"]},
+      {"char":"施","pinyin":"shī","compounds":["施行","施工"]},
+      {"char":"吭","pinyin":"kēng","compounds":["一声不吭","吭声"]},
+      {"char":"崭","pinyin":"zhǎn","compounds":["崭新","崭露头角"]},
+      {"char":"衷","pinyin":"zhōng","compounds":["由衷","衷心"]},
+      {"char":"慈","pinyin":"cí","compounds":["慈祥","慈爱"]},
+      {"char":"祥","pinyin":"xiáng","compounds":["慈祥","吉祥"]},
+      {"char":"荣","pinyin":"róng","compounds":["荣幸","光荣"]}
+    ]
+  },
+  {
+    "id": "12",
+    "title": "清贫",
+    "author": "方志敏",
+    "words": [
+      {"char":"筹","pinyin":"chóu","compounds":["筹集","筹备"]},
+      {"char":"矜","pinyin":"jīn","compounds":["矜持","矜夸"]},
+      {"char":"俘","pinyin":"fú","compounds":["俘虏","俘获"]},
+      {"char":"镯","pinyin":"zhuó","compounds":["手镯","金镯"]},
+      {"char":"吓","pinyin":"hè","compounds":["威吓","恐吓"]},
+      {"char":"裆","pinyin":"dāng","compounds":["裤裆","裆部"]},
+      {"char":"企","pinyin":"qǐ","compounds":["企望","企图"]},
+      {"char":"彼","pinyin":"bǐ","compounds":["彼此","彼岸"]},
+      {"char":"褂","pinyin":"guà","compounds":["汗褂","褂子"]},
+      {"char":"坞","pinyin":"wù","compounds":["深山坞","船坞"]}
+    ],
+    "mainWords": []
+  },
+  {
+    "id": "13",
+    "title": "人物描写一组",
+    "author": "徐光耀、老舍、吴敬梓",
+    "words": [
+      {"char":"嘎","pinyin":"gǎ","compounds":["小嘎子","嘎子"]},
+      {"char":"绊","pinyin":"bàn","compounds":["绊倒","绊子"]},
+      {"char":"揪","pinyin":"jiū","compounds":["揪住","揪扯"]},
+      {"char":"扳","pinyin":"bān","compounds":["扳动","扳手"]},
+      {"char":"腕","pinyin":"wàn","compounds":["脚腕","手腕"]},
+      {"char":"铸","pinyin":"zhù","compounds":["铸造","铸就"]},
+      {"char":"颧","pinyin":"quán","compounds":["颧骨","颧部"]},
+      {"char":"疤","pinyin":"bā","compounds":["伤疤","疤痕"]},
+      {"char":"监","pinyin":"jiàn","compounds":["监生","国子监"]},
+      {"char":"侄","pinyin":"zhí","compounds":["侄子","侄女"]},
+      {"char":"痰","pinyin":"tán","compounds":["痰响","吐痰"]},
+      {"char":"揩","pinyin":"kāi","compounds":["揩揩眼泪","揩油"]}
+    ],
+    "mainWords": [
+      {"char":"跤","pinyin":"jiāo","compounds":["摔跤","跌跤"]},
+      {"char":"搂","pinyin":"lǒu","compounds":["搂抱","搂住"]},
+      {"char":"仗","pinyin":"zhàng","compounds":["仗着","打仗"]},
+      {"char":"鞭","pinyin":"biān","compounds":["鞭子","鞭炮"]},
+      {"char":"欺","pinyin":"qī","compounds":["欺负","欺骗"]},
+      {"char":"挠","pinyin":"náo","compounds":["阻挠","抓挠"]},
+      {"char":"扳","pinyin":"bān","compounds":["扳手","扳动"]},
+      {"char":"腕","pinyin":"wàn","compounds":["手腕","脚腕"]},
+      {"char":"剃","pinyin":"tì","compounds":["剃头","剃掉"]},
+      {"char":"腮","pinyin":"sāi","compounds":["腮帮","两腮"]},
+      {"char":"疤","pinyin":"bā","compounds":["伤疤","疤痕"]},
+      {"char":"监","pinyin":"jiàn","compounds":["监生","国子监"]},
+      {"char":"侄","pinyin":"zhí","compounds":["侄子","侄女"]},
+      {"char":"喉","pinyin":"hóu","compounds":["喉咙","咽喉"]},
+      {"char":"咙","pinyin":"lóng","compounds":["喉咙","咙喉"]}
+    ]
+  },
+  {
+    "id": "14",
+    "title": "刷子李",
+    "author": "冯骥才",
+    "words": [
+      {"char":"浆","pinyin":"jiāng","compounds":["刷浆","豆浆"]},
+      {"char":"傅","pinyin":"fù","compounds":["师傅","太傅"]},
+      {"char":"袱","pinyin":"fú","compounds":["包袱","袱子"]},
+      {"char":"蘸","pinyin":"zhàn","compounds":["蘸浆","蘸水"]},
+      {"char":"圣","pinyin":"shèng","compounds":["神圣","圣洁"]},
+      {"char":"馅","pinyin":"xiàn","compounds":["露馅儿","肉馅"]},
+      {"char":"诈","pinyin":"zhà","compounds":["有诈","欺诈"]},
+      {"char":"怔","pinyin":"zhèng","compounds":["发怔","怔住"]}
+    ],
+    "mainWords": [
+      {"char":"浆","pinyin":"jiāng","compounds":["刷浆","豆浆"]},
+      {"char":"傅","pinyin":"fù","compounds":["师傅","太傅"]},
+      {"char":"袱","pinyin":"fú","compounds":["包袱","袱子"]},
+      {"char":"桶","pinyin":"tǒng","compounds":["水桶","木桶"]},
+      {"char":"障","pinyin":"zhàng","compounds":["屏障","障碍"]},
+      {"char":"芝","pinyin":"zhī","compounds":["芝麻","灵芝"]},
+      {"char":"圣","pinyin":"shèng","compounds":["神圣","圣洁"]},
+      {"char":"犯","pinyin":"fàn","compounds":["侵犯","犯法"]},
+      {"char":"馅","pinyin":"xiàn","compounds":["露馅儿","肉馅"]},
+      {"char":"轰","pinyin":"hōng","compounds":["轰然","轰炸"]},
+      {"char":"堪","pinyin":"kān","compounds":["难堪","堪称"]},
+      {"char":"诈","pinyin":"zhà","compounds":["欺诈","诈骗"]},
+      {"char":"傻","pinyin":"shǎ","compounds":["傻子","发傻"]},
+      {"char":"捏","pinyin":"niē","compounds":["捏住","捏紧"]},
+      {"char":"怔","pinyin":"zhèng","compounds":["发怔","怔住"]}
+    ]
+  },
+  {
+    "id": "15",
+    "title": "自相矛盾",
+    "author": "韩非",
+    "words": [
+      {"char":"吾","pinyin":"wú","compounds":["吾辈","吾盾"]},
+      {"char":"弗","pinyin":"fú","compounds":["弗能","弗许"]},
+      {"char":"夫","pinyin":"fú","compounds":["夫不可陷之盾","若夫"]}
+    ],
+    "mainWords": [
+      {"char":"矛","pinyin":"máo","compounds":["矛盾","长矛"]},
+      {"char":"盾","pinyin":"dùn","compounds":["矛盾","盾牌"]},
+      {"char":"誉","pinyin":"yù","compounds":["赞誉","称誉"]},
+      {"char":"吾","pinyin":"wú","compounds":["吾辈","吾盾"]}
+    ]
+  },
+  {
+    "id": "16",
+    "title": "田忌赛马",
+    "author": "司马迁",
+    "words": [
+      {"char":"策","pinyin":"cè","compounds":["计策","策略"]},
+      {"char":"荐","pinyin":"jiàn","compounds":["引荐","推荐"]}
+    ],
+    "mainWords": [
+      {"char":"赢","pinyin":"yíng","compounds":["输赢","赢家"]},
+      {"char":"拳","pinyin":"quán","compounds":["拳头","拳击"]},
+      {"char":"擦","pinyin":"cā","compounds":["摩拳擦掌","擦汗"]},
+      {"char":"策","pinyin":"cè","compounds":["计策","策略"]},
+      {"char":"荐","pinyin":"jiàn","compounds":["引荐","推荐"]}
+    ]
+  },
+  {
+    "id": "17",
+    "title": "跳水",
+    "author": "列夫·托尔斯泰",
+    "words": [
+      {"char":"肆","pinyin":"sì","compounds":["放肆","肆意"]},
+      {"char":"桅","pinyin":"wéi","compounds":["桅杆","船桅"]},
+      {"char":"撕","pinyin":"sī","compounds":["撕咬","撕开"]},
+      {"char":"唬","pinyin":"hǔ","compounds":["吓唬","唬人"]},
+      {"char":"龇","pinyin":"zī","compounds":["龇牙咧嘴","龇牙"]},
+      {"char":"咧","pinyin":"liě","compounds":["龇牙咧嘴","咧嘴"]},
+      {"char":"瞄","pinyin":"miáo","compounds":["瞄准","瞄一眼"]}
+    ],
+    "mainWords": [
+      {"char":"艘","pinyin":"sōu","compounds":["一艘船","客艘"]},
+      {"char":"航","pinyin":"háng","compounds":["航行","航海"]},
+      {"char":"肆","pinyin":"sì","compounds":["放肆","肆意"]},
+      {"char":"帽","pinyin":"mào","compounds":["帽子","草帽"]},
+      {"char":"桅","pinyin":"wéi","compounds":["桅杆","船桅"]},
+      {"char":"撕","pinyin":"sī","compounds":["撕开","撕咬"]},
+      {"char":"逗","pinyin":"dòu","compounds":["逗乐","挑逗"]},
+      {"char":"唬","pinyin":"hǔ","compounds":["吓唬","唬人"]},
+      {"char":"钩","pinyin":"gōu","compounds":["钩子","鱼钩"]},
+      {"char":"扭","pinyin":"niǔ","compounds":["扭动","扭转"]},
+      {"char":"咧","pinyin":"liě","compounds":["咧嘴","龇牙咧嘴"]},
+      {"char":"舱","pinyin":"cāng","compounds":["船舱","机舱"]},
+      {"char":"鸥","pinyin":"ōu","compounds":["海鸥","沙鸥"]},
+      {"char":"瞄","pinyin":"miáo","compounds":["瞄准","瞄一眼"]}
+    ]
+  },
+  {
+    "id": "18",
+    "title": "威尼斯的小艇",
+    "author": "马克·吐温",
+    "words": [
+      {"char":"尼","pinyin":"ní","compounds":["威尼斯","尼龙"]},
+      {"char":"艄","pinyin":"shāo","compounds":["船艄","艄公"]},
+      {"char":"翘","pinyin":"qiào","compounds":["翘起","翘首"]},
+      {"char":"姆","pinyin":"mǔ","compounds":["保姆","姆妈"]},
+      {"char":"祷","pinyin":"dǎo","compounds":["祷告","祈祷"]},
+      {"char":"雇","pinyin":"gù","compounds":["雇好","雇佣"]},
+      {"char":"哗","pinyin":"huá","compounds":["哗笑","喧哗"]}
+    ],
+    "mainWords": [
+      {"char":"尼","pinyin":"ní","compounds":["威尼斯","尼龙"]},
+      {"char":"斯","pinyin":"sī","compounds":["威尼斯","斯文"]},
+      {"char":"艇","pinyin":"tǐng","compounds":["小艇","游艇"]},
+      {"char":"纵","pinyin":"zòng","compounds":["纵横","操纵"]},
+      {"char":"艄","pinyin":"shāo","compounds":["船艄","艄公"]},
+      {"char":"翘","pinyin":"qiào","compounds":["翘起","翘首"]},
+      {"char":"垫","pinyin":"diàn","compounds":["垫子","铺垫"]},
+      {"char":"帘","pinyin":"lián","compounds":["窗帘","帘子"]},
+      {"char":"姆","pinyin":"mǔ","compounds":["保姆","姆妈"]},
+      {"char":"祷","pinyin":"dǎo","compounds":["祷告","祈祷"]},
+      {"char":"雇","pinyin":"gù","compounds":["雇佣","雇请"]},
+      {"char":"簇","pinyin":"cù","compounds":["簇拥","花团锦簇"]},
+      {"char":"哗","pinyin":"huá","compounds":["哗笑","喧哗"]},
+      {"char":"码","pinyin":"mǎ","compounds":["码头","号码"]},
+      {"char":"笼","pinyin":"lǒng","compounds":["笼罩","笼络"]}
+    ]
+  },
+  {
+    "id": "19",
+    "title": "牧场之国",
+    "author": "卡雷尔·恰佩克",
+    "words": [
+      {"char":"毡","pinyin":"zhān","compounds":["毛毡","毡房"]},
+      {"char":"犊","pinyin":"dú","compounds":["牛犊","犊子"]},
+      {"char":"眺","pinyin":"tiào","compounds":["远眺","眺望"]},
+      {"char":"膘","pinyin":"biāo","compounds":["膘肥体壮","长膘"]},
+      {"char":"驰","pinyin":"chí","compounds":["飞驰","奔驰"]},
+      {"char":"爵","pinyin":"jué","compounds":["公爵","爵位"]},
+      {"char":"噜","pinyin":"lū","compounds":["呼噜","噜噜"]},
+      {"char":"吆","pinyin":"yāo","compounds":["吆喝","吆喊"]},
+      {"char":"哞","pinyin":"mōu","compounds":["哞哞","哞叫"]},
+      {"char":"畜","pinyin":"chù","compounds":["牲畜","家畜"]}
+    ],
+    "mainWords": [
+      {"char":"仪","pinyin":"yí","compounds":["仪态","礼仪"]},
+      {"char":"眺","pinyin":"tiào","compounds":["眺望","远眺"]},
+      {"char":"骏","pinyin":"jùn","compounds":["骏马","骏驰"]},
+      {"char":"驰","pinyin":"chí","compounds":["奔驰","飞驰"]},
+      {"char":"辽","pinyin":"liáo","compounds":["辽阔","辽远"]},
+      {"char":"绵","pinyin":"mián","compounds":["绵羊","连绵"]},
+      {"char":"凳","pinyin":"dèng","compounds":["板凳","凳子"]},
+      {"char":"吆","pinyin":"yāo","compounds":["吆喝","吆喊"]},
+      {"char":"铛","pinyin":"dāng","compounds":["铃铛","铛铛"]},
+      {"char":"罐","pinyin":"guàn","compounds":["罐子","瓦罐"]},
+      {"char":"恢","pinyin":"huī","compounds":["恢复","恢弘"]},
+      {"char":"踢","pinyin":"tī","compounds":["踢球","踢打"]},
+      {"char":"牲","pinyin":"shēng","compounds":["牲畜","牲口"]},
+      {"char":"畜","pinyin":"chù","compounds":["牲畜","家畜"]}
+    ]
+  },
+  {
+    "id": "20",
+    "title": "金字塔",
+    "author": "穆青",
+    "words": [
+      {"char":"译","pinyin":"yì","compounds":["译名","翻译"]},
+      {"char":"愧","pinyin":"kuì","compounds":["不愧","惭愧"]},
+      {"char":"熠","pinyin":"yì","compounds":["熠熠发光","熠熠生辉"]},
+      {"char":"遐","pinyin":"xiá","compounds":["遐想","遐思"]},
+      {"char":"黏","pinyin":"nián","compounds":["黏着物","黏液"]},
+      {"char":"刃","pinyin":"rèn","compounds":["刀刃","利刃"]},
+      {"char":"埃","pinyin":"āi","compounds":["埃及","尘埃"]},
+      {"char":"滥","pinyin":"làn","compounds":["泛滥","滥用"]},
+      {"char":"淤","pinyin":"yū","compounds":["淤泥","淤塞"]},
+      {"char":"湛","pinyin":"zhàn","compounds":["精湛","湛蓝"]}
+    ],
+    "mainWords": []
+  },
+  {
+    "id": "21",
+    "title": "杨氏之子",
+    "author": "刘义庆",
+    "words": [
+      {"char":"诣","pinyin":"yì","compounds":["造诣","诣见"]},
+      {"char":"禽","pinyin":"qín","compounds":["家禽","飞禽"]}
+    ],
+    "mainWords": [
+      {"char":"梁","pinyin":"liáng","compounds":["梁国","桥梁"]},
+      {"char":"诣","pinyin":"yì","compounds":["造诣","诣见"]},
+      {"char":"禽","pinyin":"qín","compounds":["家禽","飞禽"]}
+    ]
+  },
+  {
+    "id": "22",
+    "title": "手指",
+    "author": "丰子恺",
+    "words": [
+      {"char":"拇","pinyin":"mǔ","compounds":["拇指","拇战"]},
+      {"char":"弦","pinyin":"xián","compounds":["按弦","琴弦"]},
+      {"char":"揿","pinyin":"qìn","compounds":["揿电铃","揿钮"]},
+      {"char":"搔","pinyin":"sāo","compounds":["搔痒","搔扰"]},
+      {"char":"窈","pinyin":"yǎo","compounds":["窈窕","窈娜"]},
+      {"char":"窕","pinyin":"tiǎo","compounds":["窈窕","窕窈"]},
+      {"char":"秽","pinyin":"huì","compounds":["秽物","污秽"]},
+      {"char":"轧","pinyin":"yà","compounds":["轧伤","碾压"]},
+      {"char":"拧","pinyin":"nǐng","compounds":["拧螺丝","拧开"]},
+      {"char":"纽","pinyin":"niǔ","compounds":["纽扣","纽带"]},
+      {"char":"仓","pinyin":"cāng","compounds":["仓库","仓房"]},
+      {"char":"庸","pinyin":"yōng","compounds":["附庸","平庸"]},
+      {"char":"憎","pinyin":"zēng","compounds":["爱憎","憎恨"]}
+    ],
+    "mainWords": [
+      {"char":"拇","pinyin":"mǔ","compounds":["拇指","拇战"]},
+      {"char":"搔","pinyin":"sāo","compounds":["搔痒","搔扰"]},
+      {"char":"痒","pinyin":"yǎng","compounds":["搔痒","痛痒"]},
+      {"char":"秽","pinyin":"huì","compounds":["污秽","秽物"]},
+      {"char":"轧","pinyin":"yà","compounds":["轧伤","碾压"]},
+      {"char":"拧","pinyin":"nǐng","compounds":["拧螺丝","拧开"]},
+      {"char":"螺","pinyin":"luó","compounds":["螺丝","海螺"]},
+      {"char":"纽","pinyin":"niǔ","compounds":["纽扣","纽带"]},
+      {"char":"扣","pinyin":"kòu","compounds":["纽扣","扣子"]},
+      {"char":"貌","pinyin":"mào","compounds":["相貌","容貌"]},
+      {"char":"仓","pinyin":"cāng","compounds":["仓库","仓房"]},
+      {"char":"渺","pinyin":"miǎo","compounds":["渺小","渺茫"]},
+      {"char":"享","pinyin":"xiǎng","compounds":["享乐","享受"]},
+      {"char":"庸","pinyin":"yōng","compounds":["附庸","平庸"]},
+      {"char":"憎","pinyin":"zēng","compounds":["爱憎","憎恨"]}
+    ]
+  },
+  {
+    "id": "23",
+    "title": "童年的发现",
+    "author": "费奥多罗夫",
+    "words": [
+      {"char":"胚","pinyin":"pēi","compounds":["胚胎","胚芽"]},
+      {"char":"祸","pinyin":"huò","compounds":["祸患","闯祸"]},
+      {"char":"患","pinyin":"huàn","compounds":["祸患","患难"]},
+      {"char":"赋","pinyin":"fù","compounds":["天赋","赋予"]},
+      {"char":"痴","pinyin":"chī","compounds":["痴迷","痴呆"]},
+      {"char":"绞","pinyin":"jiǎo","compounds":["绞尽脑汁","绞刑"]},
+      {"char":"嘿","pinyin":"hēi","compounds":["嘿嘿","嘿呀"]},
+      {"char":"伊","pinyin":"yī","compounds":["伊万诺夫娜","伊人"]},
+      {"char":"娜","pinyin":"nà","compounds":["伊万诺夫娜","婀娜"]},
+      {"char":"窘","pinyin":"jiǒng","compounds":["困窘","窘迫"]}
+    ],
+    "mainWords": []
+  }
+]

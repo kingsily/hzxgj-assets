@@ -1,0 +1,6221 @@
+[
+  {
+    "id": "识字1",
+    "title": "天地人",
+    "author": "佚名",
+    "words": [
+      {
+        "char": "天",
+        "pinyin": "tiān",
+        "compounds": [
+          "天地",
+          "天空",
+          "白天"
+        ]
+      },
+      {
+        "char": "地",
+        "pinyin": "dì",
+        "compounds": [
+          "大地",
+          "土地",
+          "天地"
+        ]
+      },
+      {
+        "char": "人",
+        "pinyin": "rén",
+        "compounds": [
+          "人们",
+          "人口",
+          "大人"
+        ]
+      },
+      {
+        "char": "你",
+        "pinyin": "nǐ",
+        "compounds": [
+          "你们",
+          "你好",
+          "你的"
+        ]
+      },
+      {
+        "char": "我",
+        "pinyin": "wǒ",
+        "compounds": [
+          "我们",
+          "我的",
+          "自我"
+        ]
+      },
+      {
+        "char": "他",
+        "pinyin": "tā",
+        "compounds": [
+          "他们",
+          "他人",
+          "其他"
+        ]
+      }
+    ],
+    "mainWords": []
+  },
+  {
+    "id": "识字2",
+    "title": "金木水火土",
+    "author": "民间歌谣",
+    "words": [
+      {
+        "char": "一",
+        "pinyin": "yī",
+        "compounds": [
+          "一个",
+          "一天",
+          "一半"
+        ]
+      },
+      {
+        "char": "二",
+        "pinyin": "èr",
+        "compounds": [
+          "二月",
+          "二十",
+          "第二"
+        ]
+      },
+      {
+        "char": "三",
+        "pinyin": "sān",
+        "compounds": [
+          "三个",
+          "三天",
+          "三月"
+        ]
+      },
+      {
+        "char": "四",
+        "pinyin": "sì",
+        "compounds": [
+          "四个",
+          "四季",
+          "四方"
+        ]
+      },
+      {
+        "char": "五",
+        "pinyin": "wǔ",
+        "compounds": [
+          "五个",
+          "五天",
+          "五星"
+        ]
+      },
+      {
+        "char": "上",
+        "pinyin": "shàng",
+        "compounds": [
+          "上下",
+          "上面",
+          "上学"
+        ]
+      },
+      {
+        "char": "下",
+        "pinyin": "xià",
+        "compounds": [
+          "上下",
+          "下面",
+          "下雨"
+        ]
+      },
+      {
+        "char": "金",
+        "pinyin": "jīn",
+        "compounds": [
+          "金子",
+          "金色",
+          "金黄"
+        ]
+      },
+      {
+        "char": "木",
+        "pinyin": "mù",
+        "compounds": [
+          "木头",
+          "树木",
+          "木马"
+        ]
+      },
+      {
+        "char": "水",
+        "pinyin": "shuǐ",
+        "compounds": [
+          "水果",
+          "河水",
+          "山水"
+        ]
+      },
+      {
+        "char": "火",
+        "pinyin": "huǒ",
+        "compounds": [
+          "大火",
+          "火山",
+          "火苗"
+        ]
+      },
+      {
+        "char": "土",
+        "pinyin": "tǔ",
+        "compounds": [
+          "土地",
+          "泥土",
+          "黄土"
+        ]
+      },
+      {
+        "char": "日",
+        "pinyin": "rì",
+        "compounds": [
+          "日月",
+          "日子",
+          "日光"
+        ]
+      },
+      {
+        "char": "月",
+        "pinyin": "yuè",
+        "compounds": [
+          "日月",
+          "月亮",
+          "月光"
+        ]
+      },
+      {
+        "char": "今",
+        "pinyin": "jīn",
+        "compounds": [
+          "今天",
+          "如今",
+          "古今"
+        ]
+      },
+      {
+        "char": "古",
+        "pinyin": "gǔ",
+        "compounds": [
+          "古今",
+          "古代",
+          "古老"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "一",
+        "pinyin": "yī",
+        "compounds": [
+          "一个",
+          "一天",
+          "一半"
+        ]
+      },
+      {
+        "char": "二",
+        "pinyin": "èr",
+        "compounds": [
+          "二月",
+          "二十",
+          "第二"
+        ]
+      },
+      {
+        "char": "三",
+        "pinyin": "sān",
+        "compounds": [
+          "三个",
+          "三天",
+          "三月"
+        ]
+      },
+      {
+        "char": "上",
+        "pinyin": "shàng",
+        "compounds": [
+          "上下",
+          "上面",
+          "上学"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "识字3",
+    "title": "口耳目手足",
+    "author": "佚名",
+    "words": [
+      {
+        "char": "口",
+        "pinyin": "kǒu",
+        "compounds": [
+          "口水",
+          "开口",
+          "人口"
+        ]
+      },
+      {
+        "char": "耳",
+        "pinyin": "ěr",
+        "compounds": [
+          "耳朵",
+          "耳目",
+          "木耳"
+        ]
+      },
+      {
+        "char": "目",
+        "pinyin": "mù",
+        "compounds": [
+          "目光",
+          "耳目",
+          "头目"
+        ]
+      },
+      {
+        "char": "手",
+        "pinyin": "shǒu",
+        "compounds": [
+          "双手",
+          "小手",
+          "手心"
+        ]
+      },
+      {
+        "char": "足",
+        "pinyin": "zú",
+        "compounds": [
+          "手足",
+          "足球",
+          "十足"
+        ]
+      },
+      {
+        "char": "站",
+        "pinyin": "zhàn",
+        "compounds": [
+          "站立",
+          "站住",
+          "车站"
+        ]
+      },
+      {
+        "char": "坐",
+        "pinyin": "zuò",
+        "compounds": [
+          "坐下",
+          "坐车",
+          "坐立"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "口",
+        "pinyin": "kǒu",
+        "compounds": [
+          "口水",
+          "开口",
+          "人口"
+        ]
+      },
+      {
+        "char": "耳",
+        "pinyin": "ěr",
+        "compounds": [
+          "耳朵",
+          "耳目",
+          "木耳"
+        ]
+      },
+      {
+        "char": "目",
+        "pinyin": "mù",
+        "compounds": [
+          "目光",
+          "耳目",
+          "头目"
+        ]
+      },
+      {
+        "char": "手",
+        "pinyin": "shǒu",
+        "compounds": [
+          "双手",
+          "小手",
+          "手心"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "识字4",
+    "title": "日月山川",
+    "author": "佚名",
+    "words": [
+      {
+        "char": "日",
+        "pinyin": "rì",
+        "compounds": [
+          "日月",
+          "日子",
+          "日光"
+        ]
+      },
+      {
+        "char": "月",
+        "pinyin": "yuè",
+        "compounds": [
+          "日月",
+          "月亮",
+          "月光"
+        ]
+      },
+      {
+        "char": "山",
+        "pinyin": "shān",
+        "compounds": [
+          "山川",
+          "大山",
+          "山水"
+        ]
+      },
+      {
+        "char": "川",
+        "pinyin": "chuān",
+        "compounds": [
+          "山川",
+          "河川",
+          "四川"
+        ]
+      },
+      {
+        "char": "水",
+        "pinyin": "shuǐ",
+        "compounds": [
+          "水果",
+          "河水",
+          "山水"
+        ]
+      },
+      {
+        "char": "火",
+        "pinyin": "huǒ",
+        "compounds": [
+          "大火",
+          "火山",
+          "火苗"
+        ]
+      },
+      {
+        "char": "田",
+        "pinyin": "tián",
+        "compounds": [
+          "田地",
+          "水田",
+          "农田"
+        ]
+      },
+      {
+        "char": "禾",
+        "pinyin": "hé",
+        "compounds": [
+          "禾苗",
+          "禾田",
+          "禾木"
+        ]
+      },
+      {
+        "char": "六",
+        "pinyin": "liù",
+        "compounds": [
+          "六个",
+          "六天",
+          "六月"
+        ]
+      },
+      {
+        "char": "七",
+        "pinyin": "qī",
+        "compounds": [
+          "七个",
+          "七天",
+          "七月"
+        ]
+      },
+      {
+        "char": "八",
+        "pinyin": "bā",
+        "compounds": [
+          "八个",
+          "八天",
+          "八月"
+        ]
+      },
+      {
+        "char": "九",
+        "pinyin": "jiǔ",
+        "compounds": [
+          "九个",
+          "九天",
+          "九月"
+        ]
+      },
+      {
+        "char": "十",
+        "pinyin": "shí",
+        "compounds": [
+          "十个",
+          "十天",
+          "十月"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "日",
+        "pinyin": "rì",
+        "compounds": [
+          "日月",
+          "日子",
+          "日光"
+        ]
+      },
+      {
+        "char": "火",
+        "pinyin": "huǒ",
+        "compounds": [
+          "大火",
+          "火山",
+          "火苗"
+        ]
+      },
+      {
+        "char": "田",
+        "pinyin": "tián",
+        "compounds": [
+          "田地",
+          "水田",
+          "农田"
+        ]
+      },
+      {
+        "char": "禾",
+        "pinyin": "hé",
+        "compounds": [
+          "禾苗",
+          "禾田",
+          "禾木"
+        ]
+      },
+      {
+        "char": "六",
+        "pinyin": "liù",
+        "compounds": [
+          "六个",
+          "六天",
+          "六月"
+        ]
+      },
+      {
+        "char": "七",
+        "pinyin": "qī",
+        "compounds": [
+          "七个",
+          "七天",
+          "七月"
+        ]
+      },
+      {
+        "char": "八",
+        "pinyin": "bā",
+        "compounds": [
+          "八个",
+          "八天",
+          "八月"
+        ]
+      },
+      {
+        "char": "九",
+        "pinyin": "jiǔ",
+        "compounds": [
+          "九个",
+          "九天",
+          "九月"
+        ]
+      },
+      {
+        "char": "十",
+        "pinyin": "shí",
+        "compounds": [
+          "十个",
+          "十天",
+          "十月"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "语文园地一",
+    "title": "语文园地一",
+    "author": "教育部组织编写",
+    "words": [
+      {
+        "char": "咏",
+        "pinyin": "yǒng",
+        "compounds": [
+          "咏鹅",
+          "歌咏",
+          "吟咏"
+        ]
+      },
+      {
+        "char": "鹅",
+        "pinyin": "é",
+        "compounds": [
+          "白鹅",
+          "天鹅",
+          "鹅毛"
+        ]
+      },
+      {
+        "char": "项",
+        "pinyin": "xiàng",
+        "compounds": [
+          "项目",
+          "颈项",
+          "项圈"
+        ]
+      },
+      {
+        "char": "掌",
+        "pinyin": "zhǎng",
+        "compounds": [
+          "手掌",
+          "掌心",
+          "鼓掌"
+        ]
+      },
+      {
+        "char": "拨",
+        "pinyin": "bō",
+        "compounds": [
+          "拨动",
+          "拨开",
+          "拨水"
+        ]
+      },
+      {
+        "char": "波",
+        "pinyin": "bō",
+        "compounds": [
+          "波浪",
+          "水波",
+          "风波"
+        ]
+      },
+      {
+        "char": "清",
+        "pinyin": "qīng",
+        "compounds": [
+          "清水",
+          "清白",
+          "清洁"
+        ]
+      }
+    ],
+    "mainWords": []
+  },
+  {
+    "id": "拼音3",
+    "title": "b p m f",
+    "author": "教育部组织编写",
+    "words": [
+      {
+        "char": "爸",
+        "pinyin": "bà",
+        "compounds": [
+          "爸爸",
+          "老爸",
+          "爸妈"
+        ]
+      },
+      {
+        "char": "妈",
+        "pinyin": "mā",
+        "compounds": [
+          "妈妈",
+          "老妈",
+          "爸妈"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "爸",
+        "pinyin": "bà",
+        "compounds": [
+          "爸爸",
+          "老爸",
+          "爸妈"
+        ]
+      },
+      {
+        "char": "妈",
+        "pinyin": "mā",
+        "compounds": [
+          "妈妈",
+          "老妈",
+          "爸妈"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "语文园地二",
+    "title": "语文园地二",
+    "author": "教育部组织编写",
+    "words": [
+      {
+        "char": "本",
+        "pinyin": "běn",
+        "compounds": [
+          "书本",
+          "本子",
+          "课本"
+        ]
+      },
+      {
+        "char": "学",
+        "pinyin": "xué",
+        "compounds": [
+          "学校",
+          "学习",
+          "学生"
+        ]
+      },
+      {
+        "char": "校",
+        "pinyin": "xiào",
+        "compounds": [
+          "学校",
+          "校园",
+          "校长"
+        ]
+      },
+      {
+        "char": "班",
+        "pinyin": "bān",
+        "compounds": [
+          "班级",
+          "上班",
+          "班长"
+        ]
+      },
+      {
+        "char": "级",
+        "pinyin": "jí",
+        "compounds": [
+          "年级",
+          "班级",
+          "级别"
+        ]
+      },
+      {
+        "char": "姓",
+        "pinyin": "xìng",
+        "compounds": [
+          "姓名",
+          "姓氏",
+          "百姓"
+        ]
+      },
+      {
+        "char": "名",
+        "pinyin": "míng",
+        "compounds": [
+          "名字",
+          "姓名",
+          "有名"
+        ]
+      },
+      {
+        "char": "王",
+        "pinyin": "wáng",
+        "compounds": [
+          "王子",
+          "大王",
+          "王后"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "九",
+        "pinyin": "jiǔ",
+        "compounds": [
+          "九个",
+          "九天",
+          "九月"
+        ]
+      },
+      {
+        "char": "王",
+        "pinyin": "wáng",
+        "compounds": [
+          "王子",
+          "大王",
+          "王后"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "拼音4",
+    "title": "d t n l",
+    "author": "教育部组织编写",
+    "words": [
+      {
+        "char": "哥",
+        "pinyin": "gē",
+        "compounds": [
+          "哥哥",
+          "大哥",
+          "表哥"
+        ]
+      },
+      {
+        "char": "弟",
+        "pinyin": "dì",
+        "compounds": [
+          "弟弟",
+          "兄弟",
+          "小弟"
+        ]
+      },
+      {
+        "char": "画",
+        "pinyin": "huà",
+        "compounds": [
+          "画画",
+          "图画",
+          "画家"
+        ]
+      },
+      {
+        "char": "花",
+        "pinyin": "huā",
+        "compounds": [
+          "花朵",
+          "红花",
+          "开花"
+        ]
+      },
+      {
+        "char": "打",
+        "pinyin": "dǎ",
+        "compounds": [
+          "打球",
+          "拍打",
+          "打开"
+        ]
+      },
+      {
+        "char": "棋",
+        "pinyin": "qí",
+        "compounds": [
+          "下棋",
+          "棋子",
+          "围棋"
+        ]
+      },
+      {
+        "char": "积",
+        "pinyin": "jī",
+        "compounds": [
+          "积木",
+          "积累",
+          "积极"
+        ]
+      },
+      {
+        "char": "木",
+        "pinyin": "mù",
+        "compounds": [
+          "木头",
+          "树木",
+          "木马"
+        ]
+      },
+      {
+        "char": "大",
+        "pinyin": "dà",
+        "compounds": [
+          "大小",
+          "大人",
+          "大地"
+        ]
+      },
+      {
+        "char": "马",
+        "pinyin": "mǎ",
+        "compounds": [
+          "小马",
+          "马路",
+          "木马"
+        ]
+      },
+      {
+        "char": "路",
+        "pinyin": "lù",
+        "compounds": [
+          "马路",
+          "公路",
+          "小路"
+        ]
+      },
+      {
+        "char": "土",
+        "pinyin": "tǔ",
+        "compounds": [
+          "土地",
+          "泥土",
+          "黄土"
+        ]
+      }
+    ],
+    "mainWords": []
+  },
+  {
+    "id": "拼音8",
+    "title": "zh ch sh r",
+    "author": "教育部组织编写",
+    "words": [
+      {
+        "char": "桌",
+        "pinyin": "zhuō",
+        "compounds": [
+          "桌子",
+          "书桌",
+          "桌椅"
+        ]
+      },
+      {
+        "char": "纸",
+        "pinyin": "zhǐ",
+        "compounds": [
+          "纸巾",
+          "白纸",
+          "纸张"
+        ]
+      },
+      {
+        "char": "读",
+        "pinyin": "dú",
+        "compounds": [
+          "读书",
+          "朗读",
+          "阅读"
+        ]
+      },
+      {
+        "char": "书",
+        "pinyin": "shū",
+        "compounds": [
+          "书本",
+          "看书",
+          "书包"
+        ]
+      },
+      {
+        "char": "鱼",
+        "pinyin": "yú",
+        "compounds": [
+          "小鱼",
+          "金鱼",
+          "鱼儿"
+        ]
+      },
+      {
+        "char": "鸭",
+        "pinyin": "yā",
+        "compounds": [
+          "鸭子",
+          "小鸭",
+          "鸭蛋"
+        ]
+      },
+      {
+        "char": "乌",
+        "pinyin": "wū",
+        "compounds": [
+          "乌鸦",
+          "乌云",
+          "乌黑"
+        ]
+      },
+      {
+        "char": "鸦",
+        "pinyin": "yā",
+        "compounds": [
+          "乌鸦",
+          "寒鸦",
+          "鸦雀"
+        ]
+      }
+    ],
+    "mainWords": []
+  },
+  {
+    "id": "语文园地三",
+    "title": "语文园地三",
+    "author": "教育部组织编写",
+    "words": [
+      {
+        "char": "午",
+        "pinyin": "wǔ",
+        "compounds": [
+          "中午",
+          "下午",
+          "上午"
+        ]
+      },
+      {
+        "char": "星",
+        "pinyin": "xīng",
+        "compounds": [
+          "星星",
+          "星空",
+          "星光"
+        ]
+      },
+      {
+        "char": "期",
+        "pinyin": "qī",
+        "compounds": [
+          "星期",
+          "日期",
+          "学期"
+        ]
+      },
+      {
+        "char": "语",
+        "pinyin": "yǔ",
+        "compounds": [
+          "语文",
+          "语言",
+          "语气"
+        ]
+      },
+      {
+        "char": "文",
+        "pinyin": "wén",
+        "compounds": [
+          "语文",
+          "文字",
+          "文化"
+        ]
+      },
+      {
+        "char": "数",
+        "pinyin": "shù",
+        "compounds": [
+          "数学",
+          "数字",
+          "数目"
+        ]
+      },
+      {
+        "char": "写",
+        "pinyin": "xiě",
+        "compounds": [
+          "写字",
+          "书写",
+          "写作"
+        ]
+      },
+      {
+        "char": "会",
+        "pinyin": "huì",
+        "compounds": [
+          "学会",
+          "开会",
+          "不会"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "午",
+        "pinyin": "wǔ",
+        "compounds": [
+          "中午",
+          "下午",
+          "上午"
+        ]
+      },
+      {
+        "char": "下",
+        "pinyin": "xià",
+        "compounds": [
+          "上下",
+          "下面",
+          "下雨"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "拼音10",
+    "title": "ai ei ui",
+    "author": "教育部组织编写",
+    "words": [
+      {
+        "char": "白",
+        "pinyin": "bái",
+        "compounds": [
+          "白色",
+          "白云",
+          "白天"
+        ]
+      },
+      {
+        "char": "菜",
+        "pinyin": "cài",
+        "compounds": [
+          "白菜",
+          "青菜",
+          "菜叶"
+        ]
+      },
+      {
+        "char": "西",
+        "pinyin": "xī",
+        "compounds": [
+          "西瓜",
+          "西方",
+          "东西"
+        ]
+      },
+      {
+        "char": "瓜",
+        "pinyin": "guā",
+        "compounds": [
+          "西瓜",
+          "瓜子",
+          "南瓜"
+        ]
+      },
+      {
+        "char": "果",
+        "pinyin": "guǒ",
+        "compounds": [
+          "水果",
+          "果子",
+          "苹果"
+        ]
+      },
+      {
+        "char": "蓝",
+        "pinyin": "lán",
+        "compounds": [
+          "蓝天",
+          "蓝色",
+          "蓝牙"
+        ]
+      },
+      {
+        "char": "云",
+        "pinyin": "yún",
+        "compounds": [
+          "白云",
+          "云朵",
+          "乌云"
+        ]
+      },
+      {
+        "char": "草",
+        "pinyin": "cǎo",
+        "compounds": [
+          "小草",
+          "草地",
+          "青草"
+        ]
+      },
+      {
+        "char": "原",
+        "pinyin": "yuán",
+        "compounds": [
+          "草原",
+          "原来",
+          "高原"
+        ]
+      }
+    ],
+    "mainWords": []
+  },
+  {
+    "id": "拼音11",
+    "title": "ao ou iu",
+    "author": "教育部组织编写",
+    "words": [
+      {
+        "char": "小",
+        "pinyin": "xiǎo",
+        "compounds": [
+          "大小",
+          "小草",
+          "小孩"
+        ]
+      },
+      {
+        "char": "桥",
+        "pinyin": "qiáo",
+        "compounds": [
+          "小桥",
+          "石桥",
+          "大桥"
+        ]
+      },
+      {
+        "char": "流",
+        "pinyin": "liú",
+        "compounds": [
+          "流水",
+          "河流",
+          "流动"
+        ]
+      },
+      {
+        "char": "柳",
+        "pinyin": "liǔ",
+        "compounds": [
+          "柳树",
+          "杨柳",
+          "柳条"
+        ]
+      }
+    ],
+    "mainWords": []
+  },
+  {
+    "id": "拼音12",
+    "title": "ie üe er",
+    "author": "教育部组织编写",
+    "words": [
+      {
+        "char": "开",
+        "pinyin": "kāi",
+        "compounds": [
+          "开门",
+          "开花",
+          "打开"
+        ]
+      },
+      {
+        "char": "雪",
+        "pinyin": "xuě",
+        "compounds": [
+          "雪花",
+          "下雪",
+          "冬雪"
+        ]
+      },
+      {
+        "char": "夜",
+        "pinyin": "yè",
+        "compounds": [
+          "夜晚",
+          "夜色",
+          "黑夜"
+        ]
+      },
+      {
+        "char": "色",
+        "pinyin": "sè",
+        "compounds": [
+          "颜色",
+          "色彩",
+          "夜色"
+        ]
+      },
+      {
+        "char": "美",
+        "pinyin": "měi",
+        "compounds": [
+          "美丽",
+          "美好",
+          "美女"
+        ]
+      }
+    ],
+    "mainWords": []
+  },
+  {
+    "id": "语文园地四",
+    "title": "语文园地四",
+    "author": "教育部组织编写",
+    "words": [
+      {
+        "char": "晚",
+        "pinyin": "wǎn",
+        "compounds": [
+          "晚上",
+          "夜晚",
+          "晚会"
+        ]
+      },
+      {
+        "char": "昨",
+        "pinyin": "zuó",
+        "compounds": [
+          "昨天",
+          "昨日",
+          "昨晚"
+        ]
+      },
+      {
+        "char": "今",
+        "pinyin": "jīn",
+        "compounds": [
+          "今天",
+          "如今",
+          "古今"
+        ]
+      },
+      {
+        "char": "明",
+        "pinyin": "míng",
+        "compounds": [
+          "明天",
+          "明白",
+          "光明"
+        ]
+      },
+      {
+        "char": "个",
+        "pinyin": "gè",
+        "compounds": [
+          "一个",
+          "个体",
+          "几个"
+        ]
+      },
+      {
+        "char": "这",
+        "pinyin": "zhè",
+        "compounds": [
+          "这里",
+          "这个",
+          "这边"
+        ]
+      },
+      {
+        "char": "去",
+        "pinyin": "qù",
+        "compounds": [
+          "回去",
+          "过去",
+          "出去"
+        ]
+      },
+      {
+        "char": "年",
+        "pinyin": "nián",
+        "compounds": [
+          "今年",
+          "去年",
+          "明年"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "去",
+        "pinyin": "qù",
+        "compounds": [
+          "回去",
+          "过去",
+          "出去"
+        ]
+      },
+      {
+        "char": "年",
+        "pinyin": "nián",
+        "compounds": [
+          "今年",
+          "去年",
+          "明年"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "title": "秋天",
+    "author": "佚名",
+    "words": [
+      {
+        "char": "秋",
+        "pinyin": "qiū",
+        "compounds": [
+          "秋天",
+          "秋季",
+          "秋风"
+        ]
+      },
+      {
+        "char": "气",
+        "pinyin": "qì",
+        "compounds": [
+          "天气",
+          "生气",
+          "气体"
+        ]
+      },
+      {
+        "char": "了",
+        "pinyin": "le",
+        "compounds": [
+          "好了",
+          "来了",
+          "走了"
+        ]
+      },
+      {
+        "char": "树",
+        "pinyin": "shù",
+        "compounds": [
+          "树叶",
+          "大树",
+          "树木"
+        ]
+      },
+      {
+        "char": "叶",
+        "pinyin": "yè",
+        "compounds": [
+          "叶子",
+          "树叶",
+          "竹叶"
+        ]
+      },
+      {
+        "char": "黄",
+        "pinyin": "huáng",
+        "compounds": [
+          "黄色",
+          "金黄",
+          "黄花"
+        ]
+      },
+      {
+        "char": "片",
+        "pinyin": "piàn",
+        "compounds": [
+          "一片",
+          "叶片",
+          "片段"
+        ]
+      },
+      {
+        "char": "从",
+        "pinyin": "cóng",
+        "compounds": [
+          "从前",
+          "从来",
+          "跟从"
+        ]
+      },
+      {
+        "char": "来",
+        "pinyin": "lái",
+        "compounds": [
+          "回来",
+          "来到",
+          "过来"
+        ]
+      },
+      {
+        "char": "飞",
+        "pinyin": "fēi",
+        "compounds": [
+          "飞鸟",
+          "飞机",
+          "飞翔"
+        ]
+      },
+      {
+        "char": "天",
+        "pinyin": "tiān",
+        "compounds": [
+          "天空",
+          "白天",
+          "天地"
+        ]
+      },
+      {
+        "char": "那",
+        "pinyin": "nà",
+        "compounds": [
+          "那么",
+          "那个",
+          "那里"
+        ]
+      },
+      {
+        "char": "蓝",
+        "pinyin": "lán",
+        "compounds": [
+          "蓝天",
+          "蓝色",
+          "蓝牙"
+        ]
+      },
+      {
+        "char": "高",
+        "pinyin": "gāo",
+        "compounds": [
+          "高大",
+          "高低",
+          "高兴"
+        ]
+      },
+      {
+        "char": "群",
+        "pinyin": "qún",
+        "compounds": [
+          "一群",
+          "人群",
+          "群众"
+        ]
+      },
+      {
+        "char": "大",
+        "pinyin": "dà",
+        "compounds": [
+          "大小",
+          "大人",
+          "大地"
+        ]
+      },
+      {
+        "char": "雁",
+        "pinyin": "yàn",
+        "compounds": [
+          "大雁",
+          "雁群",
+          "鸿雁"
+        ]
+      },
+      {
+        "char": "往",
+        "pinyin": "wǎng",
+        "compounds": [
+          "往前",
+          "来往",
+          "过往"
+        ]
+      },
+      {
+        "char": "南",
+        "pinyin": "nán",
+        "compounds": [
+          "南方",
+          "南北",
+          "江南"
+        ]
+      },
+      {
+        "char": "一",
+        "pinyin": "yī",
+        "compounds": [
+          "一个",
+          "一天",
+          "一半"
+        ]
+      },
+      {
+        "char": "会",
+        "pinyin": "huì",
+        "compounds": [
+          "学会",
+          "开会",
+          "不会"
+        ]
+      },
+      {
+        "char": "儿",
+        "pinyin": "ér",
+        "compounds": [
+          "一会儿",
+          "儿子",
+          "儿女"
+        ]
+      },
+      {
+        "char": "排",
+        "pinyin": "pái",
+        "compounds": [
+          "排队",
+          "排列",
+          "排球"
+        ]
+      },
+      {
+        "char": "成",
+        "pinyin": "chéng",
+        "compounds": [
+          "成为",
+          "成长",
+          "成功"
+        ]
+      },
+      {
+        "char": "个",
+        "pinyin": "gè",
+        "compounds": [
+          "一个",
+          "个体",
+          "几个"
+        ]
+      },
+      {
+        "char": "人",
+        "pinyin": "rén",
+        "compounds": [
+          "人们",
+          "人口",
+          "大人"
+        ]
+      },
+      {
+        "char": "字",
+        "pinyin": "zì",
+        "compounds": [
+          "写字",
+          "汉字",
+          "生字"
+        ]
+      },
+      {
+        "char": "啊",
+        "pinyin": "a",
+        "compounds": [
+          "好啊",
+          "是啊",
+          "来啊"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "了",
+        "pinyin": "le",
+        "compounds": [
+          "好了",
+          "来了",
+          "走了"
+        ]
+      },
+      {
+        "char": "子",
+        "pinyin": "zi",
+        "compounds": [
+          "儿子",
+          "叶子",
+          "孩子"
+        ]
+      },
+      {
+        "char": "大",
+        "pinyin": "dà",
+        "compounds": [
+          "大小",
+          "大人",
+          "大地"
+        ]
+      },
+      {
+        "char": "人",
+        "pinyin": "rén",
+        "compounds": [
+          "人们",
+          "人口",
+          "大人"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "江南",
+    "author": "汉乐府",
+    "words": [
+      {
+        "char": "江",
+        "pinyin": "jiāng",
+        "compounds": [
+          "江南",
+          "江水",
+          "长江"
+        ]
+      },
+      {
+        "char": "南",
+        "pinyin": "nán",
+        "compounds": [
+          "江南",
+          "南方",
+          "南北"
+        ]
+      },
+      {
+        "char": "可",
+        "pinyin": "kě",
+        "compounds": [
+          "可以",
+          "可是",
+          "可爱"
+        ]
+      },
+      {
+        "char": "采",
+        "pinyin": "cǎi",
+        "compounds": [
+          "采莲",
+          "采摘",
+          "采用"
+        ]
+      },
+      {
+        "char": "莲",
+        "pinyin": "lián",
+        "compounds": [
+          "莲花",
+          "莲叶",
+          "莲蓬"
+        ]
+      },
+      {
+        "char": "戏",
+        "pinyin": "xì",
+        "compounds": [
+          "游戏",
+          "唱戏",
+          "戏剧"
+        ]
+      },
+      {
+        "char": "间",
+        "pinyin": "jiān",
+        "compounds": [
+          "中间",
+          "房间",
+          "时间"
+        ]
+      },
+      {
+        "char": "东",
+        "pinyin": "dōng",
+        "compounds": [
+          "东方",
+          "东西",
+          "东边"
+        ]
+      },
+      {
+        "char": "西",
+        "pinyin": "xī",
+        "compounds": [
+          "西方",
+          "东西",
+          "西边"
+        ]
+      },
+      {
+        "char": "北",
+        "pinyin": "běi",
+        "compounds": [
+          "北方",
+          "北京",
+          "北风"
+        ]
+      },
+      {
+        "char": "叶",
+        "pinyin": "yè",
+        "compounds": [
+          "叶子",
+          "树叶",
+          "竹叶"
+        ]
+      },
+      {
+        "char": "何",
+        "pinyin": "hé",
+        "compounds": [
+          "何处",
+          "何人",
+          "为何"
+        ]
+      },
+      {
+        "char": "田",
+        "pinyin": "tián",
+        "compounds": [
+          "田地",
+          "水田",
+          "农田"
+        ]
+      },
+      {
+        "char": "鱼",
+        "pinyin": "yú",
+        "compounds": [
+          "小鱼",
+          "金鱼",
+          "鱼儿"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "可",
+        "pinyin": "kě",
+        "compounds": [
+          "可以",
+          "可是",
+          "可爱"
+        ]
+      },
+      {
+        "char": "叶",
+        "pinyin": "yè",
+        "compounds": [
+          "叶子",
+          "树叶",
+          "竹叶"
+        ]
+      },
+      {
+        "char": "东",
+        "pinyin": "dōng",
+        "compounds": [
+          "东方",
+          "东西",
+          "东边"
+        ]
+      },
+      {
+        "char": "西",
+        "pinyin": "xī",
+        "compounds": [
+          "西方",
+          "东西",
+          "西边"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "雪地里的小画家",
+    "author": "程宏明",
+    "words": [
+      {
+        "char": "的",
+        "pinyin": "de",
+        "compounds": [
+          "我的",
+          "好的",
+          "是的"
+        ]
+      },
+      {
+        "char": "家",
+        "pinyin": "jiā",
+        "compounds": [
+          "大家",
+          "家里",
+          "回家"
+        ]
+      },
+      {
+        "char": "鸡",
+        "pinyin": "jī",
+        "compounds": [
+          "小鸡",
+          "公鸡",
+          "母鸡"
+        ]
+      },
+      {
+        "char": "竹",
+        "pinyin": "zhú",
+        "compounds": [
+          "竹子",
+          "竹叶",
+          "竹林"
+        ]
+      },
+      {
+        "char": "牙",
+        "pinyin": "yá",
+        "compounds": [
+          "月牙",
+          "牙齿",
+          "门牙"
+        ]
+      },
+      {
+        "char": "用",
+        "pinyin": "yòng",
+        "compounds": [
+          "不用",
+          "用心",
+          "有用"
+        ]
+      },
+      {
+        "char": "几",
+        "pinyin": "jǐ",
+        "compounds": [
+          "几个",
+          "几步",
+          "几天"
+        ]
+      },
+      {
+        "char": "步",
+        "pinyin": "bù",
+        "compounds": [
+          "几步",
+          "脚步",
+          "步行"
+        ]
+      },
+      {
+        "char": "没",
+        "pinyin": "méi",
+        "compounds": [
+          "没有",
+          "没人",
+          "没事"
+        ]
+      },
+      {
+        "char": "参",
+        "pinyin": "cān",
+        "compounds": [
+          "参加",
+          "参与",
+          "参赛"
+        ]
+      },
+      {
+        "char": "加",
+        "pinyin": "jiā",
+        "compounds": [
+          "参加",
+          "加法",
+          "加入"
+        ]
+      },
+      {
+        "char": "雪",
+        "pinyin": "xuě",
+        "compounds": [
+          "雪花",
+          "下雪",
+          "冬雪"
+        ]
+      },
+      {
+        "char": "地",
+        "pinyin": "dì",
+        "compounds": [
+          "大地",
+          "土地",
+          "天地"
+        ]
+      },
+      {
+        "char": "里",
+        "pinyin": "lǐ",
+        "compounds": [
+          "里面",
+          "心里",
+          "手里"
+        ]
+      },
+      {
+        "char": "来",
+        "pinyin": "lái",
+        "compounds": [
+          "回来",
+          "来到",
+          "过来"
+        ]
+      },
+      {
+        "char": "了",
+        "pinyin": "le",
+        "compounds": [
+          "好了",
+          "来了",
+          "走了"
+        ]
+      },
+      {
+        "char": "群",
+        "pinyin": "qún",
+        "compounds": [
+          "一群",
+          "人群",
+          "群众"
+        ]
+      },
+      {
+        "char": "画",
+        "pinyin": "huà",
+        "compounds": [
+          "画画",
+          "图画",
+          "画家"
+        ]
+      },
+      {
+        "char": "小",
+        "pinyin": "xiǎo",
+        "compounds": [
+          "大小",
+          "小草",
+          "小孩"
+        ]
+      },
+      {
+        "char": "狗",
+        "pinyin": "gǒu",
+        "compounds": [
+          "小狗",
+          "花狗",
+          "狼狗"
+        ]
+      },
+      {
+        "char": "梅",
+        "pinyin": "méi",
+        "compounds": [
+          "梅花",
+          "梅子",
+          "腊梅"
+        ]
+      },
+      {
+        "char": "花",
+        "pinyin": "huā",
+        "compounds": [
+          "花朵",
+          "红花",
+          "开花"
+        ]
+      },
+      {
+        "char": "鸭",
+        "pinyin": "yā",
+        "compounds": [
+          "鸭子",
+          "小鸭",
+          "鸭蛋"
+        ]
+      },
+      {
+        "char": "枫",
+        "pinyin": "fēng",
+        "compounds": [
+          "枫叶",
+          "枫树",
+          "枫林"
+        ]
+      },
+      {
+        "char": "马",
+        "pinyin": "mǎ",
+        "compounds": [
+          "小马",
+          "马路",
+          "木马"
+        ]
+      },
+      {
+        "char": "月",
+        "pinyin": "yuè",
+        "compounds": [
+          "日月",
+          "月亮",
+          "月光"
+        ]
+      },
+      {
+        "char": "不",
+        "pinyin": "bù",
+        "compounds": [
+          "不用",
+          "不是",
+          "不要"
+        ]
+      },
+      {
+        "char": "颜",
+        "pinyin": "yán",
+        "compounds": [
+          "颜料",
+          "颜色",
+          "容颜"
+        ]
+      },
+      {
+        "char": "料",
+        "pinyin": "liào",
+        "compounds": [
+          "颜料",
+          "木料",
+          "材料"
+        ]
+      },
+      {
+        "char": "笔",
+        "pinyin": "bǐ",
+        "compounds": [
+          "毛笔",
+          "铅笔",
+          "画笔"
+        ]
+      },
+      {
+        "char": "就",
+        "pinyin": "jiù",
+        "compounds": [
+          "就是",
+          "成就",
+          "就业"
+        ]
+      },
+      {
+        "char": "成",
+        "pinyin": "chéng",
+        "compounds": [
+          "成为",
+          "成长",
+          "成功"
+        ]
+      },
+      {
+        "char": "幅",
+        "pinyin": "fú",
+        "compounds": [
+          "一幅",
+          "画幅",
+          "幅度"
+        ]
+      },
+      {
+        "char": "青",
+        "pinyin": "qīng",
+        "compounds": [
+          "青草",
+          "青蛙",
+          "青山"
+        ]
+      },
+      {
+        "char": "蛙",
+        "pinyin": "wā",
+        "compounds": [
+          "青蛙",
+          "牛蛙",
+          "蛙鸣"
+        ]
+      },
+      {
+        "char": "为",
+        "pinyin": "wèi",
+        "compounds": [
+          "为什么",
+          "因为",
+          "为何"
+        ]
+      },
+      {
+        "char": "什",
+        "pinyin": "shén",
+        "compounds": [
+          "什么",
+          "为什么"
+        ]
+      },
+      {
+        "char": "么",
+        "pinyin": "me",
+        "compounds": [
+          "什么",
+          "这么",
+          "那么"
+        ]
+      },
+      {
+        "char": "洞",
+        "pinyin": "dòng",
+        "compounds": [
+          "洞里",
+          "山洞",
+          "洞口"
+        ]
+      },
+      {
+        "char": "睡",
+        "pinyin": "shuì",
+        "compounds": [
+          "睡着",
+          "睡觉",
+          "睡眠"
+        ]
+      },
+      {
+        "char": "着",
+        "pinyin": "zháo",
+        "compounds": [
+          "睡着",
+          "着火",
+          "着急"
+        ]
+      },
+      {
+        "char": "啦",
+        "pinyin": "la",
+        "compounds": [
+          "好啦",
+          "来啦",
+          "走啦"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "竹",
+        "pinyin": "zhú",
+        "compounds": [
+          "竹子",
+          "竹叶",
+          "竹林"
+        ]
+      },
+      {
+        "char": "马",
+        "pinyin": "mǎ",
+        "compounds": [
+          "小马",
+          "马路",
+          "木马"
+        ]
+      },
+      {
+        "char": "牙",
+        "pinyin": "yá",
+        "compounds": [
+          "月牙",
+          "牙齿",
+          "门牙"
+        ]
+      },
+      {
+        "char": "用",
+        "pinyin": "yòng",
+        "compounds": [
+          "不用",
+          "用心",
+          "有用"
+        ]
+      },
+      {
+        "char": "几",
+        "pinyin": "jǐ",
+        "compounds": [
+          "几个",
+          "几步",
+          "几天"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "四季",
+    "author": "薛卫民",
+    "words": [
+      {
+        "char": "鸟",
+        "pinyin": "niǎo",
+        "compounds": [
+          "小鸟",
+          "飞鸟",
+          "鸟叫"
+        ]
+      },
+      {
+        "char": "说",
+        "pinyin": "shuō",
+        "compounds": [
+          "说话",
+          "说明",
+          "听说"
+        ]
+      },
+      {
+        "char": "是",
+        "pinyin": "shì",
+        "compounds": [
+          "不是",
+          "可是",
+          "是的"
+        ]
+      },
+      {
+        "char": "春",
+        "pinyin": "chūn",
+        "compounds": [
+          "春天",
+          "春风",
+          "春季"
+        ]
+      },
+      {
+        "char": "青",
+        "pinyin": "qīng",
+        "compounds": [
+          "青草",
+          "青蛙",
+          "青山"
+        ]
+      },
+      {
+        "char": "蛙",
+        "pinyin": "wā",
+        "compounds": [
+          "青蛙",
+          "牛蛙",
+          "蛙鸣"
+        ]
+      },
+      {
+        "char": "夏",
+        "pinyin": "xià",
+        "compounds": [
+          "夏天",
+          "夏季",
+          "夏日"
+        ]
+      },
+      {
+        "char": "着",
+        "pinyin": "zhe",
+        "compounds": [
+          "看着",
+          "拿着",
+          "走着"
+        ]
+      },
+      {
+        "char": "皮",
+        "pinyin": "pí",
+        "compounds": [
+          "肚皮",
+          "皮毛",
+          "果皮"
+        ]
+      },
+      {
+        "char": "地",
+        "pinyin": "dì",
+        "compounds": [
+          "大地",
+          "土地",
+          "天地"
+        ]
+      },
+      {
+        "char": "就",
+        "pinyin": "jiù",
+        "compounds": [
+          "就是",
+          "成就",
+          "就业"
+        ]
+      },
+      {
+        "char": "冬",
+        "pinyin": "dōng",
+        "compounds": [
+          "冬天",
+          "冬雪",
+          "冬季"
+        ]
+      },
+      {
+        "char": "草",
+        "pinyin": "cǎo",
+        "compounds": [
+          "小草",
+          "草地",
+          "青草"
+        ]
+      },
+      {
+        "char": "芽",
+        "pinyin": "yá",
+        "compounds": [
+          "草芽",
+          "发芽",
+          "豆芽"
+        ]
+      },
+      {
+        "char": "尖",
+        "pinyin": "jiān",
+        "compounds": [
+          "尖尖",
+          "尖刀",
+          "笔尖"
+        ]
+      },
+      {
+        "char": "对",
+        "pinyin": "duì",
+        "compounds": [
+          "不对",
+          "对面",
+          "对错"
+        ]
+      },
+      {
+        "char": "我",
+        "pinyin": "wǒ",
+        "compounds": [
+          "我们",
+          "我的",
+          "自我"
+        ]
+      },
+      {
+        "char": "荷",
+        "pinyin": "hé",
+        "compounds": [
+          "荷叶",
+          "荷花",
+          "荷塘"
+        ]
+      },
+      {
+        "char": "叶",
+        "pinyin": "yè",
+        "compounds": [
+          "叶子",
+          "树叶",
+          "竹叶"
+        ]
+      },
+      {
+        "char": "圆",
+        "pinyin": "yuán",
+        "compounds": [
+          "圆圆",
+          "圆形",
+          "方圆"
+        ]
+      },
+      {
+        "char": "谷",
+        "pinyin": "gǔ",
+        "compounds": [
+          "谷穗",
+          "谷子",
+          "稻谷"
+        ]
+      },
+      {
+        "char": "穗",
+        "pinyin": "suì",
+        "compounds": [
+          "谷穗",
+          "麦穗",
+          "稻穗"
+        ]
+      },
+      {
+        "char": "弯",
+        "pinyin": "wān",
+        "compounds": [
+          "弯弯",
+          "弯曲",
+          "弯腰"
+        ]
+      },
+      {
+        "char": "鞠",
+        "pinyin": "jū",
+        "compounds": [
+          "鞠躬",
+          "鞠养",
+          "鞠身"
+        ]
+      },
+      {
+        "char": "躬",
+        "pinyin": "gōng",
+        "compounds": [
+          "鞠躬",
+          "躬身",
+          "躬行"
+        ]
+      },
+      {
+        "char": "秋",
+        "pinyin": "qiū",
+        "compounds": [
+          "秋天",
+          "秋季",
+          "秋风"
+        ]
+      },
+      {
+        "char": "雪",
+        "pinyin": "xuě",
+        "compounds": [
+          "雪花",
+          "下雪",
+          "冬雪"
+        ]
+      },
+      {
+        "char": "人",
+        "pinyin": "rén",
+        "compounds": [
+          "人们",
+          "人口",
+          "大人"
+        ]
+      },
+      {
+        "char": "大",
+        "pinyin": "dà",
+        "compounds": [
+          "大小",
+          "大人",
+          "大地"
+        ]
+      },
+      {
+        "char": "肚",
+        "pinyin": "dù",
+        "compounds": [
+          "肚子",
+          "肚皮",
+          "肚量"
+        ]
+      },
+      {
+        "char": "子",
+        "pinyin": "zi",
+        "compounds": [
+          "儿子",
+          "叶子",
+          "孩子"
+        ]
+      },
+      {
+        "char": "一",
+        "pinyin": "yī",
+        "compounds": [
+          "一个",
+          "一天",
+          "一半"
+        ]
+      },
+      {
+        "char": "挺",
+        "pinyin": "tǐng",
+        "compounds": [
+          "一挺",
+          "挺立",
+          "挺拔"
+        ]
+      },
+      {
+        "char": "他",
+        "pinyin": "tā",
+        "compounds": [
+          "他们",
+          "他人",
+          "其他"
+        ]
+      },
+      {
+        "char": "顽",
+        "pinyin": "wán",
+        "compounds": [
+          "顽皮",
+          "顽固",
+          "贪玩"
+        ]
+      },
+      {
+        "char": "顽",
+        "pinyin": "wán",
+        "compounds": [
+          "顽皮",
+          "顽固",
+          "贪玩"
+        ]
+      },
+      {
+        "char": "皮",
+        "pinyin": "pí",
+        "compounds": [
+          "顽皮",
+          "皮毛",
+          "果皮"
+        ]
+      },
+      {
+        "char": "de",
+        "pinyin": "de",
+        "compounds": [
+          "顽皮的",
+          "好的",
+          "我的"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "四",
+        "pinyin": "sì",
+        "compounds": [
+          "四个",
+          "四季",
+          "四方"
+        ]
+      },
+      {
+        "char": "小",
+        "pinyin": "xiǎo",
+        "compounds": [
+          "大小",
+          "小草",
+          "小孩"
+        ]
+      },
+      {
+        "char": "鸟",
+        "pinyin": "niǎo",
+        "compounds": [
+          "小鸟",
+          "飞鸟",
+          "鸟叫"
+        ]
+      },
+      {
+        "char": "是",
+        "pinyin": "shì",
+        "compounds": [
+          "不是",
+          "可是",
+          "是的"
+        ]
+      },
+      {
+        "char": "天",
+        "pinyin": "tiān",
+        "compounds": [
+          "天空",
+          "白天",
+          "天地"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "语文园地五",
+    "title": "语文园地五",
+    "author": "教育部组织编写",
+    "words": [
+      {
+        "char": "男",
+        "pinyin": "nán",
+        "compounds": [
+          "男生",
+          "男女",
+          "男子"
+        ]
+      },
+      {
+        "char": "女",
+        "pinyin": "nǚ",
+        "compounds": [
+          "女生",
+          "男女",
+          "女孩"
+        ]
+      },
+      {
+        "char": "开",
+        "pinyin": "kāi",
+        "compounds": [
+          "开门",
+          "开花",
+          "打开"
+        ]
+      },
+      {
+        "char": "关",
+        "pinyin": "guān",
+        "compounds": [
+          "开关",
+          "关门",
+          "关闭"
+        ]
+      },
+      {
+        "char": "正",
+        "pinyin": "zhèng",
+        "compounds": [
+          "正反",
+          "立正",
+          "正好"
+        ]
+      },
+      {
+        "char": "反",
+        "pinyin": "fǎn",
+        "compounds": [
+          "正反",
+          "反面",
+          "相反"
+        ]
+      },
+      {
+        "char": "先",
+        "pinyin": "xiān",
+        "compounds": [
+          "先后",
+          "首先",
+          "先前"
+        ]
+      },
+      {
+        "char": "后",
+        "pinyin": "hòu",
+        "compounds": [
+          "先后",
+          "后面",
+          "后天"
+        ]
+      },
+      {
+        "char": "内",
+        "pinyin": "nèi",
+        "compounds": [
+          "内外",
+          "内部",
+          "室内"
+        ]
+      },
+      {
+        "char": "外",
+        "pinyin": "wài",
+        "compounds": [
+          "内外",
+          "外面",
+          "外边"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "女",
+        "pinyin": "nǚ",
+        "compounds": [
+          "女生",
+          "男女",
+          "女孩"
+        ]
+      },
+      {
+        "char": "开",
+        "pinyin": "kāi",
+        "compounds": [
+          "开门",
+          "开花",
+          "打开"
+        ]
+      },
+      {
+        "char": "关",
+        "pinyin": "guān",
+        "compounds": [
+          "开关",
+          "关门",
+          "关闭"
+        ]
+      },
+      {
+        "char": "先",
+        "pinyin": "xiān",
+        "compounds": [
+          "先后",
+          "首先",
+          "先前"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "识字5",
+    "title": "对韵歌",
+    "author": "佚名",
+    "words": [
+      {
+        "char": "对",
+        "pinyin": "duì",
+        "compounds": [
+          "对韵",
+          "不对",
+          "对面"
+        ]
+      },
+      {
+        "char": "歌",
+        "pinyin": "gē",
+        "compounds": [
+          "儿歌",
+          "唱歌",
+          "歌曲"
+        ]
+      },
+      {
+        "char": "雨",
+        "pinyin": "yǔ",
+        "compounds": [
+          "下雨",
+          "雨水",
+          "大雨"
+        ]
+      },
+      {
+        "char": "风",
+        "pinyin": "fēng",
+        "compounds": [
+          "大风",
+          "风雨",
+          "春风"
+        ]
+      },
+      {
+        "char": "虫",
+        "pinyin": "chóng",
+        "compounds": [
+          "虫子",
+          "小虫",
+          "昆虫"
+        ]
+      },
+      {
+        "char": "清",
+        "pinyin": "qīng",
+        "compounds": [
+          "山清",
+          "清水",
+          "清洁"
+        ]
+      },
+      {
+        "char": "绿",
+        "pinyin": "lǜ",
+        "compounds": [
+          "柳绿",
+          "绿色",
+          "绿草"
+        ]
+      },
+      {
+        "char": "桃",
+        "pinyin": "táo",
+        "compounds": [
+          "桃花",
+          "桃树",
+          "桃子"
+        ]
+      },
+      {
+        "char": "红",
+        "pinyin": "hóng",
+        "compounds": [
+          "桃红",
+          "红色",
+          "红花"
+        ]
+      },
+      {
+        "char": "云",
+        "pinyin": "yún",
+        "compounds": [
+          "白云",
+          "云朵",
+          "乌云"
+        ]
+      },
+      {
+        "char": "雪",
+        "pinyin": "xuě",
+        "compounds": [
+          "雪花",
+          "下雪",
+          "冬雪"
+        ]
+      },
+      {
+        "char": "花",
+        "pinyin": "huā",
+        "compounds": [
+          "花朵",
+          "红花",
+          "开花"
+        ]
+      },
+      {
+        "char": "树",
+        "pinyin": "shù",
+        "compounds": [
+          "树叶",
+          "大树",
+          "树木"
+        ]
+      },
+      {
+        "char": "鸟",
+        "pinyin": "niǎo",
+        "compounds": [
+          "小鸟",
+          "飞鸟",
+          "鸟叫"
+        ]
+      },
+      {
+        "char": "山",
+        "pinyin": "shān",
+        "compounds": [
+          "山川",
+          "大山",
+          "山水"
+        ]
+      },
+      {
+        "char": "水",
+        "pinyin": "shuǐ",
+        "compounds": [
+          "水果",
+          "河水",
+          "山水"
+        ]
+      },
+      {
+        "char": "秀",
+        "pinyin": "xiù",
+        "compounds": [
+          "水秀",
+          "秀丽",
+          "秀美"
+        ]
+      },
+      {
+        "char": "柳",
+        "pinyin": "liǔ",
+        "compounds": [
+          "柳树",
+          "杨柳",
+          "柳条"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "云",
+        "pinyin": "yún",
+        "compounds": [
+          "白云",
+          "云朵",
+          "乌云"
+        ]
+      },
+      {
+        "char": "雨",
+        "pinyin": "yǔ",
+        "compounds": [
+          "下雨",
+          "雨水",
+          "大雨"
+        ]
+      },
+      {
+        "char": "虫",
+        "pinyin": "chóng",
+        "compounds": [
+          "虫子",
+          "小虫",
+          "昆虫"
+        ]
+      },
+      {
+        "char": "山",
+        "pinyin": "shān",
+        "compounds": [
+          "山川",
+          "大山",
+          "山水"
+        ]
+      },
+      {
+        "char": "水",
+        "pinyin": "shuǐ",
+        "compounds": [
+          "水果",
+          "河水",
+          "山水"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "识字6",
+    "title": "日月明",
+    "author": "佚名",
+    "words": [
+      {
+        "char": "力",
+        "pinyin": "lì",
+        "compounds": [
+          "力气",
+          "用力",
+          "力量"
+        ]
+      },
+      {
+        "char": "尖",
+        "pinyin": "jiān",
+        "compounds": [
+          "尖尖",
+          "尖刀",
+          "笔尖"
+        ]
+      },
+      {
+        "char": "尘",
+        "pinyin": "chén",
+        "compounds": [
+          "尘土",
+          "灰尘",
+          "粉尘"
+        ]
+      },
+      {
+        "char": "众",
+        "pinyin": "zhòng",
+        "compounds": [
+          "众人",
+          "群众",
+          "大众"
+        ]
+      },
+      {
+        "char": "双",
+        "pinyin": "shuāng",
+        "compounds": [
+          "双手",
+          "双方",
+          "一双"
+        ]
+      },
+      {
+        "char": "林",
+        "pinyin": "lín",
+        "compounds": [
+          "树林",
+          "森林",
+          "竹林"
+        ]
+      },
+      {
+        "char": "森",
+        "pinyin": "sēn",
+        "compounds": [
+          "森林",
+          "森严",
+          "阴森"
+        ]
+      },
+      {
+        "char": "不",
+        "pinyin": "bù",
+        "compounds": [
+          "不是",
+          "不要",
+          "不用"
+        ]
+      },
+      {
+        "char": "条",
+        "pinyin": "tiáo",
+        "compounds": [
+          "一条",
+          "条件",
+          "条理"
+        ]
+      },
+      {
+        "char": "心",
+        "pinyin": "xīn",
+        "compounds": [
+          "心情",
+          "爱心",
+          "心里"
+        ]
+      },
+      {
+        "char": "金",
+        "pinyin": "jīn",
+        "compounds": [
+          "金子",
+          "金色",
+          "金黄"
+        ]
+      },
+      {
+        "char": "日",
+        "pinyin": "rì",
+        "compounds": [
+          "日月",
+          "日子",
+          "日光"
+        ]
+      },
+      {
+        "char": "月",
+        "pinyin": "yuè",
+        "compounds": [
+          "日月",
+          "月亮",
+          "月光"
+        ]
+      },
+      {
+        "char": "明",
+        "pinyin": "míng",
+        "compounds": [
+          "明天",
+          "明白",
+          "光明"
+        ]
+      },
+      {
+        "char": "田",
+        "pinyin": "tián",
+        "compounds": [
+          "田地",
+          "水田",
+          "农田"
+        ]
+      },
+      {
+        "char": "男",
+        "pinyin": "nán",
+        "compounds": [
+          "男生",
+          "男女",
+          "男子"
+        ]
+      },
+      {
+        "char": "小",
+        "pinyin": "xiǎo",
+        "compounds": [
+          "大小",
+          "小草",
+          "小孩"
+        ]
+      },
+      {
+        "char": "大",
+        "pinyin": "dà",
+        "compounds": [
+          "大小",
+          "大人",
+          "大地"
+        ]
+      },
+      {
+        "char": "土",
+        "pinyin": "tǔ",
+        "compounds": [
+          "土地",
+          "泥土",
+          "黄土"
+        ]
+      },
+      {
+        "char": "二",
+        "pinyin": "èr",
+        "compounds": [
+          "二月",
+          "二十",
+          "第二"
+        ]
+      },
+      {
+        "char": "人",
+        "pinyin": "rén",
+        "compounds": [
+          "人们",
+          "人口",
+          "大人"
+        ]
+      },
+      {
+        "char": "从",
+        "pinyin": "cóng",
+        "compounds": [
+          "从前",
+          "从来",
+          "跟从"
+        ]
+      },
+      {
+        "char": "三",
+        "pinyin": "sān",
+        "compounds": [
+          "三个",
+          "三天",
+          "三月"
+        ]
+      },
+      {
+        "char": "木",
+        "pinyin": "mù",
+        "compounds": [
+          "木头",
+          "树木",
+          "木马"
+        ]
+      },
+      {
+        "char": "一",
+        "pinyin": "yī",
+        "compounds": [
+          "一个",
+          "一天",
+          "一半"
+        ]
+      },
+      {
+        "char": "成",
+        "pinyin": "chéng",
+        "compounds": [
+          "成为",
+          "成长",
+          "成功"
+        ]
+      },
+      {
+        "char": "独",
+        "pinyin": "dú",
+        "compounds": [
+          "独木",
+          "独自",
+          "单独"
+        ]
+      },
+      {
+        "char": "黄",
+        "pinyin": "huáng",
+        "compounds": [
+          "黄土",
+          "黄色",
+          "金黄"
+        ]
+      },
+      {
+        "char": "变",
+        "pinyin": "biàn",
+        "compounds": [
+          "变成",
+          "变化",
+          "改变"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "力",
+        "pinyin": "lì",
+        "compounds": [
+          "力气",
+          "用力",
+          "力量"
+        ]
+      },
+      {
+        "char": "男",
+        "pinyin": "nán",
+        "compounds": [
+          "男生",
+          "男女",
+          "男子"
+        ]
+      },
+      {
+        "char": "土",
+        "pinyin": "tǔ",
+        "compounds": [
+          "土地",
+          "泥土",
+          "黄土"
+        ]
+      },
+      {
+        "char": "木",
+        "pinyin": "mù",
+        "compounds": [
+          "木头",
+          "树木",
+          "木马"
+        ]
+      },
+      {
+        "char": "心",
+        "pinyin": "xīn",
+        "compounds": [
+          "心情",
+          "爱心",
+          "心里"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "识字7",
+    "title": "小书包",
+    "author": "佚名",
+    "words": [
+      {
+        "char": "包",
+        "pinyin": "bāo",
+        "compounds": [
+          "书包",
+          "包子",
+          "面包"
+        ]
+      },
+      {
+        "char": "尺",
+        "pinyin": "chǐ",
+        "compounds": [
+          "尺子",
+          "直尺",
+          "尺寸"
+        ]
+      },
+      {
+        "char": "作",
+        "pinyin": "zuò",
+        "compounds": [
+          "作业",
+          "工作",
+          "做事"
+        ]
+      },
+      {
+        "char": "业",
+        "pinyin": "yè",
+        "compounds": [
+          "作业",
+          "工业",
+          "学业"
+        ]
+      },
+      {
+        "char": "笔",
+        "pinyin": "bǐ",
+        "compounds": [
+          "铅笔",
+          "毛笔",
+          "画笔"
+        ]
+      },
+      {
+        "char": "刀",
+        "pinyin": "dāo",
+        "compounds": [
+          "小刀",
+          "刀子",
+          "刀片"
+        ]
+      },
+      {
+        "char": "宝",
+        "pinyin": "bǎo",
+        "compounds": [
+          "宝贝",
+          "宝宝",
+          "宝石"
+        ]
+      },
+      {
+        "char": "贝",
+        "pinyin": "bèi",
+        "compounds": [
+          "宝贝",
+          "贝壳",
+          "扇贝"
+        ]
+      },
+      {
+        "char": "少",
+        "pinyin": "shǎo",
+        "compounds": [
+          "多少",
+          "很少",
+          "少数"
+        ]
+      },
+      {
+        "char": "课",
+        "pinyin": "kè",
+        "compounds": [
+          "上课",
+          "课文",
+          "课堂"
+        ]
+      },
+      {
+        "char": "早",
+        "pinyin": "zǎo",
+        "compounds": [
+          "早上",
+          "早晨",
+          "早晚"
+        ]
+      },
+      {
+        "char": "橡",
+        "pinyin": "xiàng",
+        "compounds": [
+          "橡皮",
+          "橡胶",
+          "橡树"
+        ]
+      },
+      {
+        "char": "皮",
+        "pinyin": "pí",
+        "compounds": [
+          "橡皮",
+          "皮毛",
+          "果皮"
+        ]
+      },
+      {
+        "char": "本",
+        "pinyin": "běn",
+        "compounds": [
+          "书本",
+          "本子",
+          "课本"
+        ]
+      },
+      {
+        "char": "袋",
+        "pinyin": "dài",
+        "compounds": [
+          "笔袋",
+          "口袋",
+          "袋子"
+        ]
+      },
+      {
+        "char": "铅",
+        "pinyin": "qiān",
+        "compounds": [
+          "铅笔",
+          "铅丝",
+          "铅块"
+        ]
+      },
+      {
+        "char": "转",
+        "pinyin": "zhuàn",
+        "compounds": [
+          "转笔刀",
+          "转动",
+          "转圈"
+        ]
+      },
+      {
+        "char": "我",
+        "pinyin": "wǒ",
+        "compounds": [
+          "我们",
+          "我的",
+          "自我"
+        ]
+      },
+      {
+        "char": "的",
+        "pinyin": "de",
+        "compounds": [
+          "我的",
+          "好的",
+          "是的"
+        ]
+      },
+      {
+        "char": "小",
+        "pinyin": "xiǎo",
+        "compounds": [
+          "大小",
+          "小草",
+          "小孩"
+        ]
+      },
+      {
+        "char": "书",
+        "pinyin": "shū",
+        "compounds": [
+          "书本",
+          "看书",
+          "书包"
+        ]
+      },
+      {
+        "char": "真",
+        "pinyin": "zhēn",
+        "compounds": [
+          "真不",
+          "真心",
+          "真实"
+        ]
+      },
+      {
+        "char": "不",
+        "pinyin": "bù",
+        "compounds": [
+          "不是",
+          "不要",
+          "不用"
+        ]
+      },
+      {
+        "char": "课",
+        "pinyin": "kè",
+        "compounds": [
+          "课本",
+          "上课",
+          "课文"
+        ]
+      },
+      {
+        "char": "天",
+        "pinyin": "tiān",
+        "compounds": [
+          "天天",
+          "天空",
+          "白天"
+        ]
+      },
+      {
+        "char": "起",
+        "pinyin": "qǐ",
+        "compounds": [
+          "起得早",
+          "起来",
+          "起立"
+        ]
+      },
+      {
+        "char": "得",
+        "pinyin": "de",
+        "compounds": [
+          "起得早",
+          "跑得快",
+          "跳得高"
+        ]
+      },
+      {
+        "char": "陪",
+        "pinyin": "péi",
+        "compounds": [
+          "陪我",
+          "陪伴",
+          "陪同"
+        ]
+      },
+      {
+        "char": "去",
+        "pinyin": "qù",
+        "compounds": [
+          "去学校",
+          "回去",
+          "过去"
+        ]
+      },
+      {
+        "char": "学",
+        "pinyin": "xué",
+        "compounds": [
+          "学校",
+          "学习",
+          "学生"
+        ]
+      },
+      {
+        "char": "校",
+        "pinyin": "xiào",
+        "compounds": [
+          "学校",
+          "校园",
+          "校长"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "尺",
+        "pinyin": "chǐ",
+        "compounds": [
+          "尺子",
+          "直尺",
+          "尺寸"
+        ]
+      },
+      {
+        "char": "本",
+        "pinyin": "běn",
+        "compounds": [
+          "书本",
+          "本子",
+          "课本"
+        ]
+      },
+      {
+        "char": "刀",
+        "pinyin": "dāo",
+        "compounds": [
+          "小刀",
+          "刀子",
+          "刀片"
+        ]
+      },
+      {
+        "char": "不",
+        "pinyin": "bù",
+        "compounds": [
+          "不是",
+          "不要",
+          "不用"
+        ]
+      },
+      {
+        "char": "少",
+        "pinyin": "shǎo",
+        "compounds": [
+          "多少",
+          "很少",
+          "少数"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "识字8",
+    "title": "升国旗",
+    "author": "佚名",
+    "words": [
+      {
+        "char": "升",
+        "pinyin": "shēng",
+        "compounds": [
+          "升起",
+          "上升",
+          "升高"
+        ]
+      },
+      {
+        "char": "国",
+        "pinyin": "guó",
+        "compounds": [
+          "国家",
+          "中国",
+          "国旗"
+        ]
+      },
+      {
+        "char": "旗",
+        "pinyin": "qí",
+        "compounds": [
+          "国旗",
+          "红旗",
+          "旗帜"
+        ]
+      },
+      {
+        "char": "中",
+        "pinyin": "zhōng",
+        "compounds": [
+          "中国",
+          "中间",
+          "中心"
+        ]
+      },
+      {
+        "char": "们",
+        "pinyin": "men",
+        "compounds": [
+          "我们",
+          "他们",
+          "人们"
+        ]
+      },
+      {
+        "char": "声",
+        "pinyin": "shēng",
+        "compounds": [
+          "歌声",
+          "声音",
+          "叫声"
+        ]
+      },
+      {
+        "char": "起",
+        "pinyin": "qǐ",
+        "compounds": [
+          "升起",
+          "起来",
+          "起立"
+        ]
+      },
+      {
+        "char": "多",
+        "pinyin": "duō",
+        "compounds": [
+          "多么",
+          "很多",
+          "许多"
+        ]
+      },
+      {
+        "char": "么",
+        "pinyin": "me",
+        "compounds": [
+          "多么",
+          "什么",
+          "那么"
+        ]
+      },
+      {
+        "char": "向",
+        "pinyin": "xiàng",
+        "compounds": [
+          "向着",
+          "方向",
+          "向往"
+        ]
+      },
+      {
+        "char": "立",
+        "pinyin": "lì",
+        "compounds": [
+          "立正",
+          "站立",
+          "起立"
+        ]
+      },
+      {
+        "char": "五",
+        "pinyin": "wǔ",
+        "compounds": [
+          "五星",
+          "五个",
+          "五天"
+        ]
+      },
+      {
+        "char": "星",
+        "pinyin": "xīng",
+        "compounds": [
+          "五星",
+          "星星",
+          "星空"
+        ]
+      },
+      {
+        "char": "红",
+        "pinyin": "hóng",
+        "compounds": [
+          "红旗",
+          "红色",
+          "红花"
+        ]
+      },
+      {
+        "char": "歌",
+        "pinyin": "gē",
+        "compounds": [
+          "国歌",
+          "唱歌",
+          "歌曲"
+        ]
+      },
+      {
+        "char": "徐",
+        "pinyin": "xú",
+        "compounds": [
+          "徐徐",
+          "徐缓",
+          "徐步"
+        ]
+      },
+      {
+        "char": "迎",
+        "pinyin": "yíng",
+        "compounds": [
+          "迎风",
+          "迎接",
+          "欢迎"
+        ]
+      },
+      {
+        "char": "风",
+        "pinyin": "fēng",
+        "compounds": [
+          "迎风",
+          "大风",
+          "风雨"
+        ]
+      },
+      {
+        "char": "飘",
+        "pinyin": "piāo",
+        "compounds": [
+          "飘扬",
+          "飘落",
+          "飘雪"
+        ]
+      },
+      {
+        "char": "扬",
+        "pinyin": "yáng",
+        "compounds": [
+          "飘扬",
+          "飞扬",
+          "表扬"
+        ]
+      },
+      {
+        "char": "美",
+        "pinyin": "měi",
+        "compounds": [
+          "美丽",
+          "美好",
+          "美女"
+        ]
+      },
+      {
+        "char": "丽",
+        "pinyin": "lì",
+        "compounds": [
+          "美丽",
+          "秀丽",
+          "华丽"
+        ]
+      },
+      {
+        "char": "着",
+        "pinyin": "zhe",
+        "compounds": [
+          "向着",
+          "看着",
+          "拿着"
+        ]
+      },
+      {
+        "char": "我",
+        "pinyin": "wǒ",
+        "compounds": [
+          "我们",
+          "我的",
+          "自我"
+        ]
+      },
+      {
+        "char": "望",
+        "pinyin": "wàng",
+        "compounds": [
+          "望着",
+          "看望",
+          "远望"
+        ]
+      },
+      {
+        "char": "敬",
+        "pinyin": "jìng",
+        "compounds": [
+          "敬礼",
+          "尊敬",
+          "敬爱"
+        ]
+      },
+      {
+        "char": "礼",
+        "pinyin": "lǐ",
+        "compounds": [
+          "敬礼",
+          "礼物",
+          "礼貌"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "中",
+        "pinyin": "zhōng",
+        "compounds": [
+          "中国",
+          "中间",
+          "中心"
+        ]
+      },
+      {
+        "char": "五",
+        "pinyin": "wǔ",
+        "compounds": [
+          "五星",
+          "五个",
+          "五天"
+        ]
+      },
+      {
+        "char": "风",
+        "pinyin": "fēng",
+        "compounds": [
+          "大风",
+          "风雨",
+          "春风"
+        ]
+      },
+      {
+        "char": "立",
+        "pinyin": "lì",
+        "compounds": [
+          "立正",
+          "站立",
+          "起立"
+        ]
+      },
+      {
+        "char": "正",
+        "pinyin": "zhèng",
+        "compounds": [
+          "立正",
+          "正好",
+          "正反"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "语文园地六",
+    "title": "语文园地六",
+    "author": "教育部组织编写",
+    "words": [
+      {
+        "char": "老",
+        "pinyin": "lǎo",
+        "compounds": [
+          "老师",
+          "老人",
+          "老家"
+        ]
+      },
+      {
+        "char": "师",
+        "pinyin": "shī",
+        "compounds": [
+          "老师",
+          "教师",
+          "师傅"
+        ]
+      },
+      {
+        "char": "工",
+        "pinyin": "gōng",
+        "compounds": [
+          "工厂",
+          "工人",
+          "工作"
+        ]
+      },
+      {
+        "char": "厂",
+        "pinyin": "chǎng",
+        "compounds": [
+          "工厂",
+          "厂房",
+          "厂子"
+        ]
+      },
+      {
+        "char": "医",
+        "pinyin": "yī",
+        "compounds": [
+          "医院",
+          "医生",
+          "医治"
+        ]
+      },
+      {
+        "char": "院",
+        "pinyin": "yuàn",
+        "compounds": [
+          "医院",
+          "院子",
+          "学院"
+        ]
+      },
+      {
+        "char": "生",
+        "pinyin": "shēng",
+        "compounds": [
+          "医生",
+          "学生",
+          "生活"
+        ]
+      },
+      {
+        "char": "门",
+        "pinyin": "mén",
+        "compounds": [
+          "门卫",
+          "大门",
+          "门口"
+        ]
+      },
+      {
+        "char": "卫",
+        "pinyin": "wèi",
+        "compounds": [
+          "门卫",
+          "卫生",
+          "保卫"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "工",
+        "pinyin": "gōng",
+        "compounds": [
+          "工厂",
+          "工人",
+          "工作"
+        ]
+      },
+      {
+        "char": "厂",
+        "pinyin": "chǎng",
+        "compounds": [
+          "工厂",
+          "厂房",
+          "厂子"
+        ]
+      },
+      {
+        "char": "门",
+        "pinyin": "mén",
+        "compounds": [
+          "门卫",
+          "大门",
+          "门口"
+        ]
+      },
+      {
+        "char": "卫",
+        "pinyin": "wèi",
+        "compounds": [
+          "门卫",
+          "卫生",
+          "保卫"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "小小的船",
+    "author": "叶圣陶",
+    "words": [
+      {
+        "char": "船",
+        "pinyin": "chuán",
+        "compounds": [
+          "小船",
+          "飞船",
+          "船只"
+        ]
+      },
+      {
+        "char": "弯",
+        "pinyin": "wān",
+        "compounds": [
+          "弯弯",
+          "弯曲",
+          "弯腰"
+        ]
+      },
+      {
+        "char": "儿",
+        "pinyin": "ér",
+        "compounds": [
+          "月儿",
+          "儿子",
+          "儿女"
+        ]
+      },
+      {
+        "char": "两",
+        "pinyin": "liǎng",
+        "compounds": [
+          "两个",
+          "两头",
+          "两天"
+        ]
+      },
+      {
+        "char": "头",
+        "pinyin": "tóu",
+        "compounds": [
+          "两头",
+          "头发",
+          "木头"
+        ]
+      },
+      {
+        "char": "在",
+        "pinyin": "zài",
+        "compounds": [
+          "在里",
+          "正在",
+          "现在"
+        ]
+      },
+      {
+        "char": "里",
+        "pinyin": "lǐ",
+        "compounds": [
+          "里面",
+          "心里",
+          "手里"
+        ]
+      },
+      {
+        "char": "看",
+        "pinyin": "kàn",
+        "compounds": [
+          "看见",
+          "看到",
+          "看书"
+        ]
+      },
+      {
+        "char": "见",
+        "pinyin": "jiàn",
+        "compounds": [
+          "看见",
+          "见面",
+          "听见"
+        ]
+      },
+      {
+        "char": "闪",
+        "pinyin": "shǎn",
+        "compounds": [
+          "闪闪",
+          "闪光",
+          "闪亮"
+        ]
+      },
+      {
+        "char": "的",
+        "pinyin": "de",
+        "compounds": [
+          "小小的",
+          "好的",
+          "我的"
+        ]
+      },
+      {
+        "char": "小",
+        "pinyin": "xiǎo",
+        "compounds": [
+          "大小",
+          "小草",
+          "小孩"
+        ]
+      },
+      {
+        "char": "尖",
+        "pinyin": "jiān",
+        "compounds": [
+          "两头尖",
+          "尖刀",
+          "笔尖"
+        ]
+      },
+      {
+        "char": "我",
+        "pinyin": "wǒ",
+        "compounds": [
+          "我在",
+          "我们",
+          "我的"
+        ]
+      },
+      {
+        "char": "坐",
+        "pinyin": "zuò",
+        "compounds": [
+          "坐下",
+          "坐车",
+          "坐立"
+        ]
+      },
+      {
+        "char": "只",
+        "pinyin": "zhǐ",
+        "compounds": [
+          "只看见",
+          "只有",
+          "只是"
+        ]
+      },
+      {
+        "char": "星",
+        "pinyin": "xīng",
+        "compounds": [
+          "星星",
+          "星空",
+          "星光"
+        ]
+      },
+      {
+        "char": "星",
+        "pinyin": "xīng",
+        "compounds": [
+          "星星",
+          "星空",
+          "星光"
+        ]
+      },
+      {
+        "char": "蓝",
+        "pinyin": "lán",
+        "compounds": [
+          "蓝蓝的",
+          "蓝天",
+          "蓝色"
+        ]
+      },
+      {
+        "char": "蓝",
+        "pinyin": "lán",
+        "compounds": [
+          "蓝蓝的",
+          "蓝天",
+          "蓝色"
+        ]
+      },
+      {
+        "char": "天",
+        "pinyin": "tiān",
+        "compounds": [
+          "天空",
+          "白天",
+          "天地"
+        ]
+      },
+      {
+        "char": "月",
+        "pinyin": "yuè",
+        "compounds": [
+          "月儿",
+          "月亮",
+          "月光"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "月",
+        "pinyin": "yuè",
+        "compounds": [
+          "月儿",
+          "月亮",
+          "月光"
+        ]
+      },
+      {
+        "char": "儿",
+        "pinyin": "ér",
+        "compounds": [
+          "月儿",
+          "儿子",
+          "儿女"
+        ]
+      },
+      {
+        "char": "头",
+        "pinyin": "tóu",
+        "compounds": [
+          "两头",
+          "头发",
+          "木头"
+        ]
+      },
+      {
+        "char": "里",
+        "pinyin": "lǐ",
+        "compounds": [
+          "里面",
+          "心里",
+          "手里"
+        ]
+      },
+      {
+        "char": "见",
+        "pinyin": "jiàn",
+        "compounds": [
+          "看见",
+          "见面",
+          "听见"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "影子",
+    "author": "林焕彰",
+    "words": [
+      {
+        "char": "影",
+        "pinyin": "yǐng",
+        "compounds": [
+          "影子",
+          "身影",
+          "电影"
+        ]
+      },
+      {
+        "char": "前",
+        "pinyin": "qián",
+        "compounds": [
+          "前后",
+          "前面",
+          "前方"
+        ]
+      },
+      {
+        "char": "常",
+        "pinyin": "cháng",
+        "compounds": [
+          "常常",
+          "经常",
+          "平常"
+        ]
+      },
+      {
+        "char": "跟",
+        "pinyin": "gēn",
+        "compounds": [
+          "跟着",
+          "跟从",
+          "跟踪"
+        ]
+      },
+      {
+        "char": "着",
+        "pinyin": "zhe",
+        "compounds": [
+          "跟着",
+          "看着",
+          "拿着"
+        ]
+      },
+      {
+        "char": "我",
+        "pinyin": "wǒ",
+        "compounds": [
+          "跟着我",
+          "我们",
+          "我的"
+        ]
+      },
+      {
+        "char": "就",
+        "pinyin": "jiù",
+        "compounds": [
+          "就像",
+          "就是",
+          "成就"
+        ]
+      },
+      {
+        "char": "像",
+        "pinyin": "xiàng",
+        "compounds": [
+          "好像",
+          "画像",
+          "相像"
+        ]
+      },
+      {
+        "char": "一",
+        "pinyin": "yī",
+        "compounds": [
+          "一条",
+          "一个",
+          "一天"
+        ]
+      },
+      {
+        "char": "条",
+        "pinyin": "tiáo",
+        "compounds": [
+          "一条",
+          "条件",
+          "条理"
+        ]
+      },
+      {
+        "char": "小",
+        "pinyin": "xiǎo",
+        "compounds": [
+          "小黑狗",
+          "大小",
+          "小草"
+        ]
+      },
+      {
+        "char": "黑",
+        "pinyin": "hēi",
+        "compounds": [
+          "黑色",
+          "黑夜",
+          "乌黑"
+        ]
+      },
+      {
+        "char": "狗",
+        "pinyin": "gǒu",
+        "compounds": [
+          "小狗",
+          "花狗",
+          "狼狗"
+        ]
+      },
+      {
+        "char": "左",
+        "pinyin": "zuǒ",
+        "compounds": [
+          "左右",
+          "左边",
+          "左手"
+        ]
+      },
+      {
+        "char": "右",
+        "pinyin": "yòu",
+        "compounds": [
+          "左右",
+          "右边",
+          "右手"
+        ]
+      },
+      {
+        "char": "它",
+        "pinyin": "tā",
+        "compounds": [
+          "它是",
+          "它们",
+          "其它"
+        ]
+      },
+      {
+        "char": "好",
+        "pinyin": "hǎo",
+        "compounds": [
+          "好朋友",
+          "好人",
+          "美好"
+        ]
+      },
+      {
+        "char": "朋",
+        "pinyin": "péng",
+        "compounds": [
+          "朋友",
+          "亲朋",
+          "宾朋"
+        ]
+      },
+      {
+        "char": "友",
+        "pinyin": "yǒu",
+        "compounds": [
+          "朋友",
+          "友好",
+          "友情"
+        ]
+      },
+      {
+        "char": "在",
+        "pinyin": "zài",
+        "compounds": [
+          "在左",
+          "正在",
+          "现在"
+        ]
+      },
+      {
+        "char": "后",
+        "pinyin": "hòu",
+        "compounds": [
+          "在后",
+          "后面",
+          "后天"
+        ]
+      },
+      {
+        "char": "陪",
+        "pinyin": "péi",
+        "compounds": [
+          "陪着",
+          "陪伴",
+          "陪同"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "在",
+        "pinyin": "zài",
+        "compounds": [
+          "正在",
+          "现在",
+          "存在"
+        ]
+      },
+      {
+        "char": "我",
+        "pinyin": "wǒ",
+        "compounds": [
+          "我们",
+          "我的",
+          "自我"
+        ]
+      },
+      {
+        "char": "左",
+        "pinyin": "zuǒ",
+        "compounds": [
+          "左右",
+          "左边",
+          "左手"
+        ]
+      },
+      {
+        "char": "右",
+        "pinyin": "yòu",
+        "compounds": [
+          "左右",
+          "右边",
+          "右手"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "两件宝",
+    "author": "陶行知",
+    "words": [
+      {
+        "char": "件",
+        "pinyin": "jiàn",
+        "compounds": [
+          "一件",
+          "事件",
+          "文件"
+        ]
+      },
+      {
+        "char": "有",
+        "pinyin": "yǒu",
+        "compounds": [
+          "有两件",
+          "没有",
+          "拥有"
+        ]
+      },
+      {
+        "char": "和",
+        "pinyin": "hé",
+        "compounds": [
+          "和大脑",
+          "和平",
+          "和气"
+        ]
+      },
+      {
+        "char": "做",
+        "pinyin": "zuò",
+        "compounds": [
+          "做工",
+          "做事",
+          "做伴"
+        ]
+      },
+      {
+        "char": "工",
+        "pinyin": "gōng",
+        "compounds": [
+          "做工",
+          "工人",
+          "工作"
+        ]
+      },
+      {
+        "char": "也",
+        "pinyin": "yě",
+        "compounds": [
+          "也好",
+          "也是",
+          "也许"
+        ]
+      },
+      {
+        "char": "办",
+        "pinyin": "bàn",
+        "compounds": [
+          "办不到",
+          "办法",
+          "办公"
+        ]
+      },
+      {
+        "char": "到",
+        "pinyin": "dào",
+        "compounds": [
+          "办不到",
+          "来到",
+          "到达"
+        ]
+      },
+      {
+        "char": "又",
+        "pinyin": "yòu",
+        "compounds": [
+          "又用脑",
+          "又来",
+          "又是"
+        ]
+      },
+      {
+        "char": "才",
+        "pinyin": "cái",
+        "compounds": [
+          "才能",
+          "才华",
+          "天才"
+        ]
+      },
+      {
+        "char": "能",
+        "pinyin": "néng",
+        "compounds": [
+          "才能",
+          "能够",
+          "能力"
+        ]
+      },
+      {
+        "char": "创",
+        "pinyin": "chuàng",
+        "compounds": [
+          "创造",
+          "创新",
+          "创作"
+        ]
+      },
+      {
+        "char": "造",
+        "pinyin": "zào",
+        "compounds": [
+          "创造",
+          "建造",
+          "制造"
+        ]
+      },
+      {
+        "char": "人",
+        "pinyin": "rén",
+        "compounds": [
+          "人们",
+          "人口",
+          "大人"
+        ]
+      },
+      {
+        "char": "两",
+        "pinyin": "liǎng",
+        "compounds": [
+          "两个",
+          "两件",
+          "两天"
+        ]
+      },
+      {
+        "char": "宝",
+        "pinyin": "bǎo",
+        "compounds": [
+          "宝贝",
+          "宝宝",
+          "宝石"
+        ]
+      },
+      {
+        "char": "双",
+        "pinyin": "shuāng",
+        "compounds": [
+          "双手",
+          "双方",
+          "一双"
+        ]
+      },
+      {
+        "char": "手",
+        "pinyin": "shǒu",
+        "compounds": [
+          "双手",
+          "小手",
+          "手心"
+        ]
+      },
+      {
+        "char": "大",
+        "pinyin": "dà",
+        "compounds": [
+          "大小",
+          "大人",
+          "大地"
+        ]
+      },
+      {
+        "char": "脑",
+        "pinyin": "nǎo",
+        "compounds": [
+          "大脑",
+          "头脑",
+          "脑筋"
+        ]
+      },
+      {
+        "char": "会",
+        "pinyin": "huì",
+        "compounds": [
+          "会思考",
+          "学会",
+          "开会"
+        ]
+      },
+      {
+        "char": "思",
+        "pinyin": "sī",
+        "compounds": [
+          "思考",
+          "思念",
+          "思想"
+        ]
+      },
+      {
+        "char": "考",
+        "pinyin": "kǎo",
+        "compounds": [
+          "思考",
+          "考试",
+          "考虑"
+        ]
+      },
+      {
+        "char": "用",
+        "pinyin": "yòng",
+        "compounds": [
+          "不用",
+          "用心",
+          "有用"
+        ]
+      },
+      {
+        "char": "不",
+        "pinyin": "bù",
+        "compounds": [
+          "不用",
+          "不是",
+          "不要"
+        ]
+      },
+      {
+        "char": "事",
+        "pinyin": "shì",
+        "compounds": [
+          "事情",
+          "故事",
+          "好事"
+        ]
+      },
+      {
+        "char": "情",
+        "pinyin": "qíng",
+        "compounds": [
+          "事情",
+          "心情",
+          "情感"
+        ]
+      },
+      {
+        "char": "啥",
+        "pinyin": "shá",
+        "compounds": [
+          "啥也",
+          "啥事",
+          "啥人"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "和",
+        "pinyin": "hé",
+        "compounds": [
+          "和平",
+          "和气",
+          "和好"
+        ]
+      },
+      {
+        "char": "也",
+        "pinyin": "yě",
+        "compounds": [
+          "也是",
+          "也好",
+          "也许"
+        ]
+      },
+      {
+        "char": "又",
+        "pinyin": "yòu",
+        "compounds": [
+          "又来",
+          "又是",
+          "又大"
+        ]
+      },
+      {
+        "char": "才",
+        "pinyin": "cái",
+        "compounds": [
+          "才能",
+          "才华",
+          "天才"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "语文园地七",
+    "title": "语文园地七",
+    "author": "教育部组织编写",
+    "words": [
+      {
+        "char": "爷",
+        "pinyin": "yé",
+        "compounds": [
+          "爷爷",
+          "老爷",
+          "爷孙"
+        ]
+      },
+      {
+        "char": "奶",
+        "pinyin": "nǎi",
+        "compounds": [
+          "奶奶",
+          "牛奶",
+          "奶妈"
+        ]
+      },
+      {
+        "char": "叔",
+        "pinyin": "shū",
+        "compounds": [
+          "叔叔",
+          "大叔",
+          "叔父"
+        ]
+      },
+      {
+        "char": "姐",
+        "pinyin": "jiě",
+        "compounds": [
+          "姐姐",
+          "大姐",
+          "姐妹"
+        ]
+      },
+      {
+        "char": "妹",
+        "pinyin": "mèi",
+        "compounds": [
+          "妹妹",
+          "姐妹",
+          "小妹"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "比",
+        "pinyin": "bǐ",
+        "compounds": [
+          "对比",
+          "比较",
+          "比方"
+        ]
+      },
+      {
+        "char": "巴",
+        "pinyin": "bā",
+        "compounds": [
+          "尾巴",
+          "下巴",
+          "巴士"
+        ]
+      },
+      {
+        "char": "长",
+        "pinyin": "cháng",
+        "compounds": [
+          "长短",
+          "长江",
+          "很长"
+        ]
+      },
+      {
+        "char": "公",
+        "pinyin": "gōng",
+        "compounds": [
+          "公鸡",
+          "公开",
+          "公平"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "比尾巴",
+    "author": "程宏明",
+    "words": [
+      {
+        "char": "比",
+        "pinyin": "bǐ",
+        "compounds": [
+          "比尾巴",
+          "对比",
+          "比较"
+        ]
+      },
+      {
+        "char": "尾",
+        "pinyin": "wěi",
+        "compounds": [
+          "尾巴",
+          "结尾",
+          "末尾"
+        ]
+      },
+      {
+        "char": "巴",
+        "pinyin": "ba",
+        "compounds": [
+          "尾巴",
+          "下巴",
+          "巴士"
+        ]
+      },
+      {
+        "char": "谁",
+        "pinyin": "shuí",
+        "compounds": [
+          "谁的",
+          "谁人",
+          "谁家"
+        ]
+      },
+      {
+        "char": "长",
+        "pinyin": "cháng",
+        "compounds": [
+          "长短",
+          "长江",
+          "很长"
+        ]
+      },
+      {
+        "char": "短",
+        "pinyin": "duǎn",
+        "compounds": [
+          "长短",
+          "短小",
+          "短处"
+        ]
+      },
+      {
+        "char": "把",
+        "pinyin": "bǎ",
+        "compounds": [
+          "一把",
+          "把手",
+          "车把"
+        ]
+      },
+      {
+        "char": "伞",
+        "pinyin": "sǎn",
+        "compounds": [
+          "雨伞",
+          "打伞",
+          "伞兵"
+        ]
+      },
+      {
+        "char": "兔",
+        "pinyin": "tù",
+        "compounds": [
+          "兔子",
+          "小兔",
+          "白兔"
+        ]
+      },
+      {
+        "char": "最",
+        "pinyin": "zuì",
+        "compounds": [
+          "最好看",
+          "最好",
+          "最多"
+        ]
+      },
+      {
+        "char": "公",
+        "pinyin": "gōng",
+        "compounds": [
+          "公鸡",
+          "公开",
+          "公平"
+        ]
+      },
+      {
+        "char": "鸡",
+        "pinyin": "jī",
+        "compounds": [
+          "公鸡",
+          "小鸡",
+          "母鸡"
+        ]
+      },
+      {
+        "char": "弯",
+        "pinyin": "wān",
+        "compounds": [
+          "尾巴弯",
+          "弯曲",
+          "弯腰"
+        ]
+      },
+      {
+        "char": "扁",
+        "pinyin": "biǎn",
+        "compounds": [
+          "尾巴扁",
+          "扁平",
+          "扁担"
+        ]
+      },
+      {
+        "char": "鸭",
+        "pinyin": "yā",
+        "compounds": [
+          "鸭子",
+          "小鸭",
+          "鸭蛋"
+        ]
+      },
+      {
+        "char": "孔",
+        "pinyin": "kǒng",
+        "compounds": [
+          "孔雀",
+          "小孔",
+          "毛孔"
+        ]
+      },
+      {
+        "char": "雀",
+        "pinyin": "què",
+        "compounds": [
+          "孔雀",
+          "麻雀",
+          "云雀"
+        ]
+      },
+      {
+        "char": "好",
+        "pinyin": "hǎo",
+        "compounds": [
+          "好看",
+          "好人",
+          "美好"
+        ]
+      },
+      {
+        "char": "看",
+        "pinyin": "kàn",
+        "compounds": [
+          "好看",
+          "看见",
+          "看书"
+        ]
+      },
+      {
+        "char": "猴",
+        "pinyin": "hóu",
+        "compounds": [
+          "猴子",
+          "小猴",
+          "猴王"
+        ]
+      },
+      {
+        "char": "子",
+        "pinyin": "zi",
+        "compounds": [
+          "猴子",
+          "兔子",
+          "儿子"
+        ]
+      },
+      {
+        "char": "松",
+        "pinyin": "sōng",
+        "compounds": [
+          "松鼠",
+          "松树",
+          "松柏"
+        ]
+      },
+      {
+        "char": "鼠",
+        "pinyin": "shǔ",
+        "compounds": [
+          "松鼠",
+          "老鼠",
+          "鼠目"
+        ]
+      },
+      {
+        "char": "好",
+        "pinyin": "hǎo",
+        "compounds": [
+          "好像",
+          "好人",
+          "美好"
+        ]
+      },
+      {
+        "char": "像",
+        "pinyin": "xiàng",
+        "compounds": [
+          "好像",
+          "画像",
+          "相像"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "只",
+        "pinyin": "zhī",
+        "compounds": [
+          "一只",
+          "只身",
+          "只有"
+        ]
+      },
+      {
+        "char": "个",
+        "pinyin": "gè",
+        "compounds": [
+          "一个",
+          "个体",
+          "几个"
+        ]
+      },
+      {
+        "char": "多",
+        "pinyin": "duō",
+        "compounds": [
+          "多少",
+          "很多",
+          "许多"
+        ]
+      },
+      {
+        "char": "石",
+        "pinyin": "shí",
+        "compounds": [
+          "石头",
+          "石子",
+          "石块"
+        ]
+      },
+      {
+        "char": "出",
+        "pinyin": "chū",
+        "compounds": [
+          "出来",
+          "出去",
+          "出口"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "乌鸦喝水",
+    "author": "伊索寓言改写",
+    "words": [
+      {
+        "char": "喝",
+        "pinyin": "hē",
+        "compounds": [
+          "喝水",
+          "喝茶",
+          "喝汤"
+        ]
+      },
+      {
+        "char": "只",
+        "pinyin": "zhī",
+        "compounds": [
+          "一只",
+          "只身",
+          "只有"
+        ]
+      },
+      {
+        "char": "处",
+        "pinyin": "chù",
+        "compounds": [
+          "到处",
+          "处处",
+          "处所"
+        ]
+      },
+      {
+        "char": "找",
+        "pinyin": "zhǎo",
+        "compounds": [
+          "找水",
+          "找到",
+          "寻找"
+        ]
+      },
+      {
+        "char": "着",
+        "pinyin": "zháo",
+        "compounds": [
+          "喝不着",
+          "着火",
+          "着急"
+        ]
+      },
+      {
+        "char": "许",
+        "pinyin": "xǔ",
+        "compounds": [
+          "许多",
+          "也许",
+          "许可"
+        ]
+      },
+      {
+        "char": "石",
+        "pinyin": "shí",
+        "compounds": [
+          "石子",
+          "石头",
+          "石块"
+        ]
+      },
+      {
+        "char": "子",
+        "pinyin": "zi",
+        "compounds": [
+          "石子",
+          "儿子",
+          "叶子"
+        ]
+      },
+      {
+        "char": "出",
+        "pinyin": "chū",
+        "compounds": [
+          "想出",
+          "出来",
+          "出去"
+        ]
+      },
+      {
+        "char": "法",
+        "pinyin": "fǎ",
+        "compounds": [
+          "办法",
+          "方法",
+          "法律"
+        ]
+      },
+      {
+        "char": "放",
+        "pinyin": "fàng",
+        "compounds": [
+          "放进",
+          "放学",
+          "放下"
+        ]
+      },
+      {
+        "char": "进",
+        "pinyin": "jìn",
+        "compounds": [
+          "放进",
+          "进入",
+          "进来"
+        ]
+      },
+      {
+        "char": "高",
+        "pinyin": "gāo",
+        "compounds": [
+          "升高",
+          "高大",
+          "高低"
+        ]
+      },
+      {
+        "char": "乌",
+        "pinyin": "wū",
+        "compounds": [
+          "乌鸦",
+          "乌云",
+          "乌黑"
+        ]
+      },
+      {
+        "char": "鸦",
+        "pinyin": "yā",
+        "compounds": [
+          "乌鸦",
+          "寒鸦",
+          "鸦雀"
+        ]
+      },
+      {
+        "char": "口",
+        "pinyin": "kǒu",
+        "compounds": [
+          "口渴",
+          "口水",
+          "开口"
+        ]
+      },
+      {
+        "char": "渴",
+        "pinyin": "kě",
+        "compounds": [
+          "口渴",
+          "干渴",
+          "渴望"
+        ]
+      },
+      {
+        "char": "了",
+        "pinyin": "le",
+        "compounds": [
+          "口渴了",
+          "好了",
+          "来了"
+        ]
+      },
+      {
+        "char": "到",
+        "pinyin": "dào",
+        "compounds": [
+          "到处",
+          "来到",
+          "到达"
+        ]
+      },
+      {
+        "char": "看",
+        "pinyin": "kàn",
+        "compounds": [
+          "看见",
+          "看到",
+          "看书"
+        ]
+      },
+      {
+        "char": "见",
+        "pinyin": "jiàn",
+        "compounds": [
+          "看见",
+          "见面",
+          "听见"
+        ]
+      },
+      {
+        "char": "一",
+        "pinyin": "yī",
+        "compounds": [
+          "一个",
+          "一天",
+          "一半"
+        ]
+      },
+      {
+        "char": "个",
+        "pinyin": "gè",
+        "compounds": [
+          "一个",
+          "个体",
+          "几个"
+        ]
+      },
+      {
+        "char": "瓶",
+        "pinyin": "píng",
+        "compounds": [
+          "瓶子",
+          "花瓶",
+          "水瓶"
+        ]
+      },
+      {
+        "char": "瓶",
+        "pinyin": "píng",
+        "compounds": [
+          "瓶子",
+          "花瓶",
+          "水瓶"
+        ]
+      },
+      {
+        "char": "里",
+        "pinyin": "lǐ",
+        "compounds": [
+          "瓶子里",
+          "里面",
+          "心里"
+        ]
+      },
+      {
+        "char": "有",
+        "pinyin": "yǒu",
+        "compounds": [
+          "有水",
+          "没有",
+          "拥有"
+        ]
+      },
+      {
+        "char": "水",
+        "pinyin": "shuǐ",
+        "compounds": [
+          "喝水",
+          "河水",
+          "山水"
+        ]
+      },
+      {
+        "char": "但",
+        "pinyin": "dàn",
+        "compounds": [
+          "但是",
+          "不但",
+          "但愿"
+        ]
+      },
+      {
+        "char": "是",
+        "pinyin": "shì",
+        "compounds": [
+          "但是",
+          "不是",
+          "可是"
+        ]
+      },
+      {
+        "char": "不",
+        "pinyin": "bù",
+        "compounds": [
+          "不多",
+          "不是",
+          "不要"
+        ]
+      },
+      {
+        "char": "多",
+        "pinyin": "duō",
+        "compounds": [
+          "不多",
+          "很多",
+          "许多"
+        ]
+      },
+      {
+        "char": "瓶",
+        "pinyin": "píng",
+        "compounds": [
+          "瓶口",
+          "瓶子",
+          "花瓶"
+        ]
+      },
+      {
+        "char": "口",
+        "pinyin": "kǒu",
+        "compounds": [
+          "瓶口",
+          "口水",
+          "开口"
+        ]
+      },
+      {
+        "char": "又",
+        "pinyin": "yòu",
+        "compounds": [
+          "又小",
+          "又来",
+          "又是"
+        ]
+      },
+      {
+        "char": "小",
+        "pinyin": "xiǎo",
+        "compounds": [
+          "又小",
+          "大小",
+          "小草"
+        ]
+      },
+      {
+        "char": "怎",
+        "pinyin": "zěn",
+        "compounds": [
+          "怎么",
+          "怎样",
+          "怎的"
+        ]
+      },
+      {
+        "char": "么",
+        "pinyin": "me",
+        "compounds": [
+          "怎么",
+          "什么",
+          "那么"
+        ]
+      },
+      {
+        "char": "办",
+        "pinyin": "bàn",
+        "compounds": [
+          "怎么办",
+          "办法",
+          "办公"
+        ]
+      },
+      {
+        "char": "呢",
+        "pinyin": "ne",
+        "compounds": [
+          "怎么办呢",
+          "好呢",
+          "行呢"
+        ]
+      },
+      {
+        "char": "旁",
+        "pinyin": "páng",
+        "compounds": [
+          "旁边",
+          "身旁",
+          "两旁"
+        ]
+      },
+      {
+        "char": "边",
+        "pinyin": "biān",
+        "compounds": [
+          "旁边",
+          "河边",
+          "身边"
+        ]
+      },
+      {
+        "char": "颗",
+        "pinyin": "kē",
+        "compounds": [
+          "一颗",
+          "颗粒",
+          "颗数"
+        ]
+      },
+      {
+        "char": "颗",
+        "pinyin": "kē",
+        "compounds": [
+          "一颗",
+          "颗粒",
+          "颗数"
+        ]
+      },
+      {
+        "char": "地",
+        "pinyin": "de",
+        "compounds": [
+          "一颗一颗地",
+          "好的",
+          "我的"
+        ]
+      },
+      {
+        "char": "渐",
+        "pinyin": "jiàn",
+        "compounds": [
+          "渐渐",
+          "逐渐",
+          "渐进"
+        ]
+      },
+      {
+        "char": "渐",
+        "pinyin": "jiàn",
+        "compounds": [
+          "渐渐",
+          "逐渐",
+          "渐进"
+        ]
+      },
+      {
+        "char": "升",
+        "pinyin": "shēng",
+        "compounds": [
+          "升高",
+          "上升",
+          "升起"
+        ]
+      },
+      {
+        "char": "就",
+        "pinyin": "jiù",
+        "compounds": [
+          "就喝着",
+          "就是",
+          "成就"
+        ]
+      },
+      {
+        "char": "着",
+        "pinyin": "zháo",
+        "compounds": [
+          "喝着水了",
+          "着火",
+          "着急"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "你",
+        "pinyin": "nǐ",
+        "compounds": [
+          "你们",
+          "你好",
+          "你的"
+        ]
+      },
+      {
+        "char": "来",
+        "pinyin": "lái",
+        "compounds": [
+          "回来",
+          "来到",
+          "过来"
+        ]
+      },
+      {
+        "char": "半",
+        "pinyin": "bàn",
+        "compounds": [
+          "一半",
+          "半天",
+          "半个"
+        ]
+      },
+      {
+        "char": "有",
+        "pinyin": "yǒu",
+        "compounds": [
+          "没有",
+          "拥有",
+          "有用"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "雨点儿",
+    "author": "金波",
+    "words": [
+      {
+        "char": "点",
+        "pinyin": "diǎn",
+        "compounds": [
+          "雨点儿",
+          "一点",
+          "点头"
+        ]
+      },
+      {
+        "char": "数",
+        "pinyin": "shǔ",
+        "compounds": [
+          "数不清",
+          "数数",
+          "数落"
+        ]
+      },
+      {
+        "char": "不",
+        "pinyin": "bù",
+        "compounds": [
+          "数不清",
+          "不是",
+          "不要"
+        ]
+      },
+      {
+        "char": "清",
+        "pinyin": "qīng",
+        "compounds": [
+          "数不清",
+          "清水",
+          "清洁"
+        ]
+      },
+      {
+        "char": "彩",
+        "pinyin": "cǎi",
+        "compounds": [
+          "云彩",
+          "彩色",
+          "彩虹"
+        ]
+      },
+      {
+        "char": "半",
+        "pinyin": "bàn",
+        "compounds": [
+          "半空",
+          "一半",
+          "半天"
+        ]
+      },
+      {
+        "char": "空",
+        "pinyin": "kōng",
+        "compounds": [
+          "半空",
+          "天空",
+          "空气"
+        ]
+      },
+      {
+        "char": "中",
+        "pinyin": "zhōng",
+        "compounds": [
+          "半空中",
+          "中间",
+          "中心"
+        ]
+      },
+      {
+        "char": "问",
+        "pinyin": "wèn",
+        "compounds": [
+          "问话",
+          "问题",
+          "请问"
+        ]
+      },
+      {
+        "char": "回",
+        "pinyin": "huí",
+        "compounds": [
+          "回答",
+          "回来",
+          "回去"
+        ]
+      },
+      {
+        "char": "答",
+        "pinyin": "dá",
+        "compounds": [
+          "回答",
+          "答案",
+          "答复"
+        ]
+      },
+      {
+        "char": "方",
+        "pinyin": "fāng",
+        "compounds": [
+          "地方",
+          "方向",
+          "方法"
+        ]
+      },
+      {
+        "char": "久",
+        "pinyin": "jiǔ",
+        "compounds": [
+          "不久",
+          "长久",
+          "久远"
+        ]
+      },
+      {
+        "char": "更",
+        "pinyin": "gèng",
+        "compounds": [
+          "更红",
+          "更好",
+          "更加"
+        ]
+      },
+      {
+        "char": "长",
+        "pinyin": "zhǎng",
+        "compounds": [
+          "长出",
+          "长大",
+          "生长"
+        ]
+      },
+      {
+        "char": "雨",
+        "pinyin": "yǔ",
+        "compounds": [
+          "下雨",
+          "雨水",
+          "大雨"
+        ]
+      },
+      {
+        "char": "儿",
+        "pinyin": "ér",
+        "compounds": [
+          "雨点儿",
+          "儿子",
+          "儿女"
+        ]
+      },
+      {
+        "char": "的",
+        "pinyin": "de",
+        "compounds": [
+          "雨点儿的",
+          "好的",
+          "我的"
+        ]
+      },
+      {
+        "char": "从",
+        "pinyin": "cóng",
+        "compounds": [
+          "从云彩里",
+          "从前",
+          "从来"
+        ]
+      },
+      {
+        "char": "云",
+        "pinyin": "yún",
+        "compounds": [
+          "云彩",
+          "白云",
+          "云朵"
+        ]
+      },
+      {
+        "char": "落",
+        "pinyin": "luò",
+        "compounds": [
+          "落下来",
+          "落下",
+          "飘落"
+        ]
+      },
+      {
+        "char": "下",
+        "pinyin": "xià",
+        "compounds": [
+          "落下来",
+          "下面",
+          "下雨"
+        ]
+      },
+      {
+        "char": "来",
+        "pinyin": "lái",
+        "compounds": [
+          "落下来",
+          "回来",
+          "来到"
+        ]
+      },
+      {
+        "char": "大",
+        "pinyin": "dà",
+        "compounds": [
+          "大雨点儿",
+          "大小",
+          "大人"
+        ]
+      },
+      {
+        "char": "小",
+        "pinyin": "xiǎo",
+        "compounds": [
+          "小雨点儿",
+          "大小",
+          "小草"
+        ]
+      },
+      {
+        "char": "你",
+        "pinyin": "nǐ",
+        "compounds": [
+          "你要",
+          "你们",
+          "你好"
+        ]
+      },
+      {
+        "char": "要",
+        "pinyin": "yào",
+        "compounds": [
+          "你要",
+          "不要",
+          "想要"
+        ]
+      },
+      {
+        "char": "到",
+        "pinyin": "dào",
+        "compounds": [
+          "到哪里",
+          "来到",
+          "到达"
+        ]
+      },
+      {
+        "char": "哪",
+        "pinyin": "nǎ",
+        "compounds": [
+          "哪里",
+          "哪个",
+          "哪儿"
+        ]
+      },
+      {
+        "char": "里",
+        "pinyin": "lǐ",
+        "compounds": [
+          "哪里",
+          "里面",
+          "心里"
+        ]
+      },
+      {
+        "char": "去",
+        "pinyin": "qù",
+        "compounds": [
+          "到哪里去",
+          "回去",
+          "过去"
+        ]
+      },
+      {
+        "char": "我",
+        "pinyin": "wǒ",
+        "compounds": [
+          "我要",
+          "我们",
+          "我的"
+        ]
+      },
+      {
+        "char": "花",
+        "pinyin": "huā",
+        "compounds": [
+          "有花",
+          "花朵",
+          "红花"
+        ]
+      },
+      {
+        "char": "草",
+        "pinyin": "cǎo",
+        "compounds": [
+          "有草",
+          "小草",
+          "草地"
+        ]
+      },
+      {
+        "char": "地",
+        "pinyin": "dì",
+        "compounds": [
+          "的地方",
+          "大地",
+          "土地"
+        ]
+      },
+      {
+        "char": "呢",
+        "pinyin": "ne",
+        "compounds": [
+          "你呢",
+          "好呢",
+          "行呢"
+        ]
+      },
+      {
+        "char": "没",
+        "pinyin": "méi",
+        "compounds": [
+          "没有",
+          "没人",
+          "没事"
+        ]
+      },
+      {
+        "char": "红",
+        "pinyin": "hóng",
+        "compounds": [
+          "花更红",
+          "红色",
+          "红花"
+        ]
+      },
+      {
+        "char": "了",
+        "pinyin": "le",
+        "compounds": [
+          "花更红了",
+          "好了",
+          "来了"
+        ]
+      },
+      {
+        "char": "绿",
+        "pinyin": "lǜ",
+        "compounds": [
+          "草更绿了",
+          "绿色",
+          "绿草"
+        ]
+      },
+      {
+        "char": "开",
+        "pinyin": "kāi",
+        "compounds": [
+          "开出了",
+          "开门",
+          "开花"
+        ]
+      },
+      {
+        "char": "出",
+        "pinyin": "chū",
+        "compounds": [
+          "开出了",
+          "出来",
+          "出去"
+        ]
+      }
+    ],
+    "mainWords": [
+      {
+        "char": "牛",
+        "pinyin": "niú",
+        "compounds": [
+          "小牛",
+          "水牛",
+          "牛羊"
+        ]
+      },
+      {
+        "char": "羊",
+        "pinyin": "yáng",
+        "compounds": [
+          "山羊",
+          "小羊",
+          "绵羊"
+        ]
+      },
+      {
+        "char": "果",
+        "pinyin": "guǒ",
+        "compounds": [
+          "水果",
+          "果子",
+          "苹果"
+        ]
+      },
+      {
+        "char": "白",
+        "pinyin": "bái",
+        "compounds": [
+          "白色",
+          "白云",
+          "白天"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "语文园地八",
+    "title": "语文园地八",
+    "author": "教育部组织编写",
+    "words": [
+      {
+        "char": "牛",
+        "pinyin": "niú",
+        "compounds": [
+          "小牛",
+          "水牛",
+          "牛羊"
+        ]
+      },
+      {
+        "char": "羊",
+        "pinyin": "yáng",
+        "compounds": [
+          "山羊",
+          "小羊",
+          "绵羊"
+        ]
+      },
+      {
+        "char": "爪",
+        "pinyin": "zhuǎ",
+        "compounds": [
+          "爪子",
+          "鸡爪",
+          "爪牙"
+        ]
+      },
+      {
+        "char": "旦",
+        "pinyin": "dàn",
+        "compounds": [
+          "元旦",
+          "旦夕",
+          "一旦"
+        ]
+      },
+      {
+        "char": "拼",
+        "pinyin": "pīn",
+        "compounds": [
+          "拼音",
+          "拼写",
+          "拼接"
+        ]
+      },
+      {
+        "char": "音",
+        "pinyin": "yīn",
+        "compounds": [
+          "拼音",
+          "音乐",
+          "声音"
+        ]
+      }
+    ],
+    "mainWords": []
+  }
+]
